@@ -1,11 +1,11 @@
 "use server"
 
-import { createActionClient } from "@/lib/supabase/server"
+import { createClient } from "@/lib/supabase/server"
 import { redirect } from "next/navigation"
 
 // Sign up a new user
 export async function signUp(email: string, password: string, fullName: string) {
-  const supabase = await createActionClient()
+  const supabase = await createClient()
 
   const { data, error } = await supabase.auth.signUp({
     email,
@@ -40,7 +40,7 @@ export async function signUp(email: string, password: string, fullName: string) 
 
 // Sign in an existing user
 export async function signIn(email: string, password: string) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   const { data, error } = await supabase.auth.signInWithPassword({
     email,
@@ -57,7 +57,7 @@ export async function signIn(email: string, password: string) {
 
 // Sign out the current user
 export async function signOut() {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   const { error } = await supabase.auth.signOut()
 
@@ -71,7 +71,7 @@ export async function signOut() {
 
 // Get the current user
 export async function getCurrentUser() {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   const {
     data: { session },

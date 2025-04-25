@@ -49,6 +49,7 @@ export default function LoginPage() {
           title: "Login successful",
           description: "Welcome back!",
         })
+        console.log(redirectPath);
         router.push(redirectPath)
       }
     } catch (error) {
@@ -82,6 +83,7 @@ export default function LoginPage() {
               <Input
                 id="email"
                 type="email"
+                name="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="m@example.com"
@@ -98,6 +100,7 @@ export default function LoginPage() {
               <Input
                 id="password"
                 type="password"
+                name="password"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
                 required
