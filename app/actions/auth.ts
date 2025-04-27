@@ -7,6 +7,14 @@ import { redirect } from "next/navigation"
 export async function signUp(email: string, password: string, fullName: string) {
   const supabase = await createClient()
 
+  // Construct the full URL dynamically
+  const baseUrl = process.env.VERCEL_URL
+    ? `https://${process.env.VERCEL_URL}`
+    : process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
+
+  const redirectPath = '/login?fromEmail=true'
+  const fullRedirectUrl = `${baseUrl}${redirectPath}`
+
   const { data, error } = await supabase.auth.signUp({
     email,
     password,
@@ -14,28 +22,16 @@ export async function signUp(email: string, password: string, fullName: string) 
       data: {
         full_name: fullName,
       },
+      emailRedirectTo: fullRedirectUrl,
     },
   })
 
   if (error) {
     console.error("Error signing up:", error)
-    return { error: error.message }
+    return { success: false, error: error.message }
+  } else {
+    return { success: true, data }
   }
-
-  // Create profile record
-  if (data.user) {
-    const { error: profileError } = await supabase.from("profiles").insert({
-      id: data.user.id,
-      full_name: fullName,
-    })
-
-    if (profileError) {
-      console.error("Error creating profile:", profileError)
-      return { error: "Failed to create user profile" }
-    }
-  }
-
-  return { success: true, user: data.user }
 }
 
 // Sign in an existing user

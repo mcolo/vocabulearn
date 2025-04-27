@@ -96,19 +96,14 @@ export default function RegisterPage() {
     try {
       const fullName = `${formData.firstName} ${formData.lastName}`
       const result = await signUp(formData.email, formData.password, fullName)
-
-      if (result.error) {
+      if (result.success === true) {
+        router.push("/confirm")
+      } else {
         toast({
           title: "Registration failed",
           description: result.error,
           variant: "destructive",
         })
-      } else {
-        toast({
-          title: "Registration successful",
-          description: "Please check your email to confirm your account.",
-        })
-        router.push("/confirm")
       }
     } catch (error) {
       toast({
