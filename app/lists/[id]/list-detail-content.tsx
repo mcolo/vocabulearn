@@ -278,33 +278,6 @@ export default function ListDetailContent({ id }: { id: string }) {
 
   return (
     <div className="flex flex-col min-h-screen">
-      <header className="border-b">
-        <div className="container flex items-center justify-between py-4">
-          <div className="flex items-center gap-2">
-            <BookOpen className="h-6 w-6" />
-            <Link href="/" className="text-xl font-bold">
-              VocabVault
-            </Link>
-          </div>
-          <nav className="hidden md:flex items-center gap-6">
-            <Link href="/lists" className="text-sm font-medium hover:underline underline">
-              My Lists
-            </Link>
-            <Link href="/learn" className="text-sm font-medium hover:underline">
-              Learn
-            </Link>
-            <Link href="/profile" className="text-sm font-medium hover:underline">
-              Profile
-            </Link>
-            <Link href="/about" className="text-sm font-medium hover:underline">
-              About
-            </Link>
-          </nav>
-          <Button variant="ghost" onClick={handleSignOut}>
-            Sign Out
-          </Button>
-        </div>
-      </header>
       <main className="flex-1 container py-8">
         <div className="flex items-center gap-2 mb-6">
           <Link href="/lists">

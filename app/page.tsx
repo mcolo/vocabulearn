@@ -1,35 +1,11 @@
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import { BookOpen, List, LogIn } from "lucide-react"
+import { BookOpen, List } from "lucide-react"
 
 export default function Home() {
+  
   return (
     <div className="flex flex-col min-h-screen">
-      <header className="border-b">
-        <div className="container flex items-center justify-between py-4">
-          <div className="flex items-center gap-2">
-            <BookOpen className="h-6 w-6" />
-            <span className="text-xl font-bold">VocabVault</span>
-          </div>
-          <nav className="hidden md:flex items-center gap-6">
-            <Link href="/lists" className="text-sm font-medium hover:underline">
-              My Lists
-            </Link>
-            <Link href="/learn" className="text-sm font-medium hover:underline">
-              Learn
-            </Link>
-            <Link href="/about" className="text-sm font-medium hover:underline">
-              About
-            </Link>
-          </nav>
-          <Link href="/login">
-            <Button>
-              <LogIn className="mr-2 h-4 w-4" />
-              Sign In
-            </Button>
-          </Link>
-        </div>
-      </header>
       <main className="flex-1">
         <section className="py-12 md:py-24 lg:py-32 bg-muted">
           <div className="container px-4 md:px-6">

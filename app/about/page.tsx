@@ -5,30 +5,6 @@ import { BookOpen } from "lucide-react"
 export default function AboutPage() {
   return (
     <div className="flex flex-col min-h-screen">
-      <header className="border-b">
-        <div className="container flex items-center justify-between py-4">
-          <div className="flex items-center gap-2">
-            <BookOpen className="h-6 w-6" />
-            <Link href="/" className="text-xl font-bold">
-              VocabVault
-            </Link>
-          </div>
-          <nav className="hidden md:flex items-center gap-6">
-            <Link href="/lists" className="text-sm font-medium hover:underline">
-              My Lists
-            </Link>
-            <Link href="/learn" className="text-sm font-medium hover:underline">
-              Learn
-            </Link>
-            <Link href="/about" className="text-sm font-medium hover:underline underline">
-              About
-            </Link>
-          </nav>
-          <Link href="/login">
-            <Button>Sign In</Button>
-          </Link>
-        </div>
-      </header>
       <main className="flex-1">
         <section className="py-12 md:py-24 lg:py-32">
           <div className="container px-4 md:px-6">
