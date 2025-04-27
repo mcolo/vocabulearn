@@ -8,7 +8,7 @@ import { useRouter, useSearchParams } from "next/navigation"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
-import { BookOpen } from "lucide-react"
+import { MailCheck } from "lucide-react"
 import { signIn } from "@/app/actions/auth"
 import { useToast } from "@/hooks/use-toast"
 
@@ -21,6 +21,7 @@ export default function LoginPage() {
   const router = useRouter()
   const searchParams = useSearchParams()
   const redirectPath = searchParams.get("redirect") || "/lists"
+  const fromEmail = searchParams.get("fromEmail") || null;
   const { toast } = useToast()
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -64,16 +65,29 @@ export default function LoginPage() {
     }
   }
 
+  function showToast() {
+    toast({
+      title: "Email confirmed",
+      description: "Thank you for confirming your email.",
+      variant: "success",
+    })
+  }
+
   return (
     <div className="flex min-h-screen flex-col">
       <div className="flex min-h-screen flex-col items-center justify-center px-4 py-8">
-        <Link href="/" className="flex items-center gap-2 mb-8">
-          <BookOpen className="h-6 w-6" />
-          <span className="text-xl font-bold">VocabVault</span>
-        </Link>
-        <div className="w-full max-w-md space-y-6">
-          <div className="space-y-2 text-center">
-            <h1 className="text-3xl font-bold">Welcome back</h1>
+        <div className="w-full max-w-md">
+          <div className="text-center">
+            <div >
+              {fromEmail !== null ? (
+                <>
+                  <div className="flex justify-center mb-2"><MailCheck className="w-20 h-20 [&_path:last-child]:stroke-emerald-600" /></div>
+                  <h1 className="text-3xl font-bold">Email Confirmed</h1>
+                </>
+              ) : (
+                <h1 className="text-3xl font-bold">Welcome Back</h1>
+              )}
+            </div>
             <p className="text-muted-foreground">Enter your credentials to sign in to your account</p>
           </div>
           {error && <div className="bg-destructive/15 text-destructive text-sm p-3 rounded-md">{error}</div>}
@@ -86,7 +100,7 @@ export default function LoginPage() {
                 name="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                placeholder="m@example.com"
+                placeholder="name@email.com"
                 required
               />
             </div>
