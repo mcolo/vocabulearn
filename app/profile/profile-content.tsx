@@ -3,7 +3,6 @@
 import type React from "react"
 
 import { useState, useEffect } from "react"
-import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
@@ -76,7 +75,7 @@ export default function ProfileContent() {
     setFormData((prev) => ({ ...prev, [name]: value }))
 
     // Clear error when user types
-    if (formErrors[name]) {
+    if (formErrors[name as keyof typeof formData]) {
       setFormErrors((prev) => ({ ...prev, [name]: "" }))
     }
   }
@@ -126,7 +125,7 @@ export default function ProfileContent() {
   }
 
   const handleUpdateProfile = async () => {
-    if (!validateProfileForm()) {
+    if (!validateProfileForm() || !user) {
       return
     }
 

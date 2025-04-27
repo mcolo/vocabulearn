@@ -108,7 +108,7 @@ export default function RegisterPage() {
           title: "Registration successful",
           description: "Please check your email to confirm your account.",
         })
-        router.push("/login")
+        router.push("/confirm")
       }
     } catch (error) {
       toast({
@@ -178,7 +178,7 @@ export default function RegisterPage() {
                 name="confirmPassword"
                 type="password"
                 value={formData.confirmPassword}
-                onChange={(e) => handleChange}
+                onChange={(e) => handleChange(e, "confirmPassword")}
                 required
               />
               {formErrors.confirmPassword && <p className="text-sm text-destructive">{formErrors.confirmPassword}</p>}
