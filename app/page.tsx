@@ -23,7 +23,7 @@ export default function Home() {
                 </p>
                 <div className="flex flex-col gap-2 sm:flex-row">
                   <Link href="/register">
-                    <Button size="lg">Get Started</Button>
+                    <Button variant="theme" size="lg">Get Started</Button>
                   </Link>
                   <Link href="/about">
                     <Button variant="outline" size="lg">
@@ -36,7 +36,7 @@ export default function Home() {
             </div>
           </div>
         </section>
-        <section className="py-12 md:py-24 lg:py-32 flex justify-center bg-slate-100">
+        <section className="py-12 md:py-24 lg:py-32 flex justify-center bg-muted">
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
