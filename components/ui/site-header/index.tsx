@@ -5,6 +5,7 @@ import { Button } from "../button";
 import { BookOpen, LogIn } from "lucide-react";
 import Link from "next/link";
 import { useAuth } from "@/components/auth-provider";
+import SiteLogo from "./site-logo";
 
 export default function SiteHeader() {
   const { user } = useAuth()
@@ -23,16 +24,15 @@ export default function SiteHeader() {
    */
   return (
     <>
-    <header className="border-b">
+    <header className="flex justify-center px-4">
       <div className="container flex items-center justify-between py-4">
         <div className="flex items-center gap-2">
-          <BookOpen className="h-6 w-6" />
           <Link href="/" className="text-xl font-bold">
-            VocabVault
+            <SiteLogo className="md:w-56 w-44" />
           </Link>
         </div>
-        <nav className="hidden md:flex items-center">
-          <Link href="/about">
+        <nav className="flex items-center">
+          <Link href="/about" className="mr-4">
             <Button variant="ghost">
               About
             </Button>

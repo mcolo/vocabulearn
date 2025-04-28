@@ -11,6 +11,7 @@ import { Label } from "@/components/ui/label"
 import { BookOpen } from "lucide-react"
 import { signUp } from "@/app/actions/auth"
 import { useToast } from "@/hooks/use-toast"
+import SiteHeader from "@/components/ui/site-header"
 
 export default function RegisterPage() {
   const [isLoading, setIsLoading] = useState(false)
@@ -117,12 +118,9 @@ export default function RegisterPage() {
   }
 
   return (
-    <div className="flex min-h-screen flex-col">
-      <div className="flex min-h-screen flex-col items-center justify-center px-4 py-8">
-        <Link href="/" className="flex items-center gap-2 mb-8">
-          <BookOpen className="h-6 w-6" />
-          <span className="text-xl font-bold">VocabVault</span>
-        </Link>
+    <div className="min-h-screen">
+      <SiteHeader />
+      <div className="flex flex-col items-center justify-center px-4 py-8">
         <div className="w-full max-w-md space-y-6">
           <div className="space-y-2 text-center">
             <h1 className="text-3xl font-bold">Create an account</h1>

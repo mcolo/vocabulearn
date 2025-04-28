@@ -11,6 +11,7 @@ import { Label } from "@/components/ui/label"
 import { MailCheck } from "lucide-react"
 import { signIn } from "@/app/actions/auth"
 import { useToast } from "@/hooks/use-toast"
+import SiteHeader from "@/components/ui/site-header"
 
 export default function LoginPage() {
   const [isLoading, setIsLoading] = useState(false)
@@ -74,8 +75,9 @@ export default function LoginPage() {
   }
 
   return (
-    <div className="flex min-h-screen flex-col">
-      <div className="flex min-h-screen flex-col items-center justify-center px-4 py-8">
+    <div className="min-h-screen">
+      <SiteHeader />
+      <div className="flex flex-col items-center justify-center px-4 py-8">
         <div className="w-full max-w-md">
           <div className="text-center">
             <div >

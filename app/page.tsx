@@ -1,13 +1,16 @@
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { BookOpen, List } from "lucide-react"
+import SiteHeader from "@/components/ui/site-header"
+import HeroImage from "@/components/ui/hero-image"
 
 export default function Home() {
   
   return (
     <div className="flex flex-col min-h-screen">
-      <main className="flex-1">
-        <section className="py-12 md:py-24 lg:py-32 bg-muted">
+      <SiteHeader />
+      <main>
+        <section className="w-full py-12 md:py-24 lg:py-32 flex justify-center">
           <div className="container px-4 md:px-6">
             <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">
               <div className="space-y-4">
@@ -29,39 +32,11 @@ export default function Home() {
                   </Link>
                 </div>
               </div>
-              <div className="rounded-lg border bg-background p-8">
-                <div className="flex items-center gap-2 mb-4">
-                  <List className="h-5 w-5" />
-                  <h3 className="font-semibold">Sample Word List: Literature Terms</h3>
-                </div>
-                <ul className="space-y-4">
-                  {[
-                    {
-                      word: "Allegory",
-                      definition:
-                        "A story, poem, or picture that can be interpreted to reveal a hidden meaning, typically a moral or political one.",
-                    },
-                    {
-                      word: "Metaphor",
-                      definition:
-                        "A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable.",
-                    },
-                    {
-                      word: "Protagonist",
-                      definition: "The leading character or one of the major characters in a story, play, or film.",
-                    },
-                  ].map((item, index) => (
-                    <li key={index} className="rounded-md border p-3">
-                      <div className="font-medium">{item.word}</div>
-                      <div className="text-sm text-muted-foreground mt-1">{item.definition}</div>
-                    </li>
-                  ))}
-                </ul>
-              </div>
+              <HeroImage className={"[&_path]:fill-foreground"}/>
             </div>
           </div>
         </section>
-        <section className="py-12 md:py-24 lg:py-32">
+        <section className="py-12 md:py-24 lg:py-32 flex justify-center bg-slate-100">
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
@@ -115,7 +90,7 @@ export default function Home() {
           </div>
         </section>
       </main>
-      <footer className="border-t py-6 md:py-8">
+      <footer className="bg-muted py-6 md:py-8 flex justify-center">
         <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
           <div className="flex items-center gap-2">
             <BookOpen className="h-5 w-5" />
