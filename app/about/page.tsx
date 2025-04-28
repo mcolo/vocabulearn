@@ -10,7 +10,7 @@ export default function AboutPage() {
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
-                <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">About VocabVault</h1>
+                <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">About Vocabulearn</h1>
                 <p className="text-muted-foreground md:text-xl max-w-[700px] mx-auto">
                   Our mission is to help you expand your vocabulary and retain new words through effective learning
                   techniques.
@@ -21,7 +21,7 @@ export default function AboutPage() {
               <div className="space-y-4">
                 <h2 className="text-2xl font-bold">The Science of Spaced Repetition</h2>
                 <p className="text-muted-foreground">
-                  VocabVault uses spaced repetition, a learning technique that incorporates increasing intervals of time
+                  Vocabulearn uses spaced repetition, a learning technique that incorporates increasing intervals of time
                   between reviews of previously learned material. This approach leverages the psychological spacing
                   effect, which demonstrates that information is more effectively memorized when reviewed over
                   increasing time intervals rather than all at once.
@@ -32,7 +32,7 @@ export default function AboutPage() {
                 </p>
               </div>
               <div className="space-y-4">
-                <h2 className="text-2xl font-bold">How VocabVault Works</h2>
+                <h2 className="text-2xl font-bold">How Vocabulearn Works</h2>
                 <ul className="space-y-2 text-muted-foreground">
                   <li className="flex items-start">
                     <span className="mr-2 rounded-full bg-primary text-primary-foreground p-1 text-xs">1</span>
@@ -71,7 +71,7 @@ export default function AboutPage() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">Who Can Benefit?</h2>
                 <p className="text-muted-foreground md:text-xl max-w-[700px] mx-auto">
-                  VocabVault is designed for anyone looking to expand their vocabulary and improve their language
+                  Vocabulearn is designed for anyone looking to expand their vocabulary and improve their language
                   skills.
                 </p>
               </div>
@@ -107,7 +107,7 @@ export default function AboutPage() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">Get Started Today</h2>
                 <p className="text-muted-foreground md:text-xl max-w-[700px] mx-auto">
-                  Join thousands of users who are expanding their vocabulary with VocabVault.
+                  Join thousands of users who are expanding their vocabulary with Vocabulearn.
                 </p>
               </div>
               <div className="flex flex-col gap-2 min-[400px]:flex-row">
@@ -128,10 +128,10 @@ export default function AboutPage() {
         <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
           <div className="flex items-center gap-2">
             <BookOpen className="h-5 w-5" />
-            <span className="font-semibold">VocabVault</span>
+            <span className="font-semibold">Vocabulearn</span>
           </div>
           <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} VocabVault. All rights reserved.
+            © {new Date().getFullYear()} Vocabulearn. All rights reserved.
           </p>
         </div>
       </footer>

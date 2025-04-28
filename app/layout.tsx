@@ -8,7 +8,7 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "VocabVault - Learn and Remember New Words",
+  title: "Vocabulearn - Learn and Remember New Words",
   description: "Create custom word lists and master new vocabulary with spaced repetition",
   generator: 'v0.dev'
 }
