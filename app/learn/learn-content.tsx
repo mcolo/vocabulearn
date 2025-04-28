@@ -13,6 +13,7 @@ import { useToast } from "@/hooks/use-toast"
 import { useAuth } from "@/components/auth-provider"
 import { signOut } from "@/app/actions/auth"
 import type { List, Word, LearningProgress } from "@/lib/supabase/database.types"
+import SiteFooter from "@/components/ui/site-footer"
 
 export default function LearnContent() {
   const [lists, setLists] = useState<List[]>([])
@@ -558,17 +559,7 @@ export default function LearnContent() {
           </div>
         )}
       </main>
-      <footer className="border-t py-6">
-        <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
-          <div className="flex items-center gap-2">
-            <BookOpen className="h-5 w-5" />
-            <span className="font-semibold">Vocabulearn</span>
-          </div>
-          <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Vocabulearn. All rights reserved.
-          </p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   )
 }

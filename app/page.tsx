@@ -3,6 +3,7 @@ import { Button } from "@/components/ui/button"
 import { BookOpen, List } from "lucide-react"
 import SiteHeader from "@/components/ui/site-header"
 import HeroImage from "@/components/ui/hero-image"
+import SiteFooter from "@/components/ui/site-footer"
 
 export default function Home() {
   
@@ -90,17 +91,7 @@ export default function Home() {
           </div>
         </section>
       </main>
-      <footer className="bg-muted py-6 md:py-8 flex justify-center">
-        <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
-          <div className="flex items-center gap-2">
-            <BookOpen className="h-5 w-5" />
-            <span className="font-semibold">Vocabulearn</span>
-          </div>
-          <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Vocabulearn. All rights reserved.
-          </p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   )
 }

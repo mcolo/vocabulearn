@@ -24,6 +24,7 @@ import { useAuth } from "@/components/auth-provider"
 import { signOut } from "@/app/actions/auth"
 import type { List, Word } from "@/lib/supabase/database.types"
 import { Definition, DictionaryResponse } from "@/types/dictionary-api"
+import SiteFooter from "@/components/ui/site-footer"
 
 export default function ListDetailContent({ id }: { id: string }) {
   const [list, setList] = useState<List | null>(null)
@@ -585,17 +586,7 @@ export default function ListDetailContent({ id }: { id: string }) {
           </TabsContent>
         </Tabs>
       </main>
-      <footer className="border-t py-6">
-        <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
-          <div className="flex items-center gap-2">
-            <BookOpen className="h-5 w-5" />
-            <span className="font-semibold">Vocabulearn</span>
-          </div>
-          <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Vocabulearn. All rights reserved.
-          </p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   )
 }
