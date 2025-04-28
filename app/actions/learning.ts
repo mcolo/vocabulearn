@@ -1,13 +1,13 @@
 "use server"
 
 import { revalidatePath } from "next/cache"
-import { createActionClient } from "@/lib/supabase/server"
+import { createClient } from "@/lib/supabase/server"
 import { redirect } from "next/navigation"
 import type { InsertLearningProgress, UpdateLearningProgress } from "@/lib/supabase/database.types"
 
 // Get learning progress for a user
 export async function getLearningProgress(userId: string) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {
@@ -43,7 +43,7 @@ export async function getLearningProgress(userId: string) {
 
 // Get words due for review
 export async function getWordsForReview(userId: string, limit = 20) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {
@@ -83,7 +83,7 @@ export async function getWordsForReview(userId: string, limit = 20) {
 
 // Create or update learning progress
 export async function updateLearningProgress(progress: InsertLearningProgress | UpdateLearningProgress) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {
