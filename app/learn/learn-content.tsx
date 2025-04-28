@@ -1,10 +1,9 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
-import { BookOpen, Check, ChevronLeft, ChevronRight, X } from "lucide-react"
+import { Check, ChevronLeft, ChevronRight, X } from "lucide-react"
 import { Progress } from "@/components/ui/progress"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
@@ -291,8 +290,8 @@ export default function LearnContent() {
     if (!learningData.length || !lists.length) return []
 
     // Group words by list_id
-    const listWordCounts = {}
-    learningData.forEach((item) => {
+    const listWordCounts: any = {}
+    learningData.forEach((item: any) => {
       if (item.words && item.words.list_id) {
         if (!listWordCounts[item.words.list_id]) {
           listWordCounts[item.words.list_id] = 0
