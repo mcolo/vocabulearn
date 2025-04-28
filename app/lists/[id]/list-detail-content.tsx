@@ -20,7 +20,6 @@ import { Badge } from "@/components/ui/badge"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { useToast } from "@/hooks/use-toast"
 import { createClient } from "@/lib/supabase/client"
-import { useAuth } from "@/components/auth-provider"
 import { signOut } from "@/app/actions/auth"
 import type { List, Word } from "@/lib/supabase/database.types"
 import { Definition, DictionaryResponse } from "@/types/dictionary-api"
@@ -46,7 +45,6 @@ export default function ListDetailContent({ id }: { id: string }) {
 
   const supabase = createClient()
   const { toast } = useToast()
-  const { user } = useAuth()
 
   // Fetch list and words from the database
   useEffect(() => {
