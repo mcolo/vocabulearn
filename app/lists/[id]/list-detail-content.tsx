@@ -23,6 +23,7 @@ import { createClient } from "@/lib/supabase/client"
 import { useAuth } from "@/components/auth-provider"
 import { signOut } from "@/app/actions/auth"
 import type { List, Word } from "@/lib/supabase/database.types"
+import { Definition, DictionaryResponse } from "@/types/dictionary-api"
 
 export default function ListDetailContent({ id }: { id: string }) {
   const [list, setList] = useState<List | null>(null)
@@ -37,7 +38,7 @@ export default function ListDetailContent({ id }: { id: string }) {
   const [isCreating, setIsCreating] = useState(false)
   const [isDeleting, setIsDeleting] = useState<string | null>(null)
 
-  const [searchResults, setSearchResults] = useState([])
+  const [searchResults, setSearchResults] = useState<Definition[]>([])
   const [isSearching, setIsSearching] = useState(false)
   const [searchError, setSearchError] = useState("")
   const [selectedResultIndex, setSelectedResultIndex] = useState(-1)
@@ -105,49 +106,64 @@ export default function ListDetailContent({ id }: { id: string }) {
     setSearchResults([])
 
     try {
-      const response = await fetch(
-        `https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(searchQuery.trim())}`,
-      )
+      const url = 'https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(searchQuery.trim())
+      const response = await fetch(url)
 
       if (!response.ok) {
         throw new Error(response.status === 404 ? "No definitions found for this word" : "Failed to fetch definition")
       }
 
-      const data = await response.json()
+      const data: DictionaryResponse[] = await response.json()
 
       // Process and format the results
-      const formattedResults = data
-        .flatMap((entry) =>
-          entry.meanings.flatMap((meaning) =>
-            meaning.definitions.map((def) => ({
-              word: entry.word,
-              partOfSpeech: meaning.partOfSpeech,
-              definition: def.definition,
-              example: def.example,
-            })),
-          ),
-        )
-        .slice(0, 5) // Limit to 5 results for better UX
+      // const formattedResults = data.flatMap((entry) => {
+      //   return entry.meanings.flatMap((meaning) =>
+      //     meaning.definitions.map((def) => ({
+      //       word: entry.word,
+      //       partOfSpeech: meaning.partOfSpeech,
+      //       definition: def.definition,
+      //       example: def.example,
+      //     })),
+      //   )
+      // }).slice(0, 8) // Limit to 8 results for better UX
+      const formattedResults = data.map((entry) => ({
+        word: entry.word,
+        phonetics: entry.phonetics.map((phonetic) => ({
+          text: phonetic.text,
+          audio: phonetic.audio || undefined,
+          sourceUrl: phonetic.sourceUrl || undefined,
+        })),
+        meanings: entry.meanings.map((meaning) => ({
+          partOfSpeech: meaning.partOfSpeech,
+          definitions: meaning.definitions.map((def) => ({
+            definition: def.definition,
+            synonyms: def.synonyms || undefined,
+            antonyms: def.antonyms || undefined,
+            example: def.example || undefined,
+          })),
+        })),
+      }))
 
       setSearchResults(formattedResults)
-    } catch (error) {
+    } catch (error: any) {
       console.error("Error searching for word:", error)
-      setSearchError(error.message || "Failed to search for word")
+      setSearchError(error?.message || "Failed to search for word")
     } finally {
       setIsSearching(false)
     }
   }
 
-  const handleSelectDefinition = (result) => {
-    setNewTerm(result.word)
-    setNewDefinition(result.definition)
-    setNewPartOfSpeech(result.partOfSpeech || "")
-    setNewExample(result.example || "")
-    setSearchResults([])
-    setSearchQuery("")
+  // TODO fix this
+  const handleSelectDefinition = (result: Definition) => {
+    // setNewTerm(result.word)
+    // setNewDefinition(result.definition)
+    // setNewPartOfSpeech(result.partOfSpeech || "")
+    // setNewExample(result.example || "")
+    // setSearchResults([])
+    // setSearchQuery("")
   }
 
-  const handleKeyDown = (e) => {
+  const handleKeyDown = (e: React.KeyboardEvent) => {
     if (searchResults.length === 0) return
 
     // Handle arrow down (select next result)
@@ -351,13 +367,22 @@ export default function ListDetailContent({ id }: { id: string }) {
                       {searchResults.map((result, index) => (
                         <div
                           key={index}
-                          className={`flex flex-col p-3 hover:bg-muted cursor-pointer border-b last:border-0 ${
-                            index === selectedResultIndex ? "bg-muted" : ""
-                          }`}
+                          className={`flex flex-col p-3 hover:bg-muted cursor-pointer border-b last:border-0 ${index === selectedResultIndex ? "bg-muted" : ""
+                            }`}
                           onClick={() => handleSelectDefinition(result)}
                         >
                           <div className="font-medium">{result.word}</div>
-                          <div className="text-sm text-muted-foreground line-clamp-2">{result.definition}</div>
+                          {result.meanings.map((meaning) => (
+                            <div key={meaning.partOfSpeech}>
+                              <span className="font-medium">{meaning.partOfSpeech}</span>
+                              {meaning.definitions.map((def) => (
+                                <div key={def.definition}>
+                                  <p className="text-sm text-muted-foreground line-clamp-2">{def.definition}</p>
+                                  {def.example && <p className="text-sm text-muted-foreground line-clamp-2">Example: {def.example}</p>}
+                                </div>
+                              ))}
+                            </div>
+                          ))}
                         </div>
                       ))}
                     </div>
@@ -564,10 +589,10 @@ export default function ListDetailContent({ id }: { id: string }) {
         <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
           <div className="flex items-center gap-2">
             <BookOpen className="h-5 w-5" />
-            <span className="font-semibold">VocabVault</span>
+            <span className="font-semibold">Vocabulearn</span>
           </div>
           <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} VocabVault. All rights reserved.
+            © {new Date().getFullYear()} Vocabulearn. All rights reserved.
           </p>
         </div>
       </footer>
