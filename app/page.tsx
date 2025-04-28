@@ -8,7 +8,7 @@ import SiteFooter from "@/components/ui/site-footer"
 export default function Home() {
   
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="min-h-screen">
       <SiteHeader />
       <main>
         <section className="w-full py-12 md:py-24 lg:py-32 flex justify-center">
@@ -19,8 +19,7 @@ export default function Home() {
                   Expand Your Vocabulary with Spaced Repetition
                 </h1>
                 <p className="text-muted-foreground md:text-xl">
-                  Create custom word lists, learn definitions, and master new vocabulary with our scientifically-proven
-                  spaced repetition system.
+                  Create custom word lists, learn definitions, and master new vocabulary with our scientifically-proven spaced repetition system.
                 </p>
                 <div className="flex flex-col gap-2 sm:flex-row">
                   <Link href="/register">

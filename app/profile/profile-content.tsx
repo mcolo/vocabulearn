@@ -15,6 +15,7 @@ import { useAuth } from "@/components/auth-provider"
 import { signOut } from "@/app/actions/auth"
 import type { Profile } from "@/lib/supabase/database.types"
 import SiteFooter from "@/components/ui/site-footer"
+import SiteHeader from "@/components/ui/site-header"
 
 export default function ProfileContent() {
   const [profile, setProfile] = useState<Profile | null>(null)
@@ -215,7 +216,8 @@ export default function ProfileContent() {
   }
 
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="min-h-screen">
+      <SiteHeader />
       <main className="flex-1 container py-8">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-3xl font-bold tracking-tight mb-6">Your Profile</h1>

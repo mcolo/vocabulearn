@@ -2,7 +2,7 @@ import { BookOpen } from "lucide-react";
 
 export default function SiteFooter() {
   return (
-    <footer className="bg-muted py-6 md:py-8 flex justify-center">
+    <footer className="bg-slate-100 py-6 md:py-8 flex justify-center">
       <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
         <div className="flex items-center gap-2">
           <span className="font-semibold">Vocabulearn</span>

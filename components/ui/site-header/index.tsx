@@ -14,16 +14,7 @@ export default function SiteHeader() {
     await signOut()
   }
 
-  /**
-   * 
-   * lists-content
-   * profile-content
-   * list-detail-content
-   * learn-content
-   * 
-   */
   return (
-    <>
     <header className="flex justify-center px-4">
       <div className="container flex items-center justify-between py-4">
         <div className="flex items-center gap-2">
@@ -70,6 +61,5 @@ export default function SiteHeader() {
         </nav>
       </div>
     </header>
-    </>
   )
 }

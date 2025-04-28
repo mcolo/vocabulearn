@@ -1,13 +1,14 @@
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import { BookOpen } from "lucide-react"
 import SiteFooter from "@/components/ui/site-footer"
+import SiteHeader from "@/components/ui/site-header"
 
 export default function AboutPage() {
   return (
-    <div className="flex flex-col min-h-screen">
-      <main className="flex-1">
-        <section className="py-12 md:py-24 lg:py-32">
+    <div className="min-h-screen">
+      <SiteHeader />
+      <main>
+        <section className="w-full py-12 md:py-24 lg:py-32 flex justify-center">
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
@@ -66,7 +67,7 @@ export default function AboutPage() {
             </div>
           </div>
         </section>
-        <section className="py-12 md:py-24 lg:py-32 bg-muted">
+        <section className="py-12 md:py-24 lg:py-32 flex justify-center bg-slate-50">
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
@@ -102,7 +103,7 @@ export default function AboutPage() {
             </div>
           </div>
         </section>
-        <section className="py-12 md:py-24 lg:py-32">
+        <section className="py-12 md:py-24 lg:py-32 flex justify-center bg-slate-100">
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
@@ -114,11 +115,6 @@ export default function AboutPage() {
               <div className="flex flex-col gap-2 min-[400px]:flex-row">
                 <Link href="/register">
                   <Button size="lg">Create Free Account</Button>
-                </Link>
-                <Link href="/lists">
-                  <Button variant="outline" size="lg">
-                    Explore Features
-                  </Button>
                 </Link>
               </div>
             </div>
