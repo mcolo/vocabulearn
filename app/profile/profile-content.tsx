@@ -22,14 +22,12 @@ export default function ProfileContent() {
   const [isSaving, setIsSaving] = useState(false)
   const [formData, setFormData] = useState({
     username: "",
-    fullName: "",
     currentPassword: "",
     newPassword: "",
     confirmPassword: "",
   })
   const [formErrors, setFormErrors] = useState({
     username: "",
-    fullName: "",
     currentPassword: "",
     newPassword: "",
     confirmPassword: "",
@@ -54,7 +52,6 @@ export default function ProfileContent() {
         setFormData({
           ...formData,
           username: data.username || "",
-          fullName: data.full_name || "",
         })
       } catch (error) {
         console.error("Error fetching profile:", error)
@@ -87,11 +84,6 @@ export default function ProfileContent() {
 
     if (!formData.username.trim()) {
       newErrors.username = "Username is required"
-      isValid = false
-    }
-
-    if (!formData.fullName.trim()) {
-      newErrors.fullName = "Full name is required"
       isValid = false
     }
 
@@ -137,7 +129,6 @@ export default function ProfileContent() {
         .from("profiles")
         .update({
           username: formData.username,
-          full_name: formData.fullName,
           updated_at: new Date().toISOString(),
         })
         .eq("id", user.id)
@@ -249,17 +240,6 @@ export default function ProfileContent() {
                       placeholder="Enter a username"
                     />
                     {formErrors.username && <p className="text-sm text-destructive">{formErrors.username}</p>}
-                  </div>
-                  <div className="space-y-2">
-                    <Label htmlFor="fullName">Full Name</Label>
-                    <Input
-                      id="fullName"
-                      name="fullName"
-                      value={formData.fullName}
-                      onChange={handleChange}
-                      placeholder="Enter your full name"
-                    />
-                    {formErrors.fullName && <p className="text-sm text-destructive">{formErrors.fullName}</p>}
                   </div>
                 </CardContent>
                 <CardFooter>

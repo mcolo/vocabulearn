@@ -7,11 +7,23 @@ import Link from "next/link";
 import { useAuth } from "@/components/auth-provider";
 import SiteLogo from "./site-logo";
 
-export default function SiteHeader() {
+export default function SiteHeader({ logoOnly }: { logoOnly?: boolean }) {
   const { user } = useAuth()
   
   async function handleSignOut() {
     await signOut()
+  }
+
+  if (logoOnly) {
+    return (
+      <header className="flex justify-center px-4">
+      <div className="container flex items-center justify-between py-4">
+          <Link href="/" className="text-xl font-bold">
+            <SiteLogo className="md:w-56 w-44" />
+          </Link>
+      </div>
+    </header>
+    )
   }
 
   return (

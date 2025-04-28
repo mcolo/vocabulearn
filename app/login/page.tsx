@@ -1,5 +1,3 @@
-"use client"
-
 import type React from "react"
 
 import { Suspense } from "react"
@@ -12,17 +10,15 @@ export default function LoginPage() {
 
   return (
     <div className="min-h-screen">
-      <SiteHeader />
+      <SiteHeader logoOnly={true} />
       <div className="flex flex-col items-center justify-center px-4 py-8">
         <div className="w-full max-w-md">
           <Suspense fallback={<div>Loading...</div>}>
             <LoginContent />
           </Suspense>
           <div className="mt-4 text-center text-sm">
-            Don&apos;t have an account?{" "}
-            <Link className="underline" href="/register">
-              Sign up
-            </Link>
+            <span className="mr-2">Don&apos;t have an account?</span>
+            <Link className="underline" href="/register">Sign up</Link>
           </div>
         </div>
       </div>

@@ -1,20 +1,17 @@
-import { Card, CardHeader, CardTitle, CardDescription, CardContent } from "@/components/ui/card";
-import SiteLogo from "@/components/ui/site-header/site-logo";
+import { UserRoundCheck } from "lucide-react";
+import SiteHeader from "@/components/ui/site-header";
 
 export default function Confirm() {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center">
-      <div className="w-80">
-        <Card>
-          <CardHeader>
-            <SiteLogo className="w-56" />
-          </CardHeader>
-          <CardContent className="flex flex-col gap-4">
-            <CardTitle>Registration Successful</CardTitle>
-            <CardDescription>Please check your email to confirm your account.</CardDescription>
-          </CardContent>
-        </Card>
-      </div>
+    <div className="min-h-screen">
+      <SiteHeader logoOnly={true} />
+      <section className="flex flex-col items-center justify-start p-8">
+        <div className="bg-muted rounded-3xl p-8 flex flex-col items-center">
+          <UserRoundCheck className="w-20 h-20 [&_path:last-child]:stroke-emerald-500 mb-2" />
+          <h2 className="text-3xl font-bold">Registration Successful</h2>
+          <p className="text-muted-foreground">Please check your email to confirm your account.</p>
+        </div>
+      </section>
     </div>
   )
 }
