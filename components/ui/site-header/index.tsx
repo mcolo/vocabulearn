@@ -2,7 +2,7 @@
 
 import { signOut } from "@/app/actions/auth";
 import { Button } from "../button";
-import { BookOpen, LogIn } from "lucide-react";
+import { LogIn } from "lucide-react";
 import Link from "next/link";
 import { useAuth } from "@/components/auth-provider";
 import SiteLogo from "./site-logo";

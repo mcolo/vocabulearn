@@ -1,5 +1,3 @@
-import { BookOpen } from "lucide-react";
-
 export default function SiteFooter() {
   return (
     <footer className="bg-muted py-6 md:py-8 flex justify-center">
