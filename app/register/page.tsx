@@ -8,23 +8,19 @@ import { useRouter } from "next/navigation"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
-import { BookOpen } from "lucide-react"
 import { signUp } from "@/app/actions/auth"
 import { useToast } from "@/hooks/use-toast"
 import SiteHeader from "@/components/ui/site-header"
+import { SmilePlus } from "lucide-react"
 
 export default function RegisterPage() {
   const [isLoading, setIsLoading] = useState(false)
   const [formData, setFormData] = useState({
-    firstName: "",
-    lastName: "",
     email: "",
     password: "",
     confirmPassword: "",
   })
   const [formErrors, setFormErrors] = useState({
-    firstName: "",
-    lastName: "",
     email: "",
     password: "",
     confirmPassword: "",
@@ -35,7 +31,7 @@ export default function RegisterPage() {
 
   const handleChange = (
     e: React.ChangeEvent<HTMLInputElement>,
-    name: 'firstName' | 'lastName' | 'email' | 'password' | 'confirmPassword'
+    name: 'email' | 'password' | 'confirmPassword'
   ) => {
     const value = e.target.value
     setFormData((prev) => ({ ...prev, [name]: value }))
@@ -49,16 +45,6 @@ export default function RegisterPage() {
   const validateForm = () => {
     let isValid = true
     const newErrors = { ...formErrors }
-
-    if (!formData.firstName.trim()) {
-      newErrors.firstName = "First name is required"
-      isValid = false
-    }
-
-    if (!formData.lastName.trim()) {
-      newErrors.lastName = "Last name is required"
-      isValid = false
-    }
 
     if (!formData.email.trim()) {
       newErrors.email = "Email is required"
@@ -95,8 +81,7 @@ export default function RegisterPage() {
     setIsLoading(true)
 
     try {
-      const fullName = `${formData.firstName} ${formData.lastName}`
-      const result = await signUp(formData.email, formData.password, fullName)
+      const result = await signUp(formData.email, formData.password)
       if (result.success === true) {
         router.push("/confirm")
       } else {
@@ -119,26 +104,15 @@ export default function RegisterPage() {
 
   return (
     <div className="min-h-screen">
-      <SiteHeader />
+      <SiteHeader logoOnly={true} />
       <div className="flex flex-col items-center justify-center px-4 py-8">
         <div className="w-full max-w-md space-y-6">
-          <div className="space-y-2 text-center">
-            <h1 className="text-3xl font-bold">Create an account</h1>
+          <div className="bg-muted rounded-3xl p-8 flex flex-col items-center">
+            <SmilePlus className="w-20 h-20  mb-2" />
+            <h2 className="text-3xl font-bold">Create an Account</h2>
             <p className="text-muted-foreground">Enter your information to create an account</p>
           </div>
           <form className="space-y-4" onSubmit={handleSubmit}>
-            <div className="grid grid-cols-2 gap-4">
-              <div className="space-y-2">
-                <Label htmlFor="first-name">First name</Label>
-                <Input id="first-name" name="firstName" value={formData.firstName} onChange={(e) => handleChange(e, "firstName")} required />
-                {formErrors.firstName && <p className="text-sm text-destructive">{formErrors.firstName}</p>}
-              </div>
-              <div className="space-y-2">
-                <Label htmlFor="last-name">Last name</Label>
-                <Input id="last-name" name="lastName" value={formData.lastName} onChange={(e) => handleChange(e, "lastName")} required />
-                {formErrors.lastName && <p className="text-sm text-destructive">{formErrors.lastName}</p>}
-              </div>
-            </div>
             <div className="space-y-2">
               <Label htmlFor="email">Email</Label>
               <Input
@@ -147,8 +121,9 @@ export default function RegisterPage() {
                 type="email"
                 value={formData.email}
                 onChange={(e) => handleChange(e, "email")}
-                placeholder="m@example.com"
+                placeholder="name@email.com"
                 required
+                autoFocus
               />
               {formErrors.email && <p className="text-sm text-destructive">{formErrors.email}</p>}
             </div>

@@ -2,28 +2,31 @@
 
 import { signOut } from "@/app/actions/auth";
 import { Button } from "../button";
-import { BookOpen, LogIn } from "lucide-react";
+import { LogIn } from "lucide-react";
 import Link from "next/link";
 import { useAuth } from "@/components/auth-provider";
 import SiteLogo from "./site-logo";
 
-export default function SiteHeader() {
+export default function SiteHeader({ logoOnly }: { logoOnly?: boolean }) {
   const { user } = useAuth()
   
   async function handleSignOut() {
     await signOut()
   }
 
-  /**
-   * 
-   * lists-content
-   * profile-content
-   * list-detail-content
-   * learn-content
-   * 
-   */
+  if (logoOnly) {
+    return (
+      <header className="flex justify-center px-4">
+      <div className="container flex items-center justify-between py-4">
+          <Link href="/" className="text-xl font-bold">
+            <SiteLogo className="md:w-56 w-44" />
+          </Link>
+      </div>
+    </header>
+    )
+  }
+
   return (
-    <>
     <header className="flex justify-center px-4">
       <div className="container flex items-center justify-between py-4">
         <div className="flex items-center gap-2">
@@ -70,6 +73,5 @@ export default function SiteHeader() {
         </nav>
       </div>
     </header>
-    </>
   )
 }

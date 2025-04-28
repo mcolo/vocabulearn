@@ -1,12 +1,14 @@
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import { BookOpen } from "lucide-react"
+import SiteFooter from "@/components/ui/site-footer"
+import SiteHeader from "@/components/ui/site-header"
 
 export default function AboutPage() {
   return (
-    <div className="flex flex-col min-h-screen">
-      <main className="flex-1">
-        <section className="py-12 md:py-24 lg:py-32">
+    <div className="min-h-screen">
+      <SiteHeader />
+      <main>
+        <section className="w-full py-12 md:py-24 lg:py-32 flex justify-center">
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
@@ -65,7 +67,7 @@ export default function AboutPage() {
             </div>
           </div>
         </section>
-        <section className="py-12 md:py-24 lg:py-32 bg-muted">
+        <section className="py-12 md:py-24 lg:py-32 flex justify-center bg-slate-50">
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
@@ -101,7 +103,7 @@ export default function AboutPage() {
             </div>
           </div>
         </section>
-        <section className="py-12 md:py-24 lg:py-32">
+        <section className="py-12 md:py-24 lg:py-32 flex justify-center bg-muted">
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
@@ -114,27 +116,12 @@ export default function AboutPage() {
                 <Link href="/register">
                   <Button size="lg">Create Free Account</Button>
                 </Link>
-                <Link href="/lists">
-                  <Button variant="outline" size="lg">
-                    Explore Features
-                  </Button>
-                </Link>
               </div>
             </div>
           </div>
         </section>
       </main>
-      <footer className="border-t py-6 md:py-8">
-        <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
-          <div className="flex items-center gap-2">
-            <BookOpen className="h-5 w-5" />
-            <span className="font-semibold">Vocabulearn</span>
-          </div>
-          <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Vocabulearn. All rights reserved.
-          </p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   )
 }

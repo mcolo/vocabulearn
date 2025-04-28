@@ -1,13 +1,13 @@
 "use server"
 
 import { revalidatePath } from "next/cache"
-import { createActionClient } from "@/lib/supabase/server"
+import { createClient } from "@/lib/supabase/server"
 import { redirect } from "next/navigation"
 import type { InsertList, UpdateList } from "@/lib/supabase/database.types"
 
 // Get all lists for the current user
 export async function getLists() {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {
@@ -29,7 +29,7 @@ export async function getLists() {
 
 // Get a single list by ID
 export async function getListById(id: string) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {
@@ -51,7 +51,7 @@ export async function getListById(id: string) {
 
 // Create a new list
 export async function createList(list: Omit<InsertList, "user_id">) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {
@@ -81,7 +81,7 @@ export async function createList(list: Omit<InsertList, "user_id">) {
 
 // Update an existing list
 export async function updateList(id: string, list: UpdateList) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {
@@ -105,7 +105,7 @@ export async function updateList(id: string, list: UpdateList) {
 
 // Delete a list
 export async function deleteList(id: string) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {

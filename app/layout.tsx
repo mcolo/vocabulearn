@@ -1,11 +1,11 @@
 import type React from "react"
 import "./globals.css"
 import type { Metadata } from "next"
-import { Inter } from "next/font/google"
+import { Commissioner } from "next/font/google"
 import { AuthProvider } from "@/components/auth-provider"
 import { Toaster } from "@/components/ui/toaster"
 
-const inter = Inter({ subsets: ["latin"] })
+const commissioner = Commissioner({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Vocabulearn - Learn and Remember New Words",
@@ -20,7 +20,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={inter.className}>
+      <body className={commissioner.className}>
         <AuthProvider>
           {children}
           <Toaster />

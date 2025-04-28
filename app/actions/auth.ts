@@ -4,7 +4,7 @@ import { createClient } from "@/lib/supabase/server"
 import { redirect } from "next/navigation"
 
 // Sign up a new user
-export async function signUp(email: string, password: string, fullName: string) {
+export async function signUp(email: string, password: string) {
   const supabase = await createClient()
 
   // Construct the full URL dynamically
@@ -19,9 +19,6 @@ export async function signUp(email: string, password: string, fullName: string) 
     email,
     password,
     options: {
-      data: {
-        full_name: fullName,
-      },
       emailRedirectTo: fullRedirectUrl,
     },
   })

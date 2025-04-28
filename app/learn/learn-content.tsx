@@ -1,10 +1,9 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
-import { BookOpen, Check, ChevronLeft, ChevronRight, X } from "lucide-react"
+import { Check, ChevronLeft, ChevronRight, X } from "lucide-react"
 import { Progress } from "@/components/ui/progress"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
@@ -13,6 +12,8 @@ import { useToast } from "@/hooks/use-toast"
 import { useAuth } from "@/components/auth-provider"
 import { signOut } from "@/app/actions/auth"
 import type { List, Word, LearningProgress } from "@/lib/supabase/database.types"
+import SiteFooter from "@/components/ui/site-footer"
+import SiteHeader from "@/components/ui/site-header"
 
 export default function LearnContent() {
   const [lists, setLists] = useState<List[]>([])
@@ -289,8 +290,8 @@ export default function LearnContent() {
     if (!learningData.length || !lists.length) return []
 
     // Group words by list_id
-    const listWordCounts = {}
-    learningData.forEach((item) => {
+    const listWordCounts: any = {}
+    learningData.forEach((item: any) => {
       if (item.words && item.words.list_id) {
         if (!listWordCounts[item.words.list_id]) {
           listWordCounts[item.words.list_id] = 0
@@ -311,7 +312,8 @@ export default function LearnContent() {
   }
 
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="min-h-screen">
+      <SiteHeader />
       <main className="flex-1 container py-8">
         {isLoading ? (
           <div className="flex flex-col items-center justify-center py-12">
@@ -558,17 +560,7 @@ export default function LearnContent() {
           </div>
         )}
       </main>
-      <footer className="border-t py-6">
-        <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
-          <div className="flex items-center gap-2">
-            <BookOpen className="h-5 w-5" />
-            <span className="font-semibold">Vocabulearn</span>
-          </div>
-          <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Vocabulearn. All rights reserved.
-          </p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   )
 }

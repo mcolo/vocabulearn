@@ -1,13 +1,13 @@
 "use server"
 
 import { revalidatePath } from "next/cache"
-import { createActionClient } from "@/lib/supabase/server"
+import { createClient } from "@/lib/supabase/server"
 import { redirect } from "next/navigation"
 import type { InsertWord, UpdateWord } from "@/lib/supabase/database.types"
 
 // Get all words for a specific list
 export async function getWordsByListId(listId: string) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {
@@ -33,7 +33,7 @@ export async function getWordsByListId(listId: string) {
 
 // Get a single word by ID
 export async function getWordById(id: string) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {
@@ -55,7 +55,7 @@ export async function getWordById(id: string) {
 
 // Create a new word
 export async function createWord(word: InsertWord) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {
@@ -78,7 +78,7 @@ export async function createWord(word: InsertWord) {
 
 // Update an existing word
 export async function updateWord(id: string, word: UpdateWord) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {
@@ -101,7 +101,7 @@ export async function updateWord(id: string, word: UpdateWord) {
 
 // Delete a word
 export async function deleteWord(id: string, listId: string) {
-  const supabase = createActionClient()
+  const supabase = await createClient()
 
   // Check if user is authenticated
   const {
@@ -135,9 +135,9 @@ export async function searchDictionary(term: string) {
 
     // Process and format the results
     const formattedResults = data
-      .flatMap((entry) =>
-        entry.meanings.flatMap((meaning) =>
-          meaning.definitions.map((def) => ({
+      .flatMap((entry: any) =>
+        entry.meanings.flatMap((meaning: any) =>
+          meaning.definitions.map((def: any) => ({
             word: entry.word,
             partOfSpeech: meaning.partOfSpeech,
             definition: def.definition,

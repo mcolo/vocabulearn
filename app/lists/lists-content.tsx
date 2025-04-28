@@ -15,13 +15,15 @@ import {
   DialogTrigger,
 } from "@/components/ui/dialog"
 import { Label } from "@/components/ui/label"
-import { BookOpen, Plus, Search, Trash2 } from "lucide-react"
+import { Plus, Search, Trash2 } from "lucide-react"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { useToast } from "@/hooks/use-toast"
 import { createClient } from "@/lib/supabase/client"
 import { useAuth } from "@/components/auth-provider"
 import { signOut } from "@/app/actions/auth"
 import type { List } from "@/lib/supabase/database.types"
+import SiteFooter from "@/components/ui/site-footer"
+import SiteHeader from "@/components/ui/site-header"
 
 export default function ListsContent() {
   const [lists, setLists] = useState<List[]>([])
@@ -172,8 +174,9 @@ export default function ListsContent() {
   }
 
   return (
-    <div className="flex flex-col min-h-screen">
-      <main className="flex-1 container py-8">
+    <>
+    <div className="min-h-screen flex flex-col items-center">
+      <main className="min-h-screen container py-8">
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between mb-8 gap-4">
           <div>
             <h1 className="text-3xl font-bold tracking-tight">My Word Lists</h1>
@@ -384,17 +387,8 @@ export default function ListsContent() {
           </Tabs>
         )}
       </main>
-      <footer className="border-t py-6">
-        <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
-          <div className="flex items-center gap-2">
-            <BookOpen className="h-5 w-5" />
-            <span className="font-semibold">Vocabulearn</span>
-          </div>
-          <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Vocabulearn. All rights reserved.
-          </p>
-        </div>
-      </footer>
     </div>
+    <SiteFooter />
+    </>
   )
 }

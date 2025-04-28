@@ -3,11 +3,12 @@ import { Button } from "@/components/ui/button"
 import { BookOpen, List } from "lucide-react"
 import SiteHeader from "@/components/ui/site-header"
 import HeroImage from "@/components/ui/hero-image"
+import SiteFooter from "@/components/ui/site-footer"
 
 export default function Home() {
   
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="min-h-screen">
       <SiteHeader />
       <main>
         <section className="w-full py-12 md:py-24 lg:py-32 flex justify-center">
@@ -18,12 +19,11 @@ export default function Home() {
                   Expand Your Vocabulary with Spaced Repetition
                 </h1>
                 <p className="text-muted-foreground md:text-xl">
-                  Create custom word lists, learn definitions, and master new vocabulary with our scientifically-proven
-                  spaced repetition system.
+                  Create custom word lists, learn definitions, and master new vocabulary with our scientifically-proven spaced repetition system.
                 </p>
                 <div className="flex flex-col gap-2 sm:flex-row">
                   <Link href="/register">
-                    <Button size="lg">Get Started</Button>
+                    <Button variant="theme" size="lg">Get Started</Button>
                   </Link>
                   <Link href="/about">
                     <Button variant="outline" size="lg">
@@ -36,7 +36,7 @@ export default function Home() {
             </div>
           </div>
         </section>
-        <section className="py-12 md:py-24 lg:py-32 flex justify-center bg-slate-100">
+        <section className="py-12 md:py-24 lg:py-32 flex justify-center bg-muted">
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
@@ -90,17 +90,7 @@ export default function Home() {
           </div>
         </section>
       </main>
-      <footer className="bg-muted py-6 md:py-8 flex justify-center">
-        <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
-          <div className="flex items-center gap-2">
-            <BookOpen className="h-5 w-5" />
-            <span className="font-semibold">Vocabulearn</span>
-          </div>
-          <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Vocabulearn. All rights reserved.
-          </p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   )
 }

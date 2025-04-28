@@ -8,12 +8,13 @@ import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { BookOpen } from "lucide-react"
 import { useToast } from "@/hooks/use-toast"
 import { createClient } from "@/lib/supabase/client"
 import { useAuth } from "@/components/auth-provider"
 import { signOut } from "@/app/actions/auth"
 import type { Profile } from "@/lib/supabase/database.types"
+import SiteFooter from "@/components/ui/site-footer"
+import SiteHeader from "@/components/ui/site-header"
 
 export default function ProfileContent() {
   const [profile, setProfile] = useState<Profile | null>(null)
@@ -21,14 +22,12 @@ export default function ProfileContent() {
   const [isSaving, setIsSaving] = useState(false)
   const [formData, setFormData] = useState({
     username: "",
-    fullName: "",
     currentPassword: "",
     newPassword: "",
     confirmPassword: "",
   })
   const [formErrors, setFormErrors] = useState({
     username: "",
-    fullName: "",
     currentPassword: "",
     newPassword: "",
     confirmPassword: "",
@@ -53,7 +52,6 @@ export default function ProfileContent() {
         setFormData({
           ...formData,
           username: data.username || "",
-          fullName: data.full_name || "",
         })
       } catch (error) {
         console.error("Error fetching profile:", error)
@@ -86,11 +84,6 @@ export default function ProfileContent() {
 
     if (!formData.username.trim()) {
       newErrors.username = "Username is required"
-      isValid = false
-    }
-
-    if (!formData.fullName.trim()) {
-      newErrors.fullName = "Full name is required"
       isValid = false
     }
 
@@ -136,7 +129,6 @@ export default function ProfileContent() {
         .from("profiles")
         .update({
           username: formData.username,
-          full_name: formData.fullName,
           updated_at: new Date().toISOString(),
         })
         .eq("id", user.id)
@@ -214,7 +206,8 @@ export default function ProfileContent() {
   }
 
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="min-h-screen">
+      <SiteHeader />
       <main className="flex-1 container py-8">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-3xl font-bold tracking-tight mb-6">Your Profile</h1>
@@ -247,17 +240,6 @@ export default function ProfileContent() {
                       placeholder="Enter a username"
                     />
                     {formErrors.username && <p className="text-sm text-destructive">{formErrors.username}</p>}
-                  </div>
-                  <div className="space-y-2">
-                    <Label htmlFor="fullName">Full Name</Label>
-                    <Input
-                      id="fullName"
-                      name="fullName"
-                      value={formData.fullName}
-                      onChange={handleChange}
-                      placeholder="Enter your full name"
-                    />
-                    {formErrors.fullName && <p className="text-sm text-destructive">{formErrors.fullName}</p>}
                   </div>
                 </CardContent>
                 <CardFooter>
@@ -353,17 +335,7 @@ export default function ProfileContent() {
           </Tabs>
         </div>
       </main>
-      <footer className="border-t py-6">
-        <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:justify-between">
-          <div className="flex items-center gap-2">
-            <BookOpen className="h-5 w-5" />
-            <span className="font-semibold">Vocabulearn</span>
-          </div>
-          <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Vocabulearn. All rights reserved.
-          </p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   )
 }
