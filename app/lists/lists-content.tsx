@@ -174,9 +174,9 @@ export default function ListsContent() {
   }
 
   return (
-    <div className="min-h-screen">
-      <SiteHeader />
-      <main className="flex-1 container py-8">
+    <>
+    <div className="min-h-screen flex flex-col items-center">
+      <main className="min-h-screen container py-8">
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between mb-8 gap-4">
           <div>
             <h1 className="text-3xl font-bold tracking-tight">My Word Lists</h1>
@@ -387,7 +387,8 @@ export default function ListsContent() {
           </Tabs>
         )}
       </main>
-      <SiteFooter />
     </div>
+    <SiteFooter />
+    </>
   )
 }
