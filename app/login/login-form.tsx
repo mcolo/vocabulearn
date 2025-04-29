@@ -60,8 +60,8 @@ export default function LoginForm({ redirectPath }: { redirectPath: string }) {
   return (
     <>
     {error && <div className="bg-destructive/15 text-destructive text-sm p-3 rounded-md">{error}</div>}
-    <form className="space-y-4" onSubmit={handleSubmit}>
-      <div className="space-y-2">
+    <form onSubmit={handleSubmit}>
+      <div className="space-y-2 mb-4">
         <Label htmlFor="email">Email</Label>
         <Input
           id="email"
@@ -77,9 +77,6 @@ export default function LoginForm({ redirectPath }: { redirectPath: string }) {
       <div className="space-y-2">
         <div className="flex items-center justify-between">
           <Label htmlFor="password">Password</Label>
-          <Link className="text-sm underline" href="/forgot-password">
-            Forgot your password?
-          </Link>
         </div>
         <Input
           id="password"
@@ -89,6 +86,11 @@ export default function LoginForm({ redirectPath }: { redirectPath: string }) {
           onChange={(e) => setPassword(e.target.value)}
           required
         />
+      </div>
+      <div className="flex justify-end mt-1 mb-8">
+        <Link className="text-sm underline" href="/forgot-password">
+          Forgot your password?
+        </Link>
       </div>
       <Button className="w-full" type="submit" disabled={isLoading}>
         {isLoading ? (

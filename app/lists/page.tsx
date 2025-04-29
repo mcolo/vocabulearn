@@ -7,7 +7,6 @@ import SiteHeader from "@/components/ui/site-header"
 export default function ListsPage() {
   return (
     <AuthGuard>
-      <SiteHeader />
       <ListsContent />
     </AuthGuard>
   )

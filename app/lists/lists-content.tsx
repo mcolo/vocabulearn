@@ -175,6 +175,7 @@ export default function ListsContent() {
 
   return (
     <>
+    <SiteHeader />
     <div className="min-h-screen flex flex-col items-center">
       <main className="min-h-screen container py-8">
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between mb-8 gap-4">
@@ -388,7 +389,6 @@ export default function ListsContent() {
         )}
       </main>
     </div>
-    <SiteFooter />
     </>
   )
 }

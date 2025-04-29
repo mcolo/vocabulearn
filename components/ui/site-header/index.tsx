@@ -35,16 +35,11 @@ export default function SiteHeader({ logoOnly }: { logoOnly?: boolean }) {
           </Link>
         </div>
         <nav className="flex items-center">
-          <Link href="/about" className="mr-4">
-            <Button variant="ghost">
-              About
-            </Button>
-          </Link>
           {user === null &&
             <Link href="/login">
-              <Button>
-                <LogIn className="mr-2 h-4 w-4" />
+              <Button variant="outline">
                 Sign In
+                <LogIn className="ml-0 h-4 w-4" />
               </Button>
             </Link>
           }

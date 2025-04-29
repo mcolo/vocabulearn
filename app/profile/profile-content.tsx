@@ -335,7 +335,6 @@ export default function ProfileContent() {
           </Tabs>
         </div>
       </main>
-      <SiteFooter />
     </div>
   )
 }
