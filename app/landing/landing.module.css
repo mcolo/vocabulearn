@@ -1,0 +1,110 @@
+.hero {
+  @apply h-[80vh] max-h-[1000px] flex flex-col justify-center items-center bg-theme-color relative overflow-hidden;
+}
+
+.header {
+  @apply absolute top-8 left-8;
+}
+
+.logo {
+  @apply w-40;
+}
+
+.words {
+  @apply absolute w-[150%] -inset-x-[25%] md:w-[120%] md:-inset-x-[10%] h-full inset-y-0 z-0 max-h-dvh overflow-hidden;
+}
+
+.word {
+  @apply py-2 px-3 md:py-4 md:px-6 inline-block word-color text-lg 2xl:text-2xl cursor-default;
+}
+
+.headline {
+  @apply px-4 text-5xl md:px-0 md:text-6xl lg:text-7xl font-black text-center max-w-4xl relative z-10 text-theme-color pointer-events-none;
+}
+
+.content {
+  @apply bg-content-color;
+}
+
+.horizontalDelay {
+  transform: translateX(-3px);
+  animation: side-to-side 2000ms ease-in-out alternate infinite;
+  animation-delay: 1000ms;
+}
+
+.horizontal {
+  transform: translateX(-3px);
+  animation: side-to-side 2000ms ease-in-out alternate infinite;
+}
+
+.verticalDelay {
+  transform: translateY(-2px);
+  animation: up-and-down 2000ms ease-in-out alternate infinite;
+  animation-delay: 600ms;
+}
+
+.vertical {
+  transform: translateY(-2px);
+  animation: up-and-down 2000ms ease-in-out alternate infinite;
+}
+
+@keyframes side-to-side {
+  from { transform: translateX(-3px) }
+  to { transform: translateX(3px)}
+}
+
+@keyframes up-and-down {
+  from { transform: translateY(-3px) }
+  to { transform: translateY(3px)}
+}
+
+@media (prefers-color-scheme: light) {
+  .text-theme-color {
+    @apply text-gray-950;
+  }
+
+  .bg-theme-color {
+    @apply bg-white;
+  }
+
+  .bg-content-color {
+    @apply bg-slate-100;
+  }
+
+  .logo path:first-child {
+    @apply fill-amber-400;
+  }
+
+  .logo path:not(:first-child) {
+    @apply fill-gray-950;
+  }
+  .word-color {
+    @apply text-slate-200;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .text-theme-color {
+    @apply text-white;
+  }
+
+  .bg-theme-color {
+    @apply bg-gray-950;
+  }
+
+  .bg-content-color {
+    @apply bg-gray-800;
+  }
+
+  .logo path:first-child {
+    @apply fill-fuchsia-600;
+  }
+
+  .logo path:not(:first-child) {
+    @apply fill-white;
+  }
+
+  .word-color {
+    @apply text-gray-800;
+  }
+}
