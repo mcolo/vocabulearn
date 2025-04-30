@@ -1,6 +1,6 @@
 import styles from './landing.module.css';
 import SiteLogo from "@/components/ui/site-header/site-logo";
-import * as words from './words.json';
+import words from './words.json';
 import Words from './words';
 
 export default function LandingPage() {
@@ -8,7 +8,7 @@ export default function LandingPage() {
   return (
     <>
       <section className={styles.hero}>
-        <Words words={words.results} />
+        <Words words={words} />
         <header className={styles.header}><SiteLogo className={styles.logo}/></header>
         <h1 className={styles.headline}>Expand your vocabulary with spaced repition</h1>
       </section>

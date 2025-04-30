@@ -1,5004 +1,2402 @@
-{
-    "results": [
-        {
-            "definition": "hate",
-            "type": "",
-            "word": "Abhor"
-        },
-        {
-            "definition": "narrow-minded, prejudiced person",
-            "type": "",
-            "word": "Bigot"
-        },
-        {
-            "definition": "fake; false",
-            "type": "",
-            "word": "Counterfeit"
-        },
-        {
-            "definition": "give voting rights",
-            "type": "",
-            "word": "Enfranchise"
-        },
-        {
-            "definition": "hinder; obstruct",
-            "type": "",
-            "word": "Hamper"
-        },
-        {
-            "definition": "to start a fire",
-            "type": "",
-            "word": "Kindle"
-        },
-        {
-            "definition": "harmful; poisonous; lethal",
-            "type": "",
-            "word": "Noxious"
-        },
-        {
-            "definition": "calm; peaceful",
-            "type": "",
-            "word": "Placid"
-        },
-        {
-            "definition": "payment for work done",
-            "type": "",
-            "word": "Remuneration"
-        },
-        {
-            "definition": "lucky charm",
-            "type": "",
-            "word": "Talisman"
-        },
-        {
-            "definition": "rough; coarse; harsh",
-            "type": "",
-            "word": "Abrasive"
-        },
-        {
-            "definition": "cheat; defraud",
-            "type": "",
-            "word": "Bilk"
-        },
-        {
-            "definition": "hidden; undercover",
-            "type": "",
-            "word": "Covert"
-        },
-        {
-            "definition": "cause",
-            "type": "",
-            "word": "Engender"
-        },
-        {
-            "definition": "storage area (like garage) for a plane",
-            "type": "",
-            "word": "Hangar"
-        },
-        {
-            "definition": "complex; difficult to solve",
-            "type": "",
-            "word": "Knotty"
-        },
-        {
-            "definition": "something subtle; a fine shade of meaning",
-            "type": "",
-            "word": "Nuance"
-        },
-        {
-            "definition": "taking credit for someone else's writing or ideas",
-            "type": "",
-            "word": "Plagiarism"
-        },
-        {
-            "definition": "fame",
-            "type": "",
-            "word": "Renown"
-        },
-        {
-            "definition": "going off the main subject",
-            "type": "",
-            "word": "Tangent"
-        },
-        {
-            "definition": "humiliation; degradation",
-            "type": "",
-            "word": "Abasement"
-        },
-        {
-            "definition": "swelling; fluttering; waving",
-            "type": "",
-            "word": "Billowing"
-        },
-        {
-            "definition": "recoil in fear or servility; shrink away from",
-            "type": "",
-            "word": "Cower"
-        },
-        {
-            "definition": "improve; make better or clearer",
-            "type": "",
-            "word": "Enhance"
-        },
-        {
-            "definition": "noisy, attacking speech",
-            "type": "",
-            "word": "Harangue"
-        },
-        {
-            "definition": "a maze",
-            "type": "",
-            "word": "Labyrinth"
-        },
-        {
-            "definition": "to counter; make unimportant",
-            "type": "",
-            "word": "Nullify"
-        },
-        {
-            "definition": "petitioner (in court of law)",
-            "type": "",
-            "word": "Plaintiff"
-        },
-        {
-            "definition": "full",
-            "type": "",
-            "word": "Replete"
-        },
-        {
-            "definition": "can be touched",
-            "type": "",
-            "word": "Tangible"
-        },
-        {
-            "definition": "cancel; deny; repeal",
-            "type": "",
-            "word": "Abrogate"
-        },
-        {
-            "definition": "speech which offends religious sentiments",
-            "type": "",
-            "word": "Blasphemy"
-        },
-        {
-            "definition": "believable",
-            "type": "",
-            "word": "Credible"
-        },
-        {
-            "definition": "puzzle; mystery",
-            "type": "",
-            "word": "Enigma"
-        },
-        {
-            "definition": "indicators; bringers of warnings",
-            "type": "",
-            "word": "Harbingers"
-        },
-        {
-            "definition": "complicated; highly convoluted",
-            "type": "",
-            "word": "Labyrinthine"
-        },
-        {
-            "definition": "cuddle; snuggle",
-            "type": "",
-            "word": "Nuzzle"
-        },
-        {
-            "definition": "statement giving strong praise",
-            "type": "",
-            "word": "Plaudit"
-        },
-        {
-            "definition": "shameful; very bad",
-            "type": "",
-            "word": "Reprehensible"
-        },
-        {
-            "definition": "slow; late; overdue; delayed",
-            "type": "",
-            "word": "Tardy"
-        },
-        {
-            "definition": "forgiveness; pardon; release",
-            "type": "",
-            "word": "Absolution"
-        },
-        {
-            "definition": "obvious",
-            "type": "",
-            "word": "Blatant"
-        },
-        {
-            "definition": "praiseworthy",
-            "type": "",
-            "word": "Creditable"
-        },
-        {
-            "definition": "establish firmly in a position",
-            "type": "",
-            "word": "Ensconce"
-        },
-        {
-            "definition": "hurry; accelerate; rush",
-            "type": "",
-            "word": "Hasten"
-        },
-        {
-            "definition": "a cut",
-            "type": "",
-            "word": "Laceration"
-        },
-        {
-            "definition": "stubborn",
-            "type": "",
-            "word": "Obdurate"
-        },
-        {
-            "definition": "can be believed; reasonable",
-            "type": "",
-            "word": "Plausible"
-        },
-        {
-            "definition": "a respite; postponement of a sentence",
-            "type": "",
-            "word": "Reprieve"
-        },
-        {
-            "definition": "of little value; gaudy",
-            "type": "",
-            "word": "Tawdry"
-        },
-        {
-            "definition": "desist; go without; withdraw",
-            "type": "",
-            "word": "Abstain"
-        },
-        {
-            "definition": "damaged; destroyed; ruined",
-            "type": "",
-            "word": "Blighted"
-        },
-        {
-            "definition": "gullible; ready to believe anything",
-            "type": "",
-            "word": "Credulous"
-        },
-        {
-            "definition": "cover",
-            "type": "",
-            "word": "Enshroud"
-        },
-        {
-            "definition": "arrogance; pride",
-            "type": "",
-            "word": "Haughtiness"
-        },
-        {
-            "definition": "tearful; sad",
-            "type": "",
-            "word": "Lachrymose"
-        },
-        {
-            "definition": "deliberately make something difficult to understand",
-            "type": "",
-            "word": "Obfuscate"
-        },
-        {
-            "definition": "an excess",
-            "type": "",
-            "word": "Plethora"
-        },
-        {
-            "definition": "shun; eschew",
-            "type": "",
-            "word": "Repudiate"
-        },
-        {
-            "definition": "boredom",
-            "type": "",
-            "word": "Tedium"
-        },
-        {
-            "definition": "self denying; refraining from indulging",
-            "type": "",
-            "word": "Abstemious"
-        },
-        {
-            "definition": "free-spirited; carefree",
-            "type": "",
-            "word": "Blithe"
-        },
-        {
-            "definition": "active at dawn and dusk",
-            "type": "",
-            "word": "Crepuscular"
-        },
-        {
-            "definition": "clear pronunciation; accent; articulation",
-            "type": "",
-            "word": "Enunciation"
-        },
-        {
-            "definition": "stubborn; willful",
-            "type": "",
-            "word": "Headstrong"
-        },
-        {
-            "definition": "dull; monotonous; bland",
-            "type": "",
-            "word": "Lackluster"
-        },
-        {
-            "definition": "unbiased; not subjective",
-            "type": "",
-            "word": "Objective"
-        },
-        {
-            "definition": "flexible; not stubborn",
-            "type": "",
-            "word": "Pliable"
-        },
-        {
-            "definition": "retract; repeal",
-            "type": "",
-            "word": "Rescind"
-        },
-        {
-            "definition": "to moderate; soften",
-            "type": "",
-            "word": "Temper"
-        },
-        {
-            "definition": "difficult to understand; obscure",
-            "type": "",
-            "word": "Abstruse"
-        },
-        {
-            "definition": "1. ancient weapon (type of gun); 2. a clumsy person",
-            "type": "",
-            "word": "Blunderbuss"
-        },
-        {
-            "definition": "recoil; flinch; shy away",
-            "type": "",
-            "word": "Cringe"
-        },
-        {
-            "definition": "to cause bitterness and bad feeling",
-            "type": "",
-            "word": "Envenom"
-        },
-        {
-            "definition": "self indulgence; pleasure-seeking",
-            "type": "",
-            "word": "Hedonism"
-        },
-        {
-            "definition": "using few words; brief; to the point",
-            "type": "",
-            "word": "Laconic"
-        },
-        {
-            "definition": "indirect; slanting",
-            "type": "",
-            "word": "Oblique"
-        },
-        {
-            "definition": "feathers of a bird",
-            "type": "",
-            "word": "Plumage"
-        },
-        {
-            "definition": "acceptance of fate",
-            "type": "",
-            "word": "Resignation"
-        },
-        {
-            "definition": "stubborn; resolute; holding firm to a purpose",
-            "type": "",
-            "word": "Tenacious"
-        },
-        {
-            "definition": "tribute; honor; praise",
-            "type": "",
-            "word": "Accolade"
-        },
-        {
-            "definition": "support; prop up",
-            "type": "",
-            "word": "Bolster"
-        },
-        {
-            "definition": "puzzling; enigmatic",
-            "type": "",
-            "word": "Cryptic"
-        },
-        {
-            "definition": "short-lived",
-            "type": "",
-            "word": "Ephemeral"
-        },
-        {
-            "definition": "a pleasure seeker",
-            "type": "",
-            "word": "Hedonist"
-        },
-        {
-            "definition": "expression of regret or sorrow",
-            "type": "",
-            "word": "Lamentation"
-        },
-        {
-            "definition": "destroy; demolish; eradicate",
-            "type": "",
-            "word": "Obliterate"
-        },
-        {
-            "definition": "fall suddenly and steeply",
-            "type": "",
-            "word": "Plummet"
-        },
-        {
-            "definition": "determination",
-            "type": "",
-            "word": "Resolution"
-        },
-        {
-            "definition": "not certain",
-            "type": "",
-            "word": "Tentative"
-        },
-        {
-            "definition": "to agree to; give in to",
-            "type": "",
-            "word": "Acquiesce"
-        },
-        {
-            "definition": "arrogant, pompous language",
-            "type": "",
-            "word": "Bombast"
-        },
-        {
-            "definition": "cut short",
-            "type": "",
-            "word": "Curtail"
-        },
-        {
-            "definition": "someone who appreciates good food and drink",
-            "type": "",
-            "word": "Epicure"
-        },
-        {
-            "definition": "listen to",
-            "type": "",
-            "word": "Heed"
-        },
-        {
-            "definition": "ridicule; spoof",
-            "type": "",
-            "word": "Lampoon"
-        },
-        {
-            "definition": "totally unaware",
-            "type": "",
-            "word": "Oblivious"
-        },
-        {
-            "definition": "raised platform",
-            "type": "",
-            "word": "Podium"
-        },
-        {
-            "definition": "echoing",
-            "type": "",
-            "word": "Resonant"
-        },
-        {
-            "definition": "flimsy; not solid",
-            "type": "",
-            "word": "Tenuous"
-        },
-        {
-            "definition": "sharp; pungent (used of smells and tastes)",
-            "type": "",
-            "word": "Acrid"
-        },
-        {
-            "definition": "ill-mannered",
-            "type": "",
-            "word": "Boorish"
-        },
-        {
-            "definition": "believing that people act only out of selfish motives",
-            "type": "",
-            "word": "Cynical"
-        },
-        {
-            "definition": "a letter (form of communication)",
-            "type": "",
-            "word": "Epistle"
-        },
-        {
-            "definition": "against orthodox opinion",
-            "type": "",
-            "word": "Heresy"
-        },
-        {
-            "definition": "spear; spike; javelin",
-            "type": "",
-            "word": "Lance"
-        },
-        {
-            "definition": "difficult to understand; partially hidden",
-            "type": "",
-            "word": "Obscure"
-        },
-        {
-            "definition": "deeply moving; strongly affecting the emotions",
-            "type": "",
-            "word": "Poignant"
-        },
-        {
-            "definition": "a break; intermission",
-            "type": "",
-            "word": "Respite"
-        },
-        {
-            "definition": "concise; to the point",
-            "type": "",
-            "word": "Terse"
-        },
-        {
-            "definition": "fear of heights",
-            "type": "",
-            "word": "Acrophobia"
-        },
-        {
-            "definition": "middle class",
-            "type": "",
-            "word": "Bourgeois"
-        },
-        {
-            "definition": "weakness; incapacity",
-            "type": "",
-            "word": "Debility"
-        },
-        {
-            "definition": "concerned with letters; through correspondence",
-            "type": "",
-            "word": "Epistolary"
-        },
-        {
-            "definition": "interruption; pause",
-            "type": "",
-            "word": "Hiatus"
-        },
-        {
-            "definition": "tired; slow",
-            "type": "",
-            "word": "Languid"
-        },
-        {
-            "definition": "hidden; covered; buried",
-            "type": "",
-            "word": "Obscured"
-        },
-        {
-            "definition": "calm; collected; self-possessed",
-            "type": "",
-            "word": "Poised"
-        },
-        {
-            "definition": "shining; glowing",
-            "type": "",
-            "word": "Resplendent"
-        },
-        {
-            "definition": "medicinal; curative",
-            "type": "",
-            "word": "Therapeutic"
-        },
-        {
-            "definition": "sharpness (mental or visual)",
-            "type": "",
-            "word": "Acuity"
-        },
-        {
-            "definition": "someone who boasts",
-            "type": "",
-            "word": "Braggart"
-        },
-        {
-            "definition": "exposing false claims or myths",
-            "type": "",
-            "word": "Debunking"
-        },
-        {
-            "definition": "typified; characterized; personified",
-            "type": "",
-            "word": "Epitomized"
-        },
-        {
-            "definition": "rigid in opinions",
-            "type": "",
-            "word": "Hidebound"
-        },
-        {
-            "definition": "decay; fade away; get weaker",
-            "type": "",
-            "word": "Languish"
-        },
-        {
-            "definition": "servile; submissive",
-            "type": "",
-            "word": "Obsequious"
-        },
-        {
-            "definition": "causing debate or argument",
-            "type": "",
-            "word": "Polemical"
-        },
-        {
-            "definition": "a tonic",
-            "type": "",
-            "word": "Restorative"
-        },
-        {
-            "definition": "prevent; frustrate",
-            "type": "",
-            "word": "Thwart"
-        },
-        {
-            "definition": "forceful; inflexible",
-            "type": "",
-            "word": "Adamant"
-        },
-        {
-            "definition": "muscular",
-            "type": "",
-            "word": "Brawny"
-        },
-        {
-            "definition": "an athletic competition with ten events",
-            "type": "",
-            "word": "Decathlon"
-        },
-        {
-            "definition": "speak ambiguously; avoid telling the truth",
-            "type": "",
-            "word": "Equivocate"
-        },
-        {
-            "definition": "1. picture writing; 2. writing which is difficult to read or enigmatic",
-            "type": "",
-            "word": "Hieroglyphics"
-        },
-        {
-            "definition": "theft; robbery; stealing",
-            "type": "",
-            "word": "Larceny"
-        },
-        {
-            "definition": "a dominating concern",
-            "type": "",
-            "word": "Obsession"
-        },
-        {
-            "definition": "weighty; slow and heavy",
-            "type": "",
-            "word": "Ponderous"
-        },
-        {
-            "definition": "preservation; withholding",
-            "type": "",
-            "word": "Retention"
-        },
-        {
-            "definition": "cowardly; fearful",
-            "type": "",
-            "word": "Timorous"
-        },
-        {
-            "definition": "skilful / skillful",
-            "type": "",
-            "word": "Adroit"
-        },
-        {
-            "definition": "being brief",
-            "type": "",
-            "word": "Brevity"
-        },
-        {
-            "definition": "dignified, correct behavior [",
-            "type": "",
-            "word": "Decorum"
-        },
-        {
-            "definition": "]",
-            "type": "",
-            "word": "Err"
-        },
-        {
-            "definition": "make a mistake",
-            "type": "",
-            "word": "Hinder"
-        },
-        {
-            "definition": "obstruct",
-            "type": "",
-            "word": "Largess"
-        },
-        {
-            "definition": "generosity",
-            "type": "",
-            "word": "Obsolete"
-        },
-        {
-            "definition": "no longer valid",
-            "type": "",
-            "word": "Pontificate"
-        },
-        {
-            "definition": "speak pompously or dogmatically",
-            "type": "",
-            "word": "Reticent"
-        },
-        {
-            "definition": "restrained; holding something back; uncommunicative",
-            "type": "",
-            "word": "Tirade"
-        },
-        {
-            "definition": "stream of verbal abuse",
-            "type": "",
-            "word": "Adulation"
-        },
-        {
-            "definition": "strong admiration; worship",
-            "type": "",
-            "word": "Bristle"
-        },
-        {
-            "definition": "to show irritation",
-            "type": "",
-            "word": "Decoy"
-        },
-        {
-            "definition": "lure; trap; trick",
-            "type": "",
-            "word": "Erratic"
-        },
-        {
-            "definition": "wandering; irregular",
-            "type": "",
-            "word": "Histrionic"
-        },
-        {
-            "definition": "theatrical; exaggerated",
-            "type": "",
-            "word": "Laud"
-        },
-        {
-            "definition": "praise",
-            "type": "",
-            "word": "Obstreperous"
-        },
-        {
-            "definition": "noisy and boisterous",
-            "type": "",
-            "word": "Portend"
-        },
-        {
-            "definition": "foretell",
-            "type": "",
-            "word": "Retraction"
-        },
-        {
-            "definition": "withdrawal; cancellation of a statement",
-            "type": "",
-            "word": "Titter"
-        },
-        {
-            "definition": "giggle quietly",
-            "type": "",
-            "word": "Adversity"
-        },
-        {
-            "definition": "hardship",
-            "type": "",
-            "word": "Broach"
-        },
-        {
-            "definition": "start to discuss; approach",
-            "type": "",
-            "word": "Deference"
-        },
-        {
-            "definition": "respect",
-            "type": "",
-            "word": "Esoteric"
-        },
-        {
-            "definition": "obscure and difficult to understand",
-            "type": "",
-            "word": "Hoary"
-        },
-        {
-            "definition": "old",
-            "type": "",
-            "word": "Lavish"
-        },
-        {
-            "definition": "on a grand scale; wasteful",
-            "type": "",
-            "word": "Obtuse"
-        },
-        {
-            "definition": "mentally dull",
-            "type": "",
-            "word": "Portent"
-        },
-        {
-            "definition": "a warning sign; omen",
-            "type": "",
-            "word": "Revere"
-        },
-        {
-            "definition": "worship",
-            "type": "",
-            "word": "Tome"
-        },
-        {
-            "definition": "large book",
-            "type": "",
-            "word": "Advocate"
-        },
-        {
-            "definition": "support",
-            "type": "",
-            "word": "Brusque"
-        },
-        {
-            "definition": "blunt; abrupt",
-            "type": "",
-            "word": "Defoliate"
-        },
-        {
-            "definition": "cause leaves to fall off",
-            "type": "",
-            "word": "Espouse"
-        },
-        {
-            "definition": "promote; take up; support",
-            "type": "",
-            "word": "Hone"
-        },
-        {
-            "definition": "sharpen; increase; whet",
-            "type": "",
-            "word": "Lax"
-        },
-        {
-            "definition": "careless; not strict",
-            "type": "",
-            "word": "Obviate"
-        },
-        {
-            "definition": "avoid; make unnecessary",
-            "type": "",
-            "word": "Poseur"
-        },
-        {
-            "definition": "someone who puts on an act",
-            "type": "",
-            "word": "Riddled"
-        },
-        {
-            "definition": "full of (usually full of holes)",
-            "type": "",
-            "word": "Torpid"
-        },
-        {
-            "definition": "inactive; lazy; stagnant",
-            "type": "",
-            "word": "Aesthetic"
-        },
-        {
-            "definition": "concerning art or beauty",
-            "type": "",
-            "word": "Bulwark"
-        },
-        {
-            "definition": "fortification; barricade; wall",
-            "type": "",
-            "word": "Defunct"
-        },
-        {
-            "definition": "no longer in existence",
-            "type": "",
-            "word": "Etymology"
-        },
-        {
-            "definition": "the study of word origins",
-            "type": "",
-            "word": "Hyperbole"
-        },
-        {
-            "definition": "grossly exaggerated speech",
-            "type": "",
-            "word": "Legend"
-        },
-        {
-            "definition": "1. key to map;  2. myth or story",
-            "type": "",
-            "word": "Odious"
-        },
-        {
-            "definition": "hateful",
-            "type": "",
-            "word": "Posterity"
-        },
-        {
-            "definition": "future generations",
-            "type": "",
-            "word": "Rife"
-        },
-        {
-            "definition": "common",
-            "type": "",
-            "word": "Torpor"
-        },
-        {
-            "definition": "dormancy; sluggishness; inactivity",
-            "type": "",
-            "word": "Affable"
-        },
-        {
-            "definition": "friendly; social; easygoing",
-            "type": "",
-            "word": "Bureaucracy"
-        },
-        {
-            "definition": "officialdom",
-            "type": "",
-            "word": "Degradation"
-        },
-        {
-            "definition": "deprivation; poverty; debasement",
-            "type": "",
-            "word": "Eulogy"
-        },
-        {
-            "definition": "praise",
-            "type": "",
-            "word": "Hypochondriac"
-        },
-        {
-            "definition": "a person obsessed with health; having imaginary illnesses",
-            "type": "",
-            "word": "Legion"
-        },
-        {
-            "definition": "in large numbers",
-            "type": "",
-            "word": "Officious"
-        },
-        {
-            "definition": "domineering; intrusive; meddlesome",
-            "type": "",
-            "word": "Posthumous"
-        },
-        {
-            "definition": "after death",
-            "type": "",
-            "word": "Rigor"
-        },
-        {
-            "definition": "thoroughness",
-            "type": "",
-            "word": "Totter"
-        },
-        {
-            "definition": "eagerness; enthusiasm; quickness",
-            "type": "",
-            "word": "Alacrity"
-        },
-        {
-            "definition": "grow; flourish; put forth new shoots",
-            "type": "",
-            "word": "Burgeon"
-        },
-        {
-            "definition": "harmful",
-            "type": "",
-            "word": "Deleterious"
-        },
-        {
-            "definition": "a polite phrase to cover something unpleasant",
-            "type": "",
-            "word": "Euphemism"
-        },
-        {
-            "definition": "insincere",
-            "type": "",
-            "word": "Hypocritical"
-        },
-        {
-            "definition": "tired; without energy",
-            "type": "",
-            "word": "Lethargic"
-        },
-        {
-            "definition": "stare at; observe in an obvious manner",
-            "type": "",
-            "word": "Ogle"
-        },
-        {
-            "definition": "hypothesize; propose",
-            "type": "",
-            "word": "Postulate"
-        },
-        {
-            "definition": "strong; healthy; tough",
-            "type": "",
-            "word": "Robust"
-        },
-        {
-            "definition": "obedient; dutiful; polite",
-            "type": "",
-            "word": "Tractable"
-        },
-        {
-            "definition": "medieval chemistry; attempt to change base metal into gold",
-            "type": "",
-            "word": "Alchemy"
-        },
-        {
-            "definition": "polish",
-            "type": "",
-            "word": "Burnish"
-        },
-        {
-            "definition": "to think over deeply",
-            "type": "",
-            "word": "Deliberate"
-        },
-        {
-            "definition": "pleasant sounds",
-            "type": "",
-            "word": "Euphony"
-        },
-        {
-            "definition": "person who opposes orthodoxy",
-            "type": "",
-            "word": "Iconoclast"
-        },
-        {
-            "definition": "flippancy; joking about serious matters",
-            "type": "",
-            "word": "Levity"
-        },
-        {
-            "definition": "concerned with the sense of smell",
-            "type": "",
-            "word": "Olfactory"
-        },
-        {
-            "definition": "suitable for drinking",
-            "type": "",
-            "word": "Potable"
-        },
-        {
-            "definition": "round",
-            "type": "",
-            "word": "Rotund"
-        },
-        {
-            "definition": "peaceful",
-            "type": "",
-            "word": "Tranquil"
-        },
-        {
-            "definition": "an excuse that shows someone was not at a crime scene",
-            "type": "",
-            "word": "Alibi"
-        },
-        {
-            "definition": "strengthen; support",
-            "type": "",
-            "word": "Buttress"
-        },
-        {
-            "definition": "demarcation; explanation; definition; outlining",
-            "type": "",
-            "word": "Delineation"
-        },
-        {
-            "definition": "vacate; empty; abandon",
-            "type": "",
-            "word": "Evacuate"
-        },
-        {
-            "definition": "a personal peculiarity; something unique to an individual",
-            "type": "",
-            "word": "Idiosyncrasy"
-        },
-        {
-            "definition": "someone who opposes tyranny",
-            "type": "",
-            "word": "Libertarian"
-        },
-        {
-            "definition": "threatening",
-            "type": "",
-            "word": "Ominous"
-        },
-        {
-            "definition": "powerful; compelling; strong",
-            "type": "",
-            "word": "Potent"
-        },
-        {
-            "definition": "think over something; ponder",
-            "type": "",
-            "word": "Ruminate"
-        },
-        {
-            "definition": "copy",
-            "type": "",
-            "word": "Transcribe"
-        },
-        {
-            "definition": "to lessen",
-            "type": "",
-            "word": "Allay"
-        },
-        {
-            "definition": "the line that tells you who wrote an article",
-            "type": "",
-            "word": "Byline"
-        },
-        {
-            "definition": "hesitate; refuse",
-            "type": "",
-            "word": "Demur"
-        },
-        {
-            "definition": "make worse",
-            "type": "",
-            "word": "Exacerbate"
-        },
-        {
-            "definition": "shameful",
-            "type": "",
-            "word": "Ignominious"
-        },
-        {
-            "definition": "soothing lotion",
-            "type": "",
-            "word": "Liniment"
-        },
-        {
-            "definition": "all-powerful",
-            "type": "",
-            "word": "Omnipotent"
-        },
-        {
-            "definition": "practical",
-            "type": "",
-            "word": "Pragmatic"
-        },
-        {
-            "definition": "trick; stratagem",
-            "type": "",
-            "word": "Ruse"
-        },
-        {
-            "definition": "go astray; disobey; commit a sin",
-            "type": "",
-            "word": "Transgress"
-        },
-        {
-            "definition": "make less severe",
-            "type": "",
-            "word": "Alleviate"
-        },
-        {
-            "definition": "discordant loud noises",
-            "type": "",
-            "word": "Cacophony"
-        },
-        {
-            "definition": "condemn; speak out against",
-            "type": "",
-            "word": "Denounce"
-        },
-        {
-            "definition": "frustrated; annoyed",
-            "type": "",
-            "word": "Exasperated"
-        },
-        {
-            "definition": "shame [",
-            "type": "",
-            "word": "Ignominy"
-        },
-        {
-            "definition": "]",
-            "type": "",
-            "word": "Lithe"
-        },
-        {
-            "definition": "flexible; supple",
-            "type": "",
-            "word": "Omniscient"
-        },
-        {
-            "definition": "all-knowing",
-            "type": "",
-            "word": "Pragmatist"
-        },
-        {
-            "definition": "practical person; one who is concerned with usefulness",
-            "type": "",
-            "word": "Saccharin"
-        },
-        {
-            "definition": "falsely sweet",
-            "type": "",
-            "word": "Transient"
-        },
-        {
-            "definition": "short-lived; ephemeral",
-            "type": "",
-            "word": "Aloof"
-        },
-        {
-            "definition": "distant; detached; cold",
-            "type": "",
-            "word": "Cajole"
-        },
-        {
-            "definition": "coax",
-            "type": "",
-            "word": "Deplete"
-        },
-        {
-            "definition": "use up; lessen",
-            "type": "",
-            "word": "Exceptionable"
-        },
-        {
-            "definition": "very bad (something which we should object to)",
-            "type": "",
-            "word": "Illuminate"
-        },
-        {
-            "definition": "to light up or make clear",
-            "type": "",
-            "word": "Livid"
-        },
-        {
-            "definition": "very angry",
-            "type": "",
-            "word": "Onerous"
-        },
-        {
-            "definition": "burdensome; hard to undertake",
-            "type": "",
-            "word": "Preamble"
-        },
-        {
-            "definition": "introductory material",
-            "type": "",
-            "word": "Sacrosanct"
-        },
-        {
-            "definition": "very holy; inviolable",
-            "type": "",
-            "word": "Traverse"
-        },
-        {
-            "definition": "to move across",
-            "type": "",
-            "word": "Altruism"
-        },
-        {
-            "definition": "putting others first; being self-sacrificing",
-            "type": "",
-            "word": "Caldron"
-        },
-        {
-            "definition": "huge cooking pot",
-            "type": "",
-            "word": "Deplore"
-        },
-        {
-            "definition": "regret",
-            "type": "",
-            "word": "Exculpate"
-        },
-        {
-            "definition": "free someone from blame; pardon; acquit",
-            "type": "",
-            "word": "Illusory"
-        },
-        {
-            "definition": "deceptive; false; misleading",
-            "type": "",
-            "word": "Lobbyist"
-        },
-        {
-            "definition": "person who tries to persuade someone to support a particular cause",
-            "type": "",
-            "word": "Onus"
-        },
-        {
-            "definition": "burden",
-            "type": "",
-            "word": "Precarious"
-        },
-        {
-            "definition": "unstable; risky",
-            "type": "",
-            "word": "Sagacious"
-        },
-        {
-            "definition": "wise",
-            "type": "",
-            "word": "Trepidation"
-        },
-        {
-            "definition": "fear",
-            "type": "",
-            "word": "Amass"
-        },
-        {
-            "definition": "accumulate",
-            "type": "",
-            "word": "Callow"
-        },
-        {
-            "definition": "immature",
-            "type": "",
-            "word": "Depravity"
-        },
-        {
-            "definition": "moral corruption",
-            "type": "",
-            "word": "Execrable"
-        },
-        {
-            "definition": "very, very bad",
-            "type": "",
-            "word": "Immoderate"
-        },
-        {
-            "definition": "excessive; extreme",
-            "type": "",
-            "word": "Lofty"
-        },
-        {
-            "definition": "snooty; arrogant; haughty",
-            "type": "",
-            "word": "Opaque"
-        },
-        {
-            "definition": "does not let light through",
-            "type": "",
-            "word": "Precedent"
-        },
-        {
-            "definition": "a previous occurrence used as a guide",
-            "type": "",
-            "word": "Sage"
-        },
-        {
-            "definition": "a wise person",
-            "type": "",
-            "word": "Trinket"
-        },
-        {
-            "definition": "something of little value; knick-knack",
-            "type": "",
-            "word": "Ambiguity"
-        },
-        {
-            "definition": "uncertainty; vagueness",
-            "type": "",
-            "word": "Candid"
-        },
-        {
-            "definition": "frank; honest",
-            "type": "",
-            "word": "Deprecate"
-        },
-        {
-            "definition": "criticize; denounce",
-            "type": "",
-            "word": "Exegesis"
-        },
-        {
-            "definition": "scholarly explanation or interpretation",
-            "type": "",
-            "word": "Immutable"
-        },
-        {
-            "definition": "unchanging; permanent",
-            "type": "",
-            "word": "Longevity"
-        },
-        {
-            "definition": "long life",
-            "type": "",
-            "word": "Opulent"
-        },
-        {
-            "definition": "wealthy; rich; magnificent",
-            "type": "",
-            "word": "Precept"
-        },
-        {
-            "definition": "guiding principle",
-            "type": "",
-            "word": "Salacious"
-        },
-        {
-            "definition": "lecherous; erotic",
-            "type": "",
-            "word": "Trite"
-        },
-        {
-            "definition": "unoriginal; dull",
-            "type": "",
-            "word": "Ambiguous"
-        },
-        {
-            "definition": "unclear in meaning; can be interpreted in different ways",
-            "type": "",
-            "word": "Candor"
-        },
-        {
-            "definition": "frankness; openness",
-            "type": "",
-            "word": "Deride"
-        },
-        {
-            "definition": "ridicule; make fun of; mock",
-            "type": "",
-            "word": "Exemplary"
-        },
-        {
-            "definition": "outstandingly good; setting a fine example",
-            "type": "",
-            "word": "Impartial"
-        },
-        {
-            "definition": "unbiased; neutral",
-            "type": "",
-            "word": "Loquacious"
-        },
-        {
-            "definition": "talkative",
-            "type": "",
-            "word": "Ordain"
-        },
-        {
-            "definition": "1. destine; 2. confer holy orders on a priest",
-            "type": "",
-            "word": "Precinct"
-        },
-        {
-            "definition": "district of a city",
-            "type": "",
-            "word": "Sallow"
-        },
-        {
-            "definition": "yellowish",
-            "type": "",
-            "word": "Trivial"
-        },
-        {
-            "definition": "lack of clarity; wavering; being undecided",
-            "type": "",
-            "word": "Ambivalence"
-        },
-        {
-            "definition": "bad-tempered; quarrelsome",
-            "type": "",
-            "word": "Cantankerous"
-        },
-        {
-            "definition": "uncomplimentary",
-            "type": "",
-            "word": "Derogatory"
-        },
-        {
-            "definition": "to serve as a good example",
-            "type": "",
-            "word": "Exemplify"
-        },
-        {
-            "definition": "having no money",
-            "type": "",
-            "word": "Impecunious"
-        },
-        {
-            "definition": "clear",
-            "type": "",
-            "word": "Lucid"
-        },
-        {
-            "definition": "highly decorated",
-            "type": "",
-            "word": "Ornate"
-        },
-        {
-            "definition": "steep slope",
-            "type": "",
-            "word": "Precipice"
-        },
-        {
-            "definition": "health-giving",
-            "type": "",
-            "word": "Salubrious"
-        },
-        {
-            "definition": "shirker; someone absent without permission",
-            "type": "",
-            "word": "Truant"
-        },
-        {
-            "definition": "able to walk around (used of hospital patients)",
-            "type": "",
-            "word": "Ambulatory"
-        },
-        {
-            "definition": "spacious",
-            "type": "",
-            "word": "Capacious"
-        },
-        {
-            "definition": "to damage or pollute a holy place",
-            "type": "",
-            "word": "Desecrate"
-        },
-        {
-            "definition": "complete and thorough",
-            "type": "",
-            "word": "Exhaustive"
-        },
-        {
-            "definition": "wicked; profane",
-            "type": "",
-            "word": "Impious"
-        },
-        {
-            "definition": "ridiculous; silly",
-            "type": "",
-            "word": "Ludicrous"
-        },
-        {
-            "definition": "conventional",
-            "type": "",
-            "word": "Orthodox"
-        },
-        {
-            "definition": "done in a hurry",
-            "type": "",
-            "word": "Precipitous"
-        },
-        {
-            "definition": "something which teaches you a lesson; beneficial",
-            "type": "",
-            "word": "Salutary"
-        },
-        {
-            "definition": "cut short",
-            "type": "",
-            "word": "Truncate"
-        },
-        {
-            "definition": "make better",
-            "type": "",
-            "word": "Ameliorate"
-        },
-        {
-            "definition": "surrender; give in to",
-            "type": "",
-            "word": "Capitulate"
-        },
-        {
-            "definition": "spoiling something holy",
-            "type": "",
-            "word": "Desecration"
-        },
-        {
-            "definition": "acquits; absolves; removes blame",
-            "type": "",
-            "word": "Exonerates"
-        },
-        {
-            "definition": "destitute; poor",
-            "type": "",
-            "word": "Impoverished"
-        },
-        {
-            "definition": "1. unenthusiastic; 2. neither hot nor cold",
-            "type": "",
-            "word": "Lukewarm"
-        },
-        {
-            "definition": "1. turn to bone; 2. become fixed and rigid",
-            "type": "",
-            "word": "Ossify"
-        },
-        {
-            "definition": "prevent or make impossible",
-            "type": "",
-            "word": "Preclude"
-        },
-        {
-            "definition": "hypocritically holy",
-            "type": "",
-            "word": "Sanctimonious"
-        },
-        {
-            "definition": "uproar; noise",
-            "type": "",
-            "word": "Tumult"
-        },
-        {
-            "definition": "improvement",
-            "type": "",
-            "word": "Amelioration"
-        },
-        {
-            "definition": "constant criticism",
-            "type": "",
-            "word": "Carping"
-        },
-        {
-            "definition": "stop; discontinue; cease",
-            "type": "",
-            "word": "Desist"
-        },
-        {
-            "definition": "getting free/rid of; eliminating (especially demons)",
-            "type": "",
-            "word": "Exorcism"
-        },
-        {
-            "definition": "unrehearsed; spontaneous",
-            "type": "",
-            "word": "Impromptu"
-        },
-        {
-            "definition": "clumsy person",
-            "type": "",
-            "word": "Lummox"
-        },
-        {
-            "definition": "showy",
-            "type": "",
-            "word": "Ostentatious"
-        },
-        {
-            "definition": "developing early",
-            "type": "",
-            "word": "Precocious"
-        },
-        {
-            "definition": "give approval to",
-            "type": "",
-            "word": "Sanction"
-        },
-        {
-            "definition": "depravity",
-            "type": "",
-            "word": "Turpitude"
-        },
-        {
-            "definition": "friendly",
-            "type": "",
-            "word": "Amiable"
-        },
-        {
-            "definition": "person who makes maps",
-            "type": "",
-            "word": "Cartographer"
-        },
-        {
-            "definition": "having no hope; miserable",
-            "type": "",
-            "word": "Despondent"
-        },
-        {
-            "definition": "refugee; emigrant; someone living away from his own country",
-            "type": "",
-            "word": "Expatriate"
-        },
-        {
-            "definition": "not intentional",
-            "type": "",
-            "word": "Inadvertent"
-        },
-        {
-            "definition": "juicy; moist; succulent",
-            "type": "",
-            "word": "Luscious"
-        },
-        {
-            "definition": "push out of a position",
-            "type": "",
-            "word": "Oust"
-        },
-        {
-            "definition": "one who came before",
-            "type": "",
-            "word": "Predecessor"
-        },
-        {
-            "definition": "bloodthirsty; bloody",
-            "type": "",
-            "word": "Sanguinary"
-        },
-        {
-            "definition": "novice; beginner",
-            "type": "",
-            "word": "Tyro"
-        },
-        {
-            "definition": "friendship",
-            "type": "",
-            "word": "Amity"
-        },
-        {
-            "definition": "scold strongly",
-            "type": "",
-            "word": "Castigate"
-        },
-        {
-            "definition": "hardship; poverty; misery",
-            "type": "",
-            "word": "Destitution"
-        },
-        {
-            "definition": "convenient; practical",
-            "type": "",
-            "word": "Expedient"
-        },
-        {
-            "definition": "chant; invocation; prayer",
-            "type": "",
-            "word": "Incantation"
-        },
-        {
-            "definition": "assassinate; kill; illegal hanging",
-            "type": "",
-            "word": "Lynch"
-        },
-        {
-            "definition": "obvious; not hidden",
-            "type": "",
-            "word": "Overt"
-        },
-        {
-            "definition": "dilemma; difficult situation",
-            "type": "",
-            "word": "Predicament"
-        },
-        {
-            "definition": "optimistic; cheerful",
-            "type": "",
-            "word": "Sanguine"
-        },
-        {
-            "definition": "found everywhere; omnipresent",
-            "type": "",
-            "word": "Ubiquitous"
-        },
-        {
-            "definition": "lacking in shape",
-            "type": "",
-            "word": "Amorphous"
-        },
-        {
-            "definition": "purging of pent-up emotions",
-            "type": "",
-            "word": "Catharsis"
-        },
-        {
-            "definition": "put off; prevent",
-            "type": "",
-            "word": "Deter"
-        },
-        {
-            "definition": "make faster",
-            "type": "",
-            "word": "Expedite"
-        },
-        {
-            "definition": "putting in prison",
-            "type": "",
-            "word": "Incarceration"
-        },
-        {
-            "definition": "plots and plans",
-            "type": "",
-            "word": "Machinations"
-        },
-        {
-            "definition": "worked up; in an emotional state",
-            "type": "",
-            "word": "Overwrought"
-        },
-        {
-            "definition": "famous; outstanding",
-            "type": "",
-            "word": "Preeminent"
-        },
-        {
-            "definition": "mocking",
-            "type": "",
-            "word": "Sardonic"
-        },
-        {
-            "definition": "undiluted; total",
-            "type": "",
-            "word": "Unalloyed"
-        },
-        {
-            "definition": "medicine to combat pain",
-            "type": "",
-            "word": "Analgesic"
-        },
-        {
-            "definition": "type of private political meeting",
-            "type": "",
-            "word": "Caucus"
-        },
-        {
-            "definition": "worsen; decline",
-            "type": "",
-            "word": "Deteriorate"
-        },
-        {
-            "definition": "clear explanation",
-            "type": "",
-            "word": "Exposition"
-        },
-        {
-            "definition": "without stopping",
-            "type": "",
-            "word": "Incessant"
-        },
-        {
-            "definition": "whirlpool; storm in the ocean",
-            "type": "",
-            "word": "Maelstrom"
-        },
-        {
-            "definition": "good to eat; agreeable",
-            "type": "",
-            "word": "Palatable"
-        },
-        {
-            "definition": "right or privilege",
-            "type": "",
-            "word": "Prerogative"
-        },
-        {
-            "definition": "person with knowledge",
-            "type": "",
-            "word": "Savant"
-        },
-        {
-            "definition": "oily; using excessive flattery",
-            "type": "",
-            "word": "Unctuous"
-        },
-        {
-            "definition": "comparable",
-            "type": "",
-            "word": "Analogous"
-        },
-        {
-            "definition": "burning",
-            "type": "",
-            "word": "Caustic"
-        },
-        {
-            "definition": "harmful",
-            "type": "",
-            "word": "Detrimental"
-        },
-        {
-            "definition": "praise",
-            "type": "",
-            "word": "Extol"
-        },
-        {
-            "definition": "just beginning",
-            "type": "",
-            "word": "Incipient"
-        },
-        {
-            "definition": "generous; big-hearted",
-            "type": "",
-            "word": "Magnanimous"
-        },
-        {
-            "definition": "fence made of posts",
-            "type": "",
-            "word": "Palisade"
-        },
-        {
-            "definition": "having fore-knowledge",
-            "type": "",
-            "word": "Prescient"
-        },
-        {
-            "definition": "to climb",
-            "type": "",
-            "word": "Scale"
-        },
-        {
-            "definition": "damaged; attacked",
-            "type": "",
-            "word": "Undermined"
-        },
-        {
-            "definition": "chaos; lack of government",
-            "type": "",
-            "word": "Anarchy"
-        },
-        {
-            "definition": "procession of vehicles",
-            "type": "",
-            "word": "Cavalcade"
-        },
-        {
-            "definition": "greedily eaten/consumed",
-            "type": "",
-            "word": "Devoured"
-        },
-        {
-            "definition": "deport from one country back to the home country",
-            "type": "",
-            "word": "Extradite"
-        },
-        {
-            "definition": "tendency; a leaning toward",
-            "type": "",
-            "word": "Inclination"
-        },
-        {
-            "definition": "powerful businessman",
-            "type": "",
-            "word": "Magnate"
-        },
-        {
-            "definition": "a remedy that improves but doesn't cure",
-            "type": "",
-            "word": "Palliative"
-        },
-        {
-            "definition": "a feeling that something might happen",
-            "type": "",
-            "word": "Presentiment"
-        },
-        {
-            "definition": "person on whom blame is placed for faults of others",
-            "type": "",
-            "word": "Scapegoat"
-        },
-        {
-            "definition": "emphasize",
-            "type": "",
-            "word": "Underscore"
-        },
-        {
-            "definition": "a brief amusing story",
-            "type": "",
-            "word": "Anecdote"
-        },
-        {
-            "definition": "speed",
-            "type": "",
-            "word": "Celerity"
-        },
-        {
-            "definition": "skilful with hands",
-            "type": "",
-            "word": "Dexterous"
-        },
-        {
-            "definition": "irrelevant",
-            "type": "",
-            "word": "Extraneous"
-        },
-        {
-            "definition": "not clear",
-            "type": "",
-            "word": "Incoherent"
-        },
-        {
-            "definition": "clumsy; unskillful",
-            "type": "",
-            "word": "Maladroit"
-        },
-        {
-            "definition": "pale",
-            "type": "",
-            "word": "Pallid"
-        },
-        {
-            "definition": "assuming too much; arrogant",
-            "type": "",
-            "word": "Presumptuous"
-        },
-        {
-            "definition": "careful; diligent; painstaking",
-            "type": "",
-            "word": "Scrupulous"
-        },
-        {
-            "definition": "clear; obvious",
-            "type": "",
-            "word": "Unequivocal"
-        },
-        {
-            "definition": "hatred; antagonism",
-            "type": "",
-            "word": "Animosity"
-        },
-        {
-            "definition": "disapproving; critical",
-            "type": "",
-            "word": "Censorious"
-        },
-        {
-            "definition": "a division into two parts",
-            "type": "",
-            "word": "Dichotomy"
-        },
-        {
-            "definition": "extend; predict on the basis of known data",
-            "type": "",
-            "word": "Extrapolate"
-        },
-        {
-            "definition": "not fitting in; out of place",
-            "type": "",
-            "word": "Incongruous"
-        },
-        {
-            "definition": "illness",
-            "type": "",
-            "word": "Malady"
-        },
-        {
-            "definition": "easily felt; easily perceived",
-            "type": "",
-            "word": "Palpable"
-        },
-        {
-            "definition": "pompous; self-important",
-            "type": "",
-            "word": "Pretentious"
-        },
-        {
-            "definition": "examine carefully",
-            "type": "",
-            "word": "Scrutinize"
-        },
-        {
-            "definition": "set free",
-            "type": "",
-            "word": "Unfetter"
-        },
-        {
-            "definition": "a building which is an addition to an existing building",
-            "type": "",
-            "word": "Annex "
-        },
-        {
-            "definition": "blame",
-            "type": "",
-            "word": "Censure"
-        },
-        {
-            "definition": "intended to teach; instructive",
-            "type": "",
-            "word": "Didactic"
-        },
-        {
-            "definition": "irrelevant; on the outside",
-            "type": "",
-            "word": "Extrinsic"
-        },
-        {
-            "definition": "unimportant; insignificant; negligible",
-            "type": "",
-            "word": "Inconsequential"
-        },
-        {
-            "definition": "a curse",
-            "type": "",
-            "word": "Malediction"
-        },
-        {
-            "definition": "remedy for all ills",
-            "type": "",
-            "word": "Panacea"
-        },
-        {
-            "definition": "speak misleadingly and evasively",
-            "type": "",
-            "word": "Prevaricate"
-        },
-        {
-            "definition": "sink",
-            "type": "",
-            "word": "Scuttle"
-        },
-        {
-            "definition": "to remove a priest from his position",
-            "type": "",
-            "word": "Unfrock"
-        },
-        {
-            "definition": "take possession of; seize; capture",
-            "type": "",
-            "word": "Annex "
-        },
-        {
-            "definition": "intellectual",
-            "type": "",
-            "word": "Cerebral"
-        },
-        {
-            "definition": "lacking confidence",
-            "type": "",
-            "word": "Diffident"
-        },
-        {
-            "definition": "false",
-            "type": "",
-            "word": "Fallacious"
-        },
-        {
-            "definition": "not easily seen; subtle; not noticeable",
-            "type": "",
-            "word": "Inconspicuous"
-        },
-        {
-            "definition": "a wrong-doer",
-            "type": "",
-            "word": "Malefactor"
-        },
-        {
-            "definition": "1. example; 2. model; 3. way of looking at things",
-            "type": "",
-            "word": "Paradigm"
-        },
-        {
-            "definition": "unspoiled",
-            "type": "",
-            "word": "Pristine"
-        },
-        {
-            "definition": "an institution in which priests are trained",
-            "type": "",
-            "word": "Seminary"
-        },
-        {
-            "definition": "never having happened before",
-            "type": "",
-            "word": "Unprecedented"
-        },
-        {
-            "definition": "something which does not fit in a pattern; irregularity",
-            "type": "",
-            "word": "Anomaly"
-        },
-        {
-            "definition": "certainty",
-            "type": "",
-            "word": "Certitude"
-        },
-        {
-            "definition": "wander off the subject",
-            "type": "",
-            "word": "Digress"
-        },
-        {
-            "definition": "hesitate; waver",
-            "type": "",
-            "word": "Falter"
-        },
-        {
-            "definition": "cannot be wiped out",
-            "type": "",
-            "word": "Indelible"
-        },
-        {
-            "definition": "deliberately avoid work; shirk",
-            "type": "",
-            "word": "Malinger"
-        },
-        {
-            "definition": "apparently contradictory statement",
-            "type": "",
-            "word": "Paradox"
-        },
-        {
-            "definition": "tendency towards",
-            "type": "",
-            "word": "Proclivity"
-        },
-        {
-            "definition": "appealing to the senses",
-            "type": "",
-            "word": "Sensuous"
-        },
-        {
-            "definition": "unharmed; intact; without a scratch",
-            "type": "",
-            "word": "Unscathed"
-        },
-        {
-            "definition": "hostility; strong opposition",
-            "type": "",
-            "word": "Antagonism"
-        },
-        {
-            "definition": "trickster who claims knowledge he doesn't have",
-            "type": "",
-            "word": "Charlatan"
-        },
-        {
-            "definition": "dam; embankment",
-            "type": "",
-            "word": "Dike"
-        },
-        {
-            "definition": "obsessive; fixated",
-            "type": "",
-            "word": "Fanatical"
-        },
-        {
-            "definition": "1. neutral;  2. not outstanding",
-            "type": "",
-            "word": "Indifferent"
-        },
-        {
-            "definition": "person who deliberately tries to avoid work",
-            "type": "",
-            "word": "Malingerer"
-        },
-        {
-            "definition": "a perfect example",
-            "type": "",
-            "word": "Paragon"
-        },
-        {
-            "definition": "delay; put off",
-            "type": "",
-            "word": "Procrastinate"
-        },
-        {
-            "definition": "guard; sentry",
-            "type": "",
-            "word": "Sentinel"
-        },
-        {
-            "definition": "not deliberate; unconscious",
-            "type": "",
-            "word": "Unwitting"
-        },
-        {
-            "definition": "opposed; hostile; aggressive",
-            "type": "",
-            "word": "Antagonistic"
-        },
-        {
-            "definition": "wary of; cautious about; reluctant to give",
-            "type": "",
-            "word": "Chary"
-        },
-        {
-            "definition": "slow; falling behind with one's work",
-            "type": "",
-            "word": "Dilatory"
-        },
-        {
-            "definition": "passion; excessive devotion",
-            "type": "",
-            "word": "Fanaticism"
-        },
-        {
-            "definition": "native to a particular area",
-            "type": "",
-            "word": "Indigenous"
-        },
-        {
-            "definition": "flexible; can be shaped",
-            "type": "",
-            "word": "Malleable"
-        },
-        {
-            "definition": "of supreme importance",
-            "type": "",
-            "word": "Paramount"
-        },
-        {
-            "definition": "wasteful; extravagant",
-            "type": "",
-            "word": "Prodigal"
-        },
-        {
-            "definition": "isolate",
-            "type": "",
-            "word": "Sequester"
-        },
-        {
-            "definition": "scold; tell off; reprimand",
-            "type": "",
-            "word": "Upbraid"
-        },
-        {
-            "definition": "outdated; prehistoric; very old-fashioned",
-            "type": "",
-            "word": "Antediluvian"
-        },
-        {
-            "definition": "punishes",
-            "type": "",
-            "word": "Chastises"
-        },
-        {
-            "definition": "puzzling situation",
-            "type": "",
-            "word": "Dilemma"
-        },
-        {
-            "definition": "overly particular; finicky",
-            "type": "",
-            "word": "Fastidious"
-        },
-        {
-            "definition": "laziness",
-            "type": "",
-            "word": "Indolence"
-        },
-        {
-            "definition": "1. wooden hammer; 2. stick used for polo",
-            "type": "",
-            "word": "Mallet"
-        },
-        {
-            "definition": "1. scrounger; 2. animal which takes digested food from another",
-            "type": "",
-            "word": "Parasite"
-        },
-        {
-            "definition": "very large",
-            "type": "",
-            "word": "Prodigious"
-        },
-        {
-            "definition": "fortunate coincidence; unsought discovery",
-            "type": "",
-            "word": "Serendipity"
-        },
-        {
-            "definition": "hilarious; hysterical; very funny",
-            "type": "",
-            "word": "Uproarious"
-        },
-        {
-            "definition": "a book which is a collection of poems or stories",
-            "type": "",
-            "word": "Anthology"
-        },
-        {
-            "definition": "trickery",
-            "type": "",
-            "word": "Chicanery"
-        },
-        {
-            "definition": "person who dabbles in a subject without serious study",
-            "type": "",
-            "word": "Dilettante"
-        },
-        {
-            "definition": "silly; foolish",
-            "type": "",
-            "word": "Fatuous"
-        },
-        {
-            "definition": "novice; beginner",
-            "type": "",
-            "word": "Inductee"
-        },
-        {
-            "definition": "influencable; controllable",
-            "type": "",
-            "word": "Manipulatable"
-        },
-        {
-            "definition": "dried up",
-            "type": "",
-            "word": "Parched"
-        },
-        {
-            "definition": "unholy",
-            "type": "",
-            "word": "Profane"
-        },
-        {
-            "definition": "calm; peaceful",
-            "type": "",
-            "word": "Serene"
-        },
-        {
-            "definition": "outcome",
-            "type": "",
-            "word": "Upshot"
-        },
-        {
-            "definition": "putting man at the center of one's philosophy",
-            "type": "",
-            "word": "Anthropocentrism"
-        },
-        {
-            "definition": "changeable; unstable",
-            "type": "",
-            "word": "Chimerical"
-        },
-        {
-            "definition": "hard-working",
-            "type": "",
-            "word": "Diligent"
-        },
-        {
-            "definition": "possible and practicable",
-            "type": "",
-            "word": "Feasible"
-        },
-        {
-            "definition": "pampering; satisfying desires",
-            "type": "",
-            "word": "Indulgent"
-        },
-        {
-            "definition": "damaged; spoiled",
-            "type": "",
-            "word": "Marred"
-        },
-        {
-            "definition": "an outcast from society",
-            "type": "",
-            "word": "Pariah"
-        },
-        {
-            "definition": "swearing; cursing",
-            "type": "",
-            "word": "Profanity"
-        },
-        {
-            "definition": "jagged; saw-like",
-            "type": "",
-            "word": "Serrated"
-        },
-        {
-            "definition": "sophisticated; suave",
-            "type": "",
-            "word": "Urbane"
-        },
-        {
-            "definition": "outdated; old fashioned",
-            "type": "",
-            "word": "Antiquated"
-        },
-        {
-            "definition": "easily angered",
-            "type": "",
-            "word": "Choleric"
-        },
-        {
-            "definition": "model of a scene",
-            "type": "",
-            "word": "Diorama"
-        },
-        {
-            "definition": "fertile",
-            "type": "",
-            "word": "Fecund"
-        },
-        {
-            "definition": "drunkenness; intoxication",
-            "type": "",
-            "word": "Inebriation"
-        },
-        {
-            "definition": "to gather together",
-            "type": "",
-            "word": "Marshal"
-        },
-        {
-            "definition": "equality",
-            "type": "",
-            "word": "Parity"
-        },
-        {
-            "definition": "having deep meaning",
-            "type": "",
-            "word": "Profound"
-        },
-        {
-            "definition": "overly submissive; groveling",
-            "type": "",
-            "word": "Servile"
-        },
-        {
-            "definition": "take someone's position (usually by force)",
-            "type": "",
-            "word": "Usurp"
-        },
-        {
-            "definition": "indifferent; uninterested; lethargic",
-            "type": "",
-            "word": "Apathetic"
-        },
-        {
-            "definition": "person who records historical information",
-            "type": "",
-            "word": "Chronicler"
-        },
-        {
-            "definition": "mournful song",
-            "type": "",
-            "word": "Dirge"
-        },
-        {
-            "definition": "apt",
-            "type": "",
-            "word": "Felicitous"
-        },
-        {
-            "definition": "cannot be expressed in words",
-            "type": "",
-            "word": "Ineffable"
-        },
-        {
-            "definition": "pouched mammal (like a kangaroo)",
-            "type": "",
-            "word": "Marsupial"
-        },
-        {
-            "definition": "narrow-minded; concerned only with local matters",
-            "type": "",
-            "word": "Parochial"
-        },
-        {
-            "definition": "depth",
-            "type": "",
-            "word": "Profundity"
-        },
-        {
-            "definition": "doubting; not gullible",
-            "type": "",
-            "word": "Skeptical"
-        },
-        {
-            "definition": "useful",
-            "type": "",
-            "word": "Utilitarian"
-        },
-        {
-            "definition": "lack of interest or emotion",
-            "type": "",
-            "word": "Apathy"
-        },
-        {
-            "definition": "indirect",
-            "type": "",
-            "word": "Circuitous"
-        },
-        {
-            "definition": "disapproval",
-            "type": "",
-            "word": "Disapprobation"
-        },
-        {
-            "definition": "passion; enthusiasm",
-            "type": "",
-            "word": "Fervor"
-        },
-        {
-            "definition": "incompetent; unskilled; useless",
-            "type": "",
-            "word": "Inept"
-        },
-        {
-            "definition": "person who believes in strict discipline",
-            "type": "",
-            "word": "Martinet"
-        },
-        {
-            "definition": "a mockery; imitation for ridicule; spoof",
-            "type": "",
-            "word": "Parody"
-        },
-        {
-            "definition": "member of the working class",
-            "type": "",
-            "word": "Proletarian"
-        },
-        {
-            "definition": "minor battle",
-            "type": "",
-            "word": "Skirmish"
-        },
-        {
-            "definition": "a believer in an ideal world",
-            "type": "",
-            "word": "Utopian"
-        },
-        {
-            "definition": "of doubtful origin",
-            "type": "",
-            "word": "Apocryphal"
-        },
-        {
-            "definition": "using too many words; long-windedness",
-            "type": "",
-            "word": "Circumlocution"
-        },
-        {
-            "definition": "to distinguish one thing from another",
-            "type": "",
-            "word": "Discern"
-        },
-        {
-            "definition": "unpredictable; whimsical; easily swayed",
-            "type": "",
-            "word": "Fickle"
-        },
-        {
-            "definition": "inactivity; lethargy",
-            "type": "",
-            "word": "Inertia"
-        },
-        {
-            "definition": "person who intentionally inflicts pain on himself",
-            "type": "",
-            "word": "Masochist"
-        },
-        {
-            "definition": "ward off; avoid",
-            "type": "",
-            "word": "Parry"
-        },
-        {
-            "definition": "producing a lot",
-            "type": "",
-            "word": "Prolific"
-        },
-        {
-            "definition": "slow-moving; lethargic person",
-            "type": "",
-            "word": "Sluggard"
-        },
-        {
-            "definition": "waver; hesitate",
-            "type": "",
-            "word": "Vacillate"
-        },
-        {
-            "definition": "pacify; soothe; calm down; make peace with",
-            "type": "",
-            "word": "Appease"
-        },
-        {
-            "definition": "limit",
-            "type": "",
-            "word": "Circumscribe"
-        },
-        {
-            "definition": "disagreement",
-            "type": "",
-            "word": "Discord"
-        },
-        {
-            "definition": "skill",
-            "type": "",
-            "word": "Finesse"
-        },
-        {
-            "definition": "cannot be avoided",
-            "type": "",
-            "word": "Inevitable"
-        },
-        {
-            "definition": "society governed by women",
-            "type": "",
-            "word": "Matriarchy"
-        },
-        {
-            "definition": "economical; frugal; thrifty",
-            "type": "",
-            "word": "Parsimonious"
-        },
-        {
-            "definition": "promoters; supporters",
-            "type": "",
-            "word": "Proponents"
-        },
-        {
-            "definition": "refine an ore",
-            "type": "",
-            "word": "Smelt"
-        },
-        {
-            "definition": "empty; silly; meaningless",
-            "type": "",
-            "word": "Vacuous"
-        },
-        {
-            "definition": "worried; fearful",
-            "type": "",
-            "word": "Apprehensive"
-        },
-        {
-            "definition": "cautious; considering all sides",
-            "type": "",
-            "word": "Circumspect"
-        },
-        {
-            "definition": "cacophony; harshness; jarring",
-            "type": "",
-            "word": "Discordancy"
-        },
-        {
-            "definition": "not continuous; stopping and starting",
-            "type": "",
-            "word": "Fitful"
-        },
-        {
-            "definition": "relentless",
-            "type": "",
-            "word": "Inexorable"
-        },
-        {
-            "definition": "a loner",
-            "type": "",
-            "word": "Maverick"
-        },
-        {
-            "definition": "stinginess; frugality; cost-cutting",
-            "type": "",
-            "word": "Parsimony"
-        },
-        {
-            "definition": "dull; boring; ordinary",
-            "type": "",
-            "word": "Prosaic"
-        },
-        {
-            "definition": "a Swedish buffet of cold dishes",
-            "type": "",
-            "word": "Smorgasbord"
-        },
-        {
-            "definition": "person wandering without a home",
-            "type": "",
-            "word": "Vagrant"
-        },
-        {
-            "definition": "can be cultivated",
-            "type": "",
-            "word": "Arable"
-        },
-        {
-            "definition": "avoid",
-            "type": "",
-            "word": "Circumvent"
-        },
-        {
-            "definition": "something which does not match up; inconsistency",
-            "type": "",
-            "word": "Discrepancy"
-        },
-        {
-            "definition": "clearly wrong",
-            "type": "",
-            "word": "Flagrant"
-        },
-        {
-            "definition": "not advisable",
-            "type": "",
-            "word": "Inexpedient"
-        },
-        {
-            "definition": "in short supply",
-            "type": "",
-            "word": "Meager"
-        },
-        {
-            "definition": "biased; one-sided; committed to one group",
-            "type": "",
-            "word": "Partisan"
-        },
-        {
-            "definition": "forbid",
-            "type": "",
-            "word": "Proscribe"
-        },
-        {
-            "definition": "comfort for grief",
-            "type": "",
-            "word": "Solace"
-        },
-        {
-            "definition": "dull; uninspiring",
-            "type": "",
-            "word": "Vapid"
-        },
-        {
-            "definition": "random; for no definite reason",
-            "type": "",
-            "word": "Arbitrary"
-        },
-        {
-            "definition": "psychic; mystic",
-            "type": "",
-            "word": "Clairvoyant"
-        },
-        {
-            "definition": "to make a clear distinction; see the difference",
-            "type": "",
-            "word": "Discriminate"
-        },
-        {
-            "definition": "showy; ornate",
-            "type": "",
-            "word": "Flamboyant"
-        },
-        {
-            "definition": "perfect; flawless; cannot make mistakes",
-            "type": "",
-            "word": "Infallible"
-        },
-        {
-            "definition": "wander from side to side",
-            "type": "",
-            "word": "Meander"
-        },
-        {
-            "definition": "evoking sadness or pity",
-            "type": "",
-            "word": "Pathos"
-        },
-        {
-            "definition": "study of versification",
-            "type": "",
-            "word": "Prosody"
-        },
-        {
-            "definition": "to ask for; seek",
-            "type": "",
-            "word": "Solicit"
-        },
-        {
-            "definition": "multicolored; speckled",
-            "type": "",
-            "word": "Variegated"
-        },
-        {
-            "definition": "obscure; known only to a few people",
-            "type": "",
-            "word": "Arcane"
-        },
-        {
-            "definition": "shout; scream",
-            "type": "",
-            "word": "Clamor"
-        },
-        {
-            "definition": "long windedness; indirectness",
-            "type": "",
-            "word": "Discursiveness"
-        },
-        {
-            "definition": "show off; display in a showy manner",
-            "type": "",
-            "word": "Flaunt"
-        },
-        {
-            "definition": "famous for something bad",
-            "type": "",
-            "word": "Infamous"
-        },
-        {
-            "definition": "soft; melodious; ripe",
-            "type": "",
-            "word": "Mellow"
-        },
-        {
-            "definition": "one who give support (usually financial)",
-            "type": "",
-            "word": "Patron"
-        },
-        {
-            "definition": "1. lying face down; 2. be overcome with extreme weakness",
-            "type": "",
-            "word": "Prostration"
-        },
-        {
-            "definition": "sleepwalker",
-            "type": "",
-            "word": "Somnambulist"
-        },
-        {
-            "definition": "violence; fervor; forcefulness",
-            "type": "",
-            "word": "Vehemence"
-        },
-        {
-            "definition": "ancient; outdated; old fashioned",
-            "type": "",
-            "word": "Archaic"
-        },
-        {
-            "definition": "secret; covert; stealthy",
-            "type": "",
-            "word": "Clandestine"
-        },
-        {
-            "definition": "contempt; strong dislike",
-            "type": "",
-            "word": "Disdain"
-        },
-        {
-            "definition": "making jokes about serious matters",
-            "type": "",
-            "word": "Flippant"
-        },
-        {
-            "definition": "deduce; conclude",
-            "type": "",
-            "word": "Infer"
-        },
-        {
-            "definition": "collection of animals",
-            "type": "",
-            "word": "Menagerie"
-        },
-        {
-            "definition": "condescend to; behave in an arrogant manner towards",
-            "type": "",
-            "word": "Patronize"
-        },
-        {
-            "definition": "main character in film, book, play etc.",
-            "type": "",
-            "word": "Protagonist"
-        },
-        {
-            "definition": "fortuneteller",
-            "type": "",
-            "word": "Soothsayer"
-        },
-        {
-            "definition": "forceful",
-            "type": "",
-            "word": "Vehement"
-        },
-        {
-            "definition": "classic example of",
-            "type": "",
-            "word": "Archetype"
-        },
-        {
-            "definition": "mercy",
-            "type": "",
-            "word": "Clemency"
-        },
-        {
-            "definition": "unbiased",
-            "type": "",
-            "word": "Disinterested"
-        },
-        {
-            "definition": "defy; reject",
-            "type": "",
-            "word": "Flout"
-        },
-        {
-            "definition": "na\u00efve, unsophisticated person",
-            "type": "",
-            "word": "Ing\u00e9nue"
-        },
-        {
-            "definition": "given to lying",
-            "type": "",
-            "word": "Mendacious"
-        },
-        {
-            "definition": "shortage",
-            "type": "",
-            "word": "Paucity"
-        },
-        {
-            "definition": "changeable",
-            "type": "",
-            "word": "Protean"
-        },
-        {
-            "definition": "juvenile; immature",
-            "type": "",
-            "word": "Sophomoric"
-        },
-        {
-            "definition": "corrupt; can be bribed",
-            "type": "",
-            "word": "Venal"
-        },
-        {
-            "definition": "collections of old records; place of storage of old documents",
-            "type": "",
-            "word": "Archives"
-        },
-        {
-            "definition": "overused expression; something unoriginal",
-            "type": "",
-            "word": "Clich\u00e9"
-        },
-        {
-            "definition": "criticize; belittle",
-            "type": "",
-            "word": "Disparage"
-        },
-        {
-            "definition": "worked-up; not calm",
-            "type": "",
-            "word": "Flustered"
-        },
-        {
-            "definition": "ungrateful person",
-            "type": "",
-            "word": "Ingrate"
-        },
-        {
-            "definition": "concerned only with money",
-            "type": "",
-            "word": "Mercenary"
-        },
-        {
-            "definition": "minor weakness; trivial offence",
-            "type": "",
-            "word": "Peccadillo"
-        },
-        {
-            "definition": "person under protection of, or guided by another",
-            "type": "",
-            "word": "Prot\u00e9g\u00e9"
-        },
-        {
-            "definition": "inducing sleep",
-            "type": "",
-            "word": "Soporific"
-        },
-        {
-            "definition": "surface coating",
-            "type": "",
-            "word": "Veneer"
-        },
-        {
-            "definition": "clear; lucid; eloquent",
-            "type": "",
-            "word": "Articulate"
-        },
-        {
-            "definition": "customers",
-            "type": "",
-            "word": "Clientele"
-        },
-        {
-            "definition": "an inequality",
-            "type": "",
-            "word": "Disparity"
-        },
-        {
-            "definition": "unreliable; disreputable",
-            "type": "",
-            "word": "Fly-by-night"
-        },
-        {
-            "definition": "hostile",
-            "type": "",
-            "word": "Inimical"
-        },
-        {
-            "definition": "volatile; changeable",
-            "type": "",
-            "word": "Mercurial"
-        },
-        {
-            "definition": "person who insists on strict adherence to rules or narrow learning",
-            "type": "",
-            "word": "Pedant"
-        },
-        {
-            "definition": "procedure; code of behavior",
-            "type": "",
-            "word": "Protocol"
-        },
-        {
-            "definition": "spare; bare; meager",
-            "type": "",
-            "word": "Sparse"
-        },
-        {
-            "definition": "revere; worship",
-            "type": "",
-            "word": "Venerate"
-        },
-        {
-            "definition": "deception; trickery",
-            "type": "",
-            "word": "Artifice"
-        },
-        {
-            "definition": "come together; merge",
-            "type": "",
-            "word": "Coalesce"
-        },
-        {
-            "definition": "neutral; objective",
-            "type": "",
-            "word": "Dispassionate"
-        },
-        {
-            "definition": "concerned with argument or debate (esp. for legal evidence)",
-            "type": "",
-            "word": "Forensic"
-        },
-        {
-            "definition": "inherited; inborn",
-            "type": "",
-            "word": "Innate"
-        },
-        {
-            "definition": "come together",
-            "type": "",
-            "word": "Merge"
-        },
-        {
-            "definition": "common; mundane; banal",
-            "type": "",
-            "word": "Pedestrian"
-        },
-        {
-            "definition": "unsophisticated; narrow-minded",
-            "type": "",
-            "word": "Provincial"
-        },
-        {
-            "definition": "false",
-            "type": "",
-            "word": "Specious"
-        },
-        {
-            "definition": "minor; unimportant",
-            "type": "",
-            "word": "Venial"
-        },
-        {
-            "definition": "craftsman",
-            "type": "",
-            "word": "Artisan"
-        },
-        {
-            "definition": "pamper; fuss over; indulge",
-            "type": "",
-            "word": "Coddle"
-        },
-        {
-            "definition": "circulating; broadcasting; spreading (information)",
-            "type": "",
-            "word": "Disseminating"
-        },
-        {
-            "definition": "bravery",
-            "type": "",
-            "word": "Fortitude"
-        },
-        {
-            "definition": "harmless; inoffensive",
-            "type": "",
-            "word": "Innocuous"
-        },
-        {
-            "definition": "symbolically; figuratively",
-            "type": "",
-            "word": "Metaphorically"
-        },
-        {
-            "definition": "without equal",
-            "type": "",
-            "word": "Peerless"
-        },
-        {
-            "definition": "cautious; wise",
-            "type": "",
-            "word": "Prudent"
-        },
-        {
-            "definition": "spotted; freckled; dotted",
-            "type": "",
-            "word": "Speckled"
-        },
-        {
-            "definition": "truthfulness",
-            "type": "",
-            "word": "Veracity"
-        },
-        {
-            "definition": "without luxuries; severely simple",
-            "type": "",
-            "word": "Ascetic"
-        },
-        {
-            "definition": "force",
-            "type": "",
-            "word": "Coercion"
-        },
-        {
-            "definition": "active in daytime",
-            "type": "",
-            "word": "Diurnal"
-        },
-        {
-            "definition": "happening by chance",
-            "type": "",
-            "word": "Fortuitous"
-        },
-        {
-            "definition": "create; introduce something new",
-            "type": "",
-            "word": "Innovate"
-        },
-        {
-            "definition": "very careful; painstaking",
-            "type": "",
-            "word": "Meticulous"
-        },
-        {
-            "definition": "derogatory",
-            "type": "",
-            "word": "Pejorative"
-        },
-        {
-            "definition": "childish",
-            "type": "",
-            "word": "Puerile"
-        },
-        {
-            "definition": "not continuous; intermittent",
-            "type": "",
-            "word": "Sporadic"
-        },
-        {
-            "definition": "talkative; long-winded; rambling",
-            "type": "",
-            "word": "Verbose"
-        },
-        {
-            "definition": "thorough; diligent",
-            "type": "",
-            "word": "Assiduous"
-        },
-        {
-            "definition": "lucid; well argued",
-            "type": "",
-            "word": "Cogent"
-        },
-        {
-            "definition": "1. entertain; 2. distract; 3. cause a detour",
-            "type": "",
-            "word": "Divert"
-        },
-        {
-            "definition": "irritable; difficult to control",
-            "type": "",
-            "word": "Fractious"
-        },
-        {
-            "definition": "mysterious; impenetrable",
-            "type": "",
-            "word": "Inscrutable"
-        },
-        {
-            "definition": "courage; bravery; valor",
-            "type": "",
-            "word": "Mettle"
-        },
-        {
-            "definition": "transparently clear",
-            "type": "",
-            "word": "Pellucid"
-        },
-        {
-            "definition": "paying attention to small details",
-            "type": "",
-            "word": "Punctilious"
-        },
-        {
-            "definition": "false",
-            "type": "",
-            "word": "Spurious"
-        },
-        {
-            "definition": "using too many words",
-            "type": "",
-            "word": "Verbosity"
-        },
-        {
-            "definition": "to calm",
-            "type": "",
-            "word": "Assuage"
-        },
-        {
-            "definition": "think over something; ponder",
-            "type": "",
-            "word": "Cogitate"
-        },
-        {
-            "definition": "gentle and easily lead",
-            "type": "",
-            "word": "Docile"
-        },
-        {
-            "definition": "fake; false",
-            "type": "",
-            "word": "Fraudulent"
-        },
-        {
-            "definition": "unfeeling",
-            "type": "",
-            "word": "Insentient"
-        },
-        {
-            "definition": "environment",
-            "type": "",
-            "word": "Milieu"
-        },
-        {
-            "definition": "in a thoughtful mood; thinking deeply",
-            "type": "",
-            "word": "Pensive"
-        },
-        {
-            "definition": "steal",
-            "type": "",
-            "word": "Purloin"
-        },
-        {
-            "definition": "still; not moving",
-            "type": "",
-            "word": "Stagnant"
-        },
-        {
-            "definition": "dizziness",
-            "type": "",
-            "word": "Vertigo"
-        },
-        {
-            "definition": "perceptive; sharp-witted",
-            "type": "",
-            "word": "Astute"
-        },
-        {
-            "definition": "picture made from fragments of other pictures",
-            "type": "",
-            "word": "Collage"
-        },
-        {
-            "definition": "having stubbornly held opinions",
-            "type": "",
-            "word": "Dogmatic"
-        },
-        {
-            "definition": "not serious",
-            "type": "",
-            "word": "Frivolous"
-        },
-        {
-            "definition": "dull; bland; boring",
-            "type": "",
-            "word": "Insipid"
-        },
-        {
-            "definition": "swamp; muddy ground",
-            "type": "",
-            "word": "Mire"
-        },
-        {
-            "definition": "poverty",
-            "type": "",
-            "word": "Penury"
-        },
-        {
-            "definition": "cowardly",
-            "type": "",
-            "word": "Pusillanimous"
-        },
-        {
-            "definition": "dull; sober; serious",
-            "type": "",
-            "word": "Staid"
-        },
-        {
-            "definition": "not developed",
-            "type": "",
-            "word": "Vestigial"
-        },
-        {
-            "definition": "place of refuge or safety",
-            "type": "",
-            "word": "Asylum"
-        },
-        {
-            "definition": "arrange in order",
-            "type": "",
-            "word": "Collate"
-        },
-        {
-            "definition": "stupid person",
-            "type": "",
-            "word": "Dolt"
-        },
-        {
-            "definition": "economical; not wasting anything",
-            "type": "",
-            "word": "Frugal"
-        },
-        {
-            "definition": "to start; provoke",
-            "type": "",
-            "word": "Instigate"
-        },
-        {
-            "definition": "hater of the rest of mankind",
-            "type": "",
-            "word": "Misanthrope"
-        },
-        {
-            "definition": "observant",
-            "type": "",
-            "word": "Perceptive"
-        },
-        {
-            "definition": "compulsion to start fires",
-            "type": "",
-            "word": "Pyromania"
-        },
-        {
-            "definition": "section of a poem",
-            "type": "",
-            "word": "Stanza"
-        },
-        {
-            "definition": "small sketch",
-            "type": "",
-            "word": "Vignette"
-        },
-        {
-            "definition": "person who does not believe in God",
-            "type": "",
-            "word": "Atheist"
-        },
-        {
-            "definition": "local and informal (used of language)",
-            "type": "",
-            "word": "Colloquial"
-        },
-        {
-            "definition": "foolish old man",
-            "type": "",
-            "word": "Dotard"
-        },
-        {
-            "definition": "groove",
-            "type": "",
-            "word": "Furrow"
-        },
-        {
-            "definition": "troublemaker; person who entices others to do something",
-            "type": "",
-            "word": "Instigator"
-        },
-        {
-            "definition": "wrong name",
-            "type": "",
-            "word": "Misnomer"
-        },
-        {
-            "definition": "perceptive; insightful",
-            "type": "",
-            "word": "Percipient"
-        },
-        {
-            "definition": "drink down quickly",
-            "type": "",
-            "word": "Quaff"
-        },
-        {
-            "definition": "loyal; faithful; dependable",
-            "type": "",
-            "word": "Staunch"
-        },
-        {
-            "definition": "blackening someone's name",
-            "type": "",
-            "word": "Vilification"
-        },
-        {
-            "definition": "waste away from lack of use",
-            "type": "",
-            "word": "Atrophy"
-        },
-        {
-            "definition": "plotting and planning",
-            "type": "",
-            "word": "Collusion"
-        },
-        {
-            "definition": "speak slowly with words running together",
-            "type": "",
-            "word": "Drawl"
-        },
-        {
-            "definition": "hidden and secret",
-            "type": "",
-            "word": "Furtive"
-        },
-        {
-            "definition": "a rebel",
-            "type": "",
-            "word": "Insurgent"
-        },
-        {
-            "definition": "hater of women",
-            "type": "",
-            "word": "Misogynist"
-        },
-        {
-            "definition": "damnation",
-            "type": "",
-            "word": "Perdition"
-        },
-        {
-            "definition": "marsh; bog",
-            "type": "",
-            "word": "Quagmire"
-        },
-        {
-            "definition": "fixed image",
-            "type": "",
-            "word": "Stereotype"
-        },
-        {
-            "definition": "prove right; remove blame",
-            "type": "",
-            "word": "Vindicate"
-        },
-        {
-            "definition": "weaken",
-            "type": "",
-            "word": "Attenuate"
-        },
-        {
-            "definition": "take possession of",
-            "type": "",
-            "word": "Commandeer"
-        },
-        {
-            "definition": "nonsense",
-            "type": "",
-            "word": "Drivel"
-        },
-        {
-            "definition": "useless; hopeless",
-            "type": "",
-            "word": "Futile"
-        },
-        {
-            "definition": "never-ending",
-            "type": "",
-            "word": "Interminable"
-        },
-        {
-            "definition": "deliberately deceiving",
-            "type": "",
-            "word": "Misrepresentation"
-        },
-        {
-            "definition": "in a commanding manner",
-            "type": "",
-            "word": "Peremptory"
-        },
-        {
-            "definition": "picturesque",
-            "type": "",
-            "word": "Quaint"
-        },
-        {
-            "definition": "dockworker",
-            "type": "",
-            "word": "Stevedore"
-        },
-        {
-            "definition": "an accomplished musician",
-            "type": "",
-            "word": "Virtuoso"
-        },
-        {
-            "definition": "increase; make bigger",
-            "type": "",
-            "word": "Augment"
-        },
-        {
-            "definition": "self-satisfied; smug",
-            "type": "",
-            "word": "Complacent"
-        },
-        {
-            "definition": "dryly amusing",
-            "type": "",
-            "word": "Droll"
-        },
-        {
-            "definition": "ancient type of sailing ship",
-            "type": "",
-            "word": "Galleon"
-        },
-        {
-            "definition": "sporadic; irregular",
-            "type": "",
-            "word": "Intermittent"
-        },
-        {
-            "definition": "lessen; make less severe",
-            "type": "",
-            "word": "Mitigate"
-        },
-        {
-            "definition": "treachery",
-            "type": "",
-            "word": "Perfidy"
-        },
-        {
-            "definition": "dilemma; puzzle",
-            "type": "",
-            "word": "Quandary"
-        },
-        {
-            "definition": "suppress",
-            "type": "",
-            "word": "Stifle"
-        },
-        {
-            "definition": "dangerous; harmful",
-            "type": "",
-            "word": "Virulent"
-        },
-        {
-            "definition": "favorable; promising to turn out well",
-            "type": "",
-            "word": "Auspicious"
-        },
-        {
-            "definition": "easy to control; submissive",
-            "type": "",
-            "word": "Compliant"
-        },
-        {
-            "definition": "1. monotonous noise ",
-            "type": "",
-            "word": "Drone"
-        },
-        {
-            "definition": "; 2. to speak with no emotion ",
-            "type": "",
-            "word": "Gambol"
-        },
-        {
-            "definition": "; 3.male bee",
-            "type": "",
-            "word": "Intransigence"
-        },
-        {
-            "definition": "frolic; leap; bound",
-            "type": "",
-            "word": "Modicum"
-        },
-        {
-            "definition": "stubbornness",
-            "type": "",
-            "word": "Perfunctory"
-        },
-        {
-            "definition": "small amount",
-            "type": "",
-            "word": "Quarantine"
-        },
-        {
-            "definition": "superficial; cursory",
-            "type": "",
-            "word": "Stoic"
-        },
-        {
-            "definition": "isolation to prevent the spread of disease",
-            "type": "",
-            "word": "Vital"
-        },
-        {
-            "definition": "known for fortitude; indifferent to pleasure or pain",
-            "type": "",
-            "word": "Austere"
-        },
-        {
-            "definition": "essential; alive; important",
-            "type": "",
-            "word": "Concatenate"
-        },
-        {
-            "definition": "severely plain",
-            "type": "",
-            "word": "Dubious"
-        },
-        {
-            "definition": "link together",
-            "type": "",
-            "word": "Garble"
-        },
-        {
-            "definition": "doubtful",
-            "type": "",
-            "word": "Intransigent"
-        },
-        {
-            "definition": "distort; confuse; muddle",
-            "type": "",
-            "word": "Momentous"
-        },
-        {
-            "definition": "stubborn; unyielding",
-            "type": "",
-            "word": "Peripatetic"
-        },
-        {
-            "definition": "very important",
-            "type": "",
-            "word": "Quarry"
-        },
-        {
-            "definition": "nomadic; moving from place to place",
-            "type": "",
-            "word": "Stoke"
-        },
-        {
-            "definition": "1. something that is hunted; 2. mine for stone",
-            "type": "",
-            "word": "Vitriolic"
-        },
-        {
-            "definition": "add fuel to; strengthen",
-            "type": "",
-            "word": "Aversion"
-        },
-        {
-            "definition": "corrosive; strongly attacking",
-            "type": "",
-            "word": "Concatenation"
-        },
-        {
-            "definition": "a dislike of",
-            "type": "",
-            "word": "Dupe"
-        },
-        {
-            "definition": "linking into chains",
-            "type": "",
-            "word": "Garish"
-        },
-        {
-            "definition": "to fool someone",
-            "type": "",
-            "word": "Intrepid"
-        },
-        {
-            "definition": "gaudy",
-            "type": "",
-            "word": "Monotonous"
-        },
-        {
-            "definition": "brave",
-            "type": "",
-            "word": "Peripheral"
-        },
-        {
-            "definition": "dull; unvarying",
-            "type": "",
-            "word": "Querulous"
-        },
-        {
-            "definition": "on the edge; not important",
-            "type": "",
-            "word": "Stolid"
-        },
-        {
-            "definition": "always complaining",
-            "type": "",
-            "word": "Vivacity"
-        },
-        {
-            "definition": "impassive; dull; indifferent",
-            "type": "",
-            "word": "Balk"
-        },
-        {
-            "definition": "liveliness; animation",
-            "type": "",
-            "word": "Conciliate"
-        },
-        {
-            "definition": "hinder and prevent; hesitate over",
-            "type": "",
-            "word": "Dynamic"
-        },
-        {
-            "definition": "to bring together; end a dispute",
-            "type": "",
-            "word": "Garner"
-        },
-        {
-            "definition": "lively; vibrant; energetic",
-            "type": "",
-            "word": "Inveterate"
-        },
-        {
-            "definition": "gather; collect",
-            "type": "",
-            "word": "Moratorium"
-        },
-        {
-            "definition": "habitual",
-            "type": "",
-            "word": "Perjury"
-        },
-        {
-            "definition": "temporary prohibition or halt to activity",
-            "type": "",
-            "word": "Quirk"
-        },
-        {
-            "definition": "telling lies under oath",
-            "type": "",
-            "word": "Stratagem"
-        },
-        {
-            "definition": "oddity",
-            "type": "",
-            "word": "Vivify"
-        },
-        {
-            "definition": "plot; plan; trick",
-            "type": "",
-            "word": "Banal"
-        },
-        {
-            "definition": "enliven",
-            "type": "",
-            "word": "Concise"
-        },
-        {
-            "definition": "common; dull",
-            "type": "",
-            "word": "Ebullient"
-        },
-        {
-            "definition": "stated in few words",
-            "type": "",
-            "word": "Garrulous"
-        },
-        {
-            "definition": "very lively; cheerful; jovial; happy",
-            "type": "",
-            "word": "Invidious"
-        },
-        {
-            "definition": "talkative",
-            "type": "",
-            "word": "Moribund"
-        },
-        {
-            "definition": "arousing envy",
-            "type": "",
-            "word": "Pernicious"
-        },
-        {
-            "definition": "on the point of death",
-            "type": "",
-            "word": "Ramble"
-        },
-        {
-            "definition": "destructive; harmful",
-            "type": "",
-            "word": "Strident"
-        },
-        {
-            "definition": "wander aimlessly",
-            "type": "",
-            "word": "Vociferous"
-        },
-        {
-            "definition": "loud and harsh",
-            "type": "",
-            "word": "Banality"
-        },
-        {
-            "definition": "noisy; loud in speech",
-            "type": "",
-            "word": "Condescend"
-        },
-        {
-            "definition": "ordinariness; dullness",
-            "type": "",
-            "word": "Eccentric"
-        },
-        {
-            "definition": "talk down to",
-            "type": "",
-            "word": "Gaunt"
-        },
-        {
-            "definition": "unusual; quirky; odd",
-            "type": "",
-            "word": "Inviolable"
-        },
-        {
-            "definition": "emaciated; bony and angular",
-            "type": "",
-            "word": "Morose"
-        },
-        {
-            "definition": "cannot be invaded",
-            "type": "",
-            "word": "Persnickety"
-        },
-        {
-            "definition": "gloomy; bad tempered",
-            "type": "",
-            "word": "Ramifications"
-        },
-        {
-            "definition": "fastidious; fussy",
-            "type": "",
-            "word": "Stringent"
-        },
-        {
-            "definition": "branches; subdivisions of a complex system; outcomes",
-            "type": "",
-            "word": "Volatile"
-        },
-        {
-            "definition": "troublesome influence",
-            "type": "",
-            "word": "Bane"
-        },
-        {
-            "definition": "tacitly support; overlook",
-            "type": "",
-            "word": "Condone"
-        },
-        {
-            "definition": "taking things from different sources",
-            "type": "",
-            "word": "Eclectic"
-        },
-        {
-            "definition": "a category; type",
-            "type": "",
-            "word": "Genre"
-        },
-        {
-            "definition": "easily angered",
-            "type": "",
-            "word": "Irascible"
-        },
-        {
-            "definition": "ordinary; worldly",
-            "type": "",
-            "word": "Mundane"
-        },
-        {
-            "definition": "caused to continue",
-            "type": "",
-            "word": "Perpetuated"
-        },
-        {
-            "definition": "resentment; animosity; bad feeling",
-            "type": "",
-            "word": "Rancor"
-        },
-        {
-            "definition": "swagger; show off",
-            "type": "",
-            "word": "Strut"
-        },
-        {
-            "definition": "talkative",
-            "type": "",
-            "word": "Voluble"
-        },
-        {
-            "definition": "poet",
-            "type": "",
-            "word": "Bard"
-        },
-        {
-            "definition": "overlooking; disregarding; ignoring",
-            "type": "",
-            "word": "Condoning"
-        },
-        {
-            "definition": "building; structure; construction",
-            "type": "",
-            "word": "Edifice"
-        },
-        {
-            "definition": "relevant",
-            "type": "",
-            "word": "Germane"
-        },
-        {
-            "definition": "anger [",
-            "type": "",
-            "word": "Ire"
-        },
-        {
-            "definition": " = very angry]",
-            "type": "",
-            "word": "Munificent"
-        },
-        {
-            "definition": "generous; charitable",
-            "type": "",
-            "word": "Perpetuity"
-        },
-        {
-            "definition": "eternity",
-            "type": "",
-            "word": "Rant"
-        },
-        {
-            "definition": "use bombastic language",
-            "type": "",
-            "word": "Stupefying"
-        },
-        {
-            "definition": "astonishing; shocking; stunning into silence",
-            "type": "",
-            "word": "Voluminous"
-        },
-        {
-            "definition": "very large; spacious",
-            "type": "",
-            "word": "Bastion"
-        },
-        {
-            "definition": "fortress; stronghold",
-            "type": "",
-            "word": "Conflagration"
-        },
-        {
-            "definition": "big fire",
-            "type": "",
-            "word": "Efface"
-        },
-        {
-            "definition": "wipe out; remove all trace of",
-            "type": "",
-            "word": "Germinal"
-        },
-        {
-            "definition": "just growing; not developed; immature",
-            "type": "",
-            "word": "Irksome"
-        },
-        {
-            "definition": "annoying; infuriating",
-            "type": "",
-            "word": "Mutinous"
-        },
-        {
-            "definition": "very rebellious",
-            "type": "",
-            "word": "Personable"
-        },
-        {
-            "definition": "attractive",
-            "type": "",
-            "word": "Ratify"
-        },
-        {
-            "definition": "approve; consent",
-            "type": "",
-            "word": "Subpoena"
-        },
-        {
-            "definition": "summons to court",
-            "type": "",
-            "word": "Voracious"
-        },
-        {
-            "definition": "ravenous",
-            "type": "",
-            "word": "Befuddle"
-        },
-        {
-            "definition": "confuse",
-            "type": "",
-            "word": "Confound"
-        },
-        {
-            "definition": "confuse",
-            "type": "",
-            "word": "Effigy"
-        },
-        {
-            "definition": "a model of a person",
-            "type": "",
-            "word": "Gibbering"
-        },
-        {
-            "definition": "making meaningless noises",
-            "type": "",
-            "word": "Ironic"
-        },
-        {
-            "definition": "satiric; unexpected",
-            "type": "",
-            "word": "Myriad"
-        },
-        {
-            "definition": "in large numbers",
-            "type": "",
-            "word": "Perspicacious"
-        },
-        {
-            "definition": "insightful; sharp; wise",
-            "type": "",
-            "word": "Raucous"
-        },
-        {
-            "definition": "rough and unpleasant (of sounds)",
-            "type": "",
-            "word": "Substantiate"
-        },
-        {
-            "definition": "give supporting evidence",
-            "type": "",
-            "word": "Waive"
-        },
-        {
-            "definition": "surrender; give up",
-            "type": "",
-            "word": "Begrudge"
-        },
-        {
-            "definition": "resent",
-            "type": "",
-            "word": "Congeal"
-        },
-        {
-            "definition": "to solidify",
-            "type": "",
-            "word": "Effusive"
-        },
-        {
-            "definition": "gushing; demonstrative",
-            "type": "",
-            "word": "Glacial"
-        },
-        {
-            "definition": "hostile; unfriendly; cold; icy",
-            "type": "",
-            "word": "Irrational"
-        },
-        {
-            "definition": "unreasonable; absurd",
-            "type": "",
-            "word": "Navigable"
-        },
-        {
-            "definition": "suitable for sailing",
-            "type": "",
-            "word": "Perspicacity"
-        },
-        {
-            "definition": "insight",
-            "type": "",
-            "word": "Raze"
-        },
-        {
-            "definition": "destroy; demolish; tear down",
-            "type": "",
-            "word": "Subterfuge"
-        },
-        {
-            "definition": "a trick",
-            "type": "",
-            "word": "Wane"
-        },
-        {
-            "definition": "grow less",
-            "type": "",
-            "word": "Beguile"
-        },
-        {
-            "definition": "mislead; lure",
-            "type": "",
-            "word": "Congenital"
-        },
-        {
-            "definition": "present from birth",
-            "type": "",
-            "word": "Egalitarianism"
-        },
-        {
-            "definition": "belief in equality",
-            "type": "",
-            "word": "Goad"
-        },
-        {
-            "definition": "prod; urge",
-            "type": "",
-            "word": "Irreproachable"
-        },
-        {
-            "definition": "cannot be criticized; perfect",
-            "type": "",
-            "word": "Nebulous"
-        },
-        {
-            "definition": "vague",
-            "type": "",
-            "word": "Pertinent"
-        },
-        {
-            "definition": "relevant",
-            "type": "",
-            "word": "Rebuttal"
-        },
-        {
-            "definition": "denial",
-            "type": "",
-            "word": "Subtle"
-        },
-        {
-            "definition": "not obvious",
-            "type": "",
-            "word": "Wary"
-        },
-        {
-            "definition": "hesitant; cautious",
-            "type": "",
-            "word": "Belabor"
-        },
-        {
-            "definition": "explain in unnecessary detail",
-            "type": "",
-            "word": "Connoisseur"
-        },
-        {
-            "definition": "person with refined taste and good judgment",
-            "type": "",
-            "word": "Egregious"
-        },
-        {
-            "definition": "outstandingly, obviously bad",
-            "type": "",
-            "word": "Grate "
-        },
-        {
-            "definition": "1. to annoy; aggravate; vex; 2. shred",
-            "type": "",
-            "word": "Irrevocable"
-        },
-        {
-            "definition": "cannot be cancelled; unchangeable",
-            "type": "",
-            "word": "Nefarious"
-        },
-        {
-            "definition": "wicked; immoral; disreputable",
-            "type": "",
-            "word": "Peruse"
-        },
-        {
-            "definition": "read carefully",
-            "type": "",
-            "word": "Recant"
-        },
-        {
-            "definition": "disclaim; retract statement",
-            "type": "",
-            "word": "Subversive"
-        },
-        {
-            "definition": "rebellious; revolutionary",
-            "type": "",
-            "word": "Wax"
-        },
-        {
-            "definition": "to increase; to grow",
-            "type": "",
-            "word": "Beleaguer"
-        },
-        {
-            "definition": "besiege; attack",
-            "type": "",
-            "word": "Consecrate"
-        },
-        {
-            "definition": "dedicate",
-            "type": "",
-            "word": "Egress"
-        },
-        {
-            "definition": "exit",
-            "type": "",
-            "word": "Gratis"
-        },
-        {
-            "definition": "free of charge; without payment",
-            "type": "",
-            "word": "Itinerant"
-        },
-        {
-            "definition": "nomadic; wandering from place to place",
-            "type": "",
-            "word": "Negate"
-        },
-        {
-            "definition": "cancel; deny",
-            "type": "",
-            "word": "Pervasive"
-        },
-        {
-            "definition": "spreading everywhere",
-            "type": "",
-            "word": "Recapitulate"
-        },
-        {
-            "definition": "summarize",
-            "type": "",
-            "word": "Succinct"
-        },
-        {
-            "definition": "concise",
-            "type": "",
-            "word": "Waylay"
-        },
-        {
-            "definition": "accost; stop; approach; hinder",
-            "type": "",
-            "word": "Belie"
-        },
-        {
-            "definition": "contradict",
-            "type": "",
-            "word": "Consensus"
-        },
-        {
-            "definition": "general agreement",
-            "type": "",
-            "word": "Eloquent"
-        },
-        {
-            "definition": "fluent and persuasive in speech",
-            "type": "",
-            "word": "Gratuitous"
-        },
-        {
-            "definition": "unwarranted",
-            "type": "",
-            "word": "Jaded"
-        },
-        {
-            "definition": "tired; bored; worn out",
-            "type": "",
-            "word": "Negligence"
-        },
-        {
-            "definition": "carelessness",
-            "type": "",
-            "word": "Petrify"
-        },
-        {
-            "definition": "1. terrify; 2. turn to stone",
-            "type": "",
-            "word": "Receptacle"
-        },
-        {
-            "definition": "container; vessel; holder",
-            "type": "",
-            "word": "Suffragist"
-        },
-        {
-            "definition": "someone who campaigns for voting rights",
-            "type": "",
-            "word": "Weighty"
-        },
-        {
-            "definition": "serious",
-            "type": "",
-            "word": "Belittle"
-        },
-        {
-            "definition": "to demean",
-            "type": "",
-            "word": "Conspicuous"
-        },
-        {
-            "definition": "easily seen; prominent",
-            "type": "",
-            "word": "Elucidate"
-        },
-        {
-            "definition": "make clear",
-            "type": "",
-            "word": "Gravity"
-        },
-        {
-            "definition": "seriousness",
-            "type": "",
-            "word": "Jargon"
-        },
-        {
-            "definition": "specialized language used by experts",
-            "type": "",
-            "word": "Neologism"
-        },
-        {
-            "definition": "newly coined word",
-            "type": "",
-            "word": "Petulant"
-        },
-        {
-            "definition": "sulky; peevish",
-            "type": "",
-            "word": "Recluse"
-        },
-        {
-            "definition": "someone who cuts himself off from life",
-            "type": "",
-            "word": "Supercilious"
-        },
-        {
-            "definition": "proud and haughty",
-            "type": "",
-            "word": "Whelp"
-        },
-        {
-            "definition": "war-like; aggressive",
-            "type": "",
-            "word": "Bellicose"
-        },
-        {
-            "definition": "complete; total; supremely good",
-            "type": "",
-            "word": "Consummate"
-        },
-        {
-            "definition": "hard to pin down",
-            "type": "",
-            "word": "Elusive"
-        },
-        {
-            "definition": "extroverted; sociable; outgoing",
-            "type": "",
-            "word": "Gregarious"
-        },
-        {
-            "definition": "cynical; pessimistic",
-            "type": "",
-            "word": "Jaundiced"
-        },
-        {
-            "definition": "annoy",
-            "type": "",
-            "word": "Nettle"
-        },
-        {
-            "definition": "an event or happening (plural: phenomena)",
-            "type": "",
-            "word": "Phenomenon"
-        },
-        {
-            "definition": "get better after illness",
-            "type": "",
-            "word": "Recuperate"
-        },
-        {
-            "definition": "extremely good; the best",
-            "type": "",
-            "word": "Superlative"
-        },
-        {
-            "definition": "sharpen",
-            "type": "",
-            "word": "Whet"
-        },
-        {
-            "definition": "aggressive; ready to fight",
-            "type": "",
-            "word": "Belligerent"
-        },
-        {
-            "definition": "living or happening at the same time",
-            "type": "",
-            "word": "Contemporary"
-        },
-        {
-            "definition": "very thin; withered",
-            "type": "",
-            "word": "Emaciated"
-        },
-        {
-            "definition": "coarse; granular",
-            "type": "",
-            "word": "Gritty"
-        },
-        {
-            "definition": "short pleasure trip",
-            "type": "",
-            "word": "Jaunt"
-        },
-        {
-            "definition": "miserly; stingy",
-            "type": "",
-            "word": "Niggardly"
-        },
-        {
-            "definition": "charity; love of mankind",
-            "type": "",
-            "word": "Philanthropy"
-        },
-        {
-            "definition": "formalities; paperwork; official procedure",
-            "type": "",
-            "word": "Red tape"
-        },
-        {
-            "definition": "grumpy; rude",
-            "type": "",
-            "word": "Surly"
-        },
-        {
-            "definition": "capricious; changeable",
-            "type": "",
-            "word": "Whimsical"
-        },
-        {
-            "definition": "complain about",
-            "type": "",
-            "word": "Bemoan"
-        },
-        {
-            "definition": "sorry",
-            "type": "",
-            "word": "Contrite"
-        },
-        {
-            "definition": "set free",
-            "type": "",
-            "word": "Emancipate"
-        },
-        {
-            "definition": "sudden loud laughter",
-            "type": "",
-            "word": "Guffaw"
-        },
-        {
-            "definition": "put at risk; endanger",
-            "type": "",
-            "word": "Jeopardize"
-        },
-        {
-            "definition": "wandering from place to place",
-            "type": "",
-            "word": "Nomadic"
-        },
-        {
-            "definition": "uncultured person",
-            "type": "",
-            "word": "Philistine"
-        },
-        {
-            "definition": "smelling of; giving off odors",
-            "type": "",
-            "word": "Redolent"
-        },
-        {
-            "definition": "secret; sneaky; stealthy",
-            "type": "",
-            "word": "Surreptitious"
-        },
-        {
-            "definition": "stubborn",
-            "type": "",
-            "word": "Willful"
-        },
-        {
-            "definition": "kindly",
-            "type": "",
-            "word": "Benevolent"
-        },
-        {
-            "definition": "sorrow and repentance",
-            "type": "",
-            "word": "Contrition"
-        },
-        {
-            "definition": "defraud; steal",
-            "type": "",
-            "word": "Embezzle"
-        },
-        {
-            "definition": "cunning; craftiness",
-            "type": "",
-            "word": "Guile"
-        },
-        {
-            "definition": "extremely patriotic; nationalistic",
-            "type": "",
-            "word": "Jingoistic"
-        },
-        {
-            "definition": "an appearance of indifference; calm and composed",
-            "type": "",
-            "word": "Nonchalance"
-        },
-        {
-            "definition": "calm; imperturbable",
-            "type": "",
-            "word": "Phlegmatic"
-        },
-        {
-            "definition": "put right something that was wrong",
-            "type": "",
-            "word": "Redress"
-        },
-        {
-            "definition": "secretly; furtively; stealthily",
-            "type": "",
-            "word": "Surreptitiously"
-        },
-        {
-            "definition": "cunning",
-            "type": "",
-            "word": "Wily"
-        },
-        {
-            "definition": "kindly; harmless",
-            "type": "",
-            "word": "Benign"
-        },
-        {
-            "definition": "stubborn",
-            "type": "",
-            "word": "Contumacious"
-        },
-        {
-            "definition": "involve in hostility or argument",
-            "type": "",
-            "word": "Embroil"
-        },
-        {
-            "definition": "frank; straightforward; honest",
-            "type": "",
-            "word": "Guileless"
-        },
-        {
-            "definition": "in a joking manner",
-            "type": "",
-            "word": "Jocular"
-        },
-        {
-            "definition": "having no special features; dull and ordinary",
-            "type": "",
-            "word": "Nondescript"
-        },
-        {
-            "definition": "plunder",
-            "type": "",
-            "word": "Pillage"
-        },
-        {
-            "definition": "unnecessary; superfluous",
-            "type": "",
-            "word": "Redundant"
-        },
-        {
-            "definition": "vulnerable",
-            "type": "",
-            "word": "Susceptible"
-        },
-        {
-            "definition": "flimsy; frail; delicate",
-            "type": "",
-            "word": "Wispy"
-        },
-        {
-            "definition": "compassion; gentleness; fondness",
-            "type": "",
-            "word": "Benignity"
-        },
-        {
-            "definition": "a bruise",
-            "type": "",
-            "word": "Contusion"
-        },
-        {
-            "definition": "come out; appear",
-            "type": "",
-            "word": "Emerge"
-        },
-        {
-            "definition": "unwariness; trustfulness; being easily fooled",
-            "type": "",
-            "word": "Gullibility"
-        },
-        {
-            "definition": "gaiety; happiness",
-            "type": "",
-            "word": "Jollity"
-        },
-        {
-            "definition": "a person of no importance; not famous",
-            "type": "",
-            "word": "Nonentity"
-        },
-        {
-            "definition": "topmost point",
-            "type": "",
-            "word": "Pinnacle"
-        },
-        {
-            "definition": "public vote",
-            "type": "",
-            "word": "Referendum"
-        },
-        {
-            "definition": "doubtful",
-            "type": "",
-            "word": "Suspect"
-        },
-        {
-            "definition": "melancholy; pensive; expressing a longing for",
-            "type": "",
-            "word": "Wistful"
-        },
-        {
-            "definition": "leave something in one's will to be given after one's death",
-            "type": "",
-            "word": "Bequeath"
-        },
-        {
-            "definition": "a puzzle",
-            "type": "",
-            "word": "Conundrum"
-        },
-        {
-            "definition": "to imitate something admired",
-            "type": "",
-            "word": "Emulate"
-        },
-        {
-            "definition": "easily fooled",
-            "type": "",
-            "word": "Gullible"
-        },
-        {
-            "definition": "ecstatic; delighted; rejoicing",
-            "type": "",
-            "word": "Jubilant"
-        },
-        {
-            "definition": "longing for the past",
-            "type": "",
-            "word": "Nostalgia"
-        },
-        {
-            "definition": "very religious",
-            "type": "",
-            "word": "Pious"
-        },
-        {
-            "definition": "disprove",
-            "type": "",
-            "word": "Refute"
-        },
-        {
-            "definition": "lover of luxury",
-            "type": "",
-            "word": "Sybarite"
-        },
-        {
-            "definition": "crazy; wacky",
-            "type": "",
-            "word": "Zany"
-        },
-        {
-            "definition": "scold; criticize",
-            "type": "",
-            "word": "Berate"
-        },
-        {
-            "definition": "usual; customary; common",
-            "type": "",
-            "word": "Conventional"
-        },
-        {
-            "definition": "give support or approval to",
-            "type": "",
-            "word": "Endorse"
-        },
-        {
-            "definition": "concerned with the sense of taste",
-            "type": "",
-            "word": "Gustatory"
-        },
-        {
-            "definition": "correct in judgment; wise",
-            "type": "",
-            "word": "Judicious"
-        },
-        {
-            "definition": "infamy; known for wrong doing",
-            "type": "",
-            "word": "Notoriety"
-        },
-        {
-            "definition": "of central importance",
-            "type": "",
-            "word": "Pivotal"
-        },
-        {
-            "definition": "entertain",
-            "type": "",
-            "word": "Regale"
-        },
-        {
-            "definition": "bootlicker; flatterer",
-            "type": "",
-            "word": "Sycophant"
-        },
-        {
-            "definition": "enthusiasm",
-            "type": "",
-            "word": "Zeal"
-        },
-        {
-            "definition": "type of cap",
-            "type": "",
-            "word": "Beret"
-        },
-        {
-            "definition": "fat",
-            "type": "",
-            "word": "Corpulent"
-        },
-        {
-            "definition": "staying power; patience; stamina",
-            "type": "",
-            "word": "Endurance"
-        },
-        {
-            "definition": "common and over-used",
-            "type": "",
-            "word": "Hackneyed"
-        },
-        {
-            "definition": "science or study of law",
-            "type": "",
-            "word": "Jurisprudence"
-        },
-        {
-            "definition": "new; unusual",
-            "type": "",
-            "word": "Novel"
-        },
-        {
-            "definition": "pacify; soothe; calm",
-            "type": "",
-            "word": "Placate"
-        },
-        {
-            "definition": "dismiss to a lower position",
-            "type": "",
-            "word": "Relegate"
-        },
-        {
-            "definition": "quiet; saying little",
-            "type": "",
-            "word": "Taciturn"
-        },
-        {
-            "definition": "fanatic",
-            "type": "",
-            "word": "Zealot"
-        },
-        {
-            "definition": "behaving like a beast; brutal",
-            "type": "",
-            "word": "Bestial"
-        },
-        {
-            "definition": "highly folded",
-            "type": "",
-            "word": "Corrugated"
-        },
-        {
-            "definition": "lasting",
-            "type": "",
-            "word": "Enduring"
-        },
-        {
-            "definition": "worshipped; consecrated",
-            "type": "",
-            "word": "Hallowed"
-        },
-        {
-            "definition": "place next to",
-            "type": "",
-            "word": "Juxtapose"
-        },
-        {
-            "definition": "a beginner; tyro",
-            "type": "",
-            "word": "Novice"
-        },
-        {
-            "definition": "harmless medicine with no effect; dummy medicine",
-            "type": "",
-            "word": "Placebo"
-        },
-        {
-            "definition": "regret; sorrow; contrition",
-            "type": "",
-            "word": "Remorse"
-        },
-        {
-            "definition": "concerned with the sense of touch",
-            "type": "",
-            "word": "Tactile"
-        },
-        {
-            "definition": "summit",
-            "type": "",
-            "word": "Zenith"
-        }
-    ]
-}
+[
+    {
+      "word": "Abhor",
+      "id": "be2c144c-9f34-407f-93cf-0c51130674b2"
+    },
+    {
+      "word": "Bigot",
+      "id": "7b115ee3-2912-4e3a-af10-f9a5074b5082"
+    },
+    {
+      "word": "Counterfeit",
+      "id": "4c60ff01-233e-4e2d-8ca3-c1b187d06bef"
+    },
+    {
+      "word": "Enfranchise",
+      "id": "dd65fd47-c5b2-4cae-a7b9-93ee9a153b7a"
+    },
+    {
+      "word": "Hamper",
+      "id": "4135f7e1-bbb3-4df0-9e3b-fe56891da9a7"
+    },
+    {
+      "word": "Kindle",
+      "id": "4f91bc47-1a48-4726-827b-4986210d964c"
+    },
+    {
+      "word": "Noxious",
+      "id": "5181175f-c3f6-44c1-a1a9-6271d24b656a"
+    },
+    {
+      "word": "Placid",
+      "id": "49c41424-ac67-4609-a9fc-d9e055bd2c6f"
+    },
+    {
+      "word": "Remuneration",
+      "id": "fc123ee6-6189-4135-96e0-34641a83e3a8"
+    },
+    {
+      "word": "Talisman",
+      "id": "575378b5-c799-4517-959a-e79de88e6452"
+    },
+    {
+      "word": "Abrasive",
+      "id": "f1632315-fc59-4023-bbbd-bfd5b3bf6f91"
+    },
+    {
+      "word": "Bilk",
+      "id": "75eee0af-a5c6-4b3d-8a0b-1b615ba32028"
+    },
+    {
+      "word": "Covert",
+      "id": "bfc75e48-eaa6-4cd0-a1f1-0875c37d96ca"
+    },
+    {
+      "word": "Engender",
+      "id": "3c2a9f26-697f-4ade-a738-d6e779c4801b"
+    },
+    {
+      "word": "Hangar",
+      "id": "17f68d1b-2009-452b-9bd5-c36c8956f870"
+    },
+    {
+      "word": "Knotty",
+      "id": "e52204ca-54b9-4583-990b-1d17960556dd"
+    },
+    {
+      "word": "Nuance",
+      "id": "457556d5-8409-4919-89d0-8e5f4054d676"
+    },
+    {
+      "word": "Plagiarism",
+      "id": "edabe856-8eb9-4cba-bb99-5c501c09ba80"
+    },
+    {
+      "word": "Renown",
+      "id": "5122779b-4e57-4946-8a21-08a0a9ef5ba1"
+    },
+    {
+      "word": "Tangent",
+      "id": "805128dc-973e-4d62-9839-af1a98e4d98d"
+    },
+    {
+      "word": "Abasement",
+      "id": "72fccd9e-d99a-4a93-b0d0-15f6df53c13d"
+    },
+    {
+      "word": "Billowing",
+      "id": "129ef216-5ea8-4914-a80d-480bea64eb1d"
+    },
+    {
+      "word": "Cower",
+      "id": "456e3a82-376c-4382-b68c-9a5d8aa3eafa"
+    },
+    {
+      "word": "Enhance",
+      "id": "92ec09b4-c8ad-4f9c-9153-869192963837"
+    },
+    {
+      "word": "Harangue",
+      "id": "bb2544e9-99b3-41a6-b5da-56e5b201f1d8"
+    },
+    {
+      "word": "Labyrinth",
+      "id": "819a4321-2991-49ea-8fc6-a4d40c1365f0"
+    },
+    {
+      "word": "Nullify",
+      "id": "6c74ccda-c652-42d1-9a9a-e104b1e39989"
+    },
+    {
+      "word": "Plaintiff",
+      "id": "789d329d-3150-4da7-9c00-2357c306d721"
+    },
+    {
+      "word": "Replete",
+      "id": "ce8a0a50-7f89-4dfb-aa0b-e1f864c8b581"
+    },
+    {
+      "word": "Tangible",
+      "id": "cb832b1d-f8df-49a5-99a2-6be522cce872"
+    },
+    {
+      "word": "Abrogate",
+      "id": "d0d96be6-2f9d-4a9b-b5ed-babedfeeef79"
+    },
+    {
+      "word": "Blasphemy",
+      "id": "19d19f23-79e7-4196-a0c4-3a3597eb4f97"
+    },
+    {
+      "word": "Credible",
+      "id": "12355e9c-57d5-44e0-a81d-1e7b214a5988"
+    },
+    {
+      "word": "Enigma",
+      "id": "6c7e5736-a5f0-43ba-80f1-97b1c18661a8"
+    },
+    {
+      "word": "Harbingers",
+      "id": "d4f33cd7-dcf9-472b-b43d-848e9635033b"
+    },
+    {
+      "word": "Labyrinthine",
+      "id": "bb191e88-68b4-4f45-a6bb-aecb07689b13"
+    },
+    {
+      "word": "Nuzzle",
+      "id": "05fe550b-ce18-44fd-a5e5-2b3c5bc248e2"
+    },
+    {
+      "word": "Plaudit",
+      "id": "7270ad7e-bfd6-4a74-ba25-2f40e3c0e558"
+    },
+    {
+      "word": "Reprehensible",
+      "id": "bf716f03-bbe4-4137-8bb4-f742774ad9f7"
+    },
+    {
+      "word": "Tardy",
+      "id": "9e68994a-2664-400e-acbc-be1741cf7fdd"
+    },
+    {
+      "word": "Absolution",
+      "id": "d848e7b9-7d5c-42dc-80b3-f2b057b65ae4"
+    },
+    {
+      "word": "Blatant",
+      "id": "416320ea-c631-44d2-b31a-0465d6cc5f6f"
+    },
+    {
+      "word": "Creditable",
+      "id": "29ca0503-8450-4285-bac9-a775e8d83a67"
+    },
+    {
+      "word": "Ensconce",
+      "id": "88ec36fb-b856-4819-ac08-c3d40a8dac87"
+    },
+    {
+      "word": "Hasten",
+      "id": "0172313b-1741-4117-bae0-92db7700d639"
+    },
+    {
+      "word": "Laceration",
+      "id": "6659e5d0-ae05-4284-997e-3fdb57f901f8"
+    },
+    {
+      "word": "Obdurate",
+      "id": "d3ca1da0-1fa0-4b26-9d91-5d7394788b7c"
+    },
+    {
+      "word": "Plausible",
+      "id": "fcd71c9d-6c92-40bd-8b4e-0fc52c9a9402"
+    },
+    {
+      "word": "Reprieve",
+      "id": "dbce5cc9-fbae-44d2-91da-0efe4a9f7c35"
+    },
+    {
+      "word": "Tawdry",
+      "id": "97da0f97-be01-4464-90ce-e0841b11c8c4"
+    },
+    {
+      "word": "Abstain",
+      "id": "9a06af6f-14d5-45c3-a683-c7ac06d63549"
+    },
+    {
+      "word": "Blighted",
+      "id": "b566bc0a-14cf-4135-8d06-4a98d78f93b2"
+    },
+    {
+      "word": "Credulous",
+      "id": "8b42492b-e113-4974-b657-bc5acc7c82f4"
+    },
+    {
+      "word": "Enshroud",
+      "id": "c9e4459b-149b-4018-9c0e-961a2ada4367"
+    },
+    {
+      "word": "Haughtiness",
+      "id": "740bb6aa-e3b6-4431-94a9-5ab3e1579558"
+    },
+    {
+      "word": "Lachrymose",
+      "id": "bd43627d-19bb-4701-bdca-c9b6d534be37"
+    },
+    {
+      "word": "Obfuscate",
+      "id": "fe67b09d-08e1-4920-b15c-3b0070283df7"
+    },
+    {
+      "word": "Plethora",
+      "id": "4ec5c1b8-f1c8-4335-9172-f2061f71aff7"
+    },
+    {
+      "word": "Repudiate",
+      "id": "69aa0d72-9546-465f-bc12-055e7e1f8c9a"
+    },
+    {
+      "word": "Tedium",
+      "id": "e658d817-6382-4832-88c7-14f561f424e5"
+    },
+    {
+      "word": "Abstemious",
+      "id": "a50592f6-c9b2-4d4b-8edb-c49072644601"
+    },
+    {
+      "word": "Blithe",
+      "id": "5327d583-0e09-4d5b-b239-46e6807d7263"
+    },
+    {
+      "word": "Crepuscular",
+      "id": "42ddf53d-498e-488d-8e26-df6c0da06c65"
+    },
+    {
+      "word": "Enunciation",
+      "id": "b62fd496-975e-484a-ae1c-d755222bc0af"
+    },
+    {
+      "word": "Headstrong",
+      "id": "6e4d3d4b-34c3-456e-b55e-eb0c7194a9fd"
+    },
+    {
+      "word": "Lackluster",
+      "id": "86cc9cad-b2bf-4f2a-b877-a22e9d620dd6"
+    },
+    {
+      "word": "Objective",
+      "id": "c3614634-df67-4352-b7e0-ea4fa864eb03"
+    },
+    {
+      "word": "Pliable",
+      "id": "90300964-d691-4794-95e4-84dc666329a9"
+    },
+    {
+      "word": "Rescind",
+      "id": "a916afb8-1c0b-4925-8e49-279a9385b8df"
+    },
+    {
+      "word": "Temper",
+      "id": "a742bc86-dd21-420e-aa0b-083acaedd293"
+    },
+    {
+      "word": "Abstruse",
+      "id": "8d6217ac-d21d-4b38-ae61-fc663826a70f"
+    },
+    {
+      "word": "Blunderbuss",
+      "id": "94d57a6e-471a-4931-9daa-d8d45f4a75b2"
+    },
+    {
+      "word": "Cringe",
+      "id": "85802d57-f739-418f-aa29-9a046f9e3a05"
+    },
+    {
+      "word": "Envenom",
+      "id": "2c2183c9-870a-4ccf-bc7c-1b97d9fec4ee"
+    },
+    {
+      "word": "Hedonism",
+      "id": "5b243505-3eba-4ab9-ac1e-00c5fd3bda80"
+    },
+    {
+      "word": "Laconic",
+      "id": "e445abad-6745-4d69-b05e-ec6dc73d0f36"
+    },
+    {
+      "word": "Oblique",
+      "id": "7d04a3b4-7a72-470f-9af9-c88fdf918f24"
+    },
+    {
+      "word": "Plumage",
+      "id": "7b949638-a1d7-4478-8cb4-6f3bdbe9b348"
+    },
+    {
+      "word": "Resignation",
+      "id": "aa749634-9969-456c-82b5-bb26193f9aed"
+    },
+    {
+      "word": "Tenacious",
+      "id": "cbc90d59-5d54-4aea-9de7-84023be56394"
+    },
+    {
+      "word": "Accolade",
+      "id": "584bbb55-5e91-4708-8e2c-7496bc7c3b51"
+    },
+    {
+      "word": "Bolster",
+      "id": "06913209-6ca7-4d70-96bd-1eb9098a9c8d"
+    },
+    {
+      "word": "Cryptic",
+      "id": "c36a148b-7c63-4362-abf9-60b57b64fd50"
+    },
+    {
+      "word": "Ephemeral",
+      "id": "0c559d9a-4ace-4f9e-9b5f-3116ea7b7f94"
+    },
+    {
+      "word": "Hedonist",
+      "id": "91e6a0a6-3824-44d7-a99c-4964c2be811c"
+    },
+    {
+      "word": "Lamentation",
+      "id": "e7209478-f0e9-462e-a29b-24201144e477"
+    },
+    {
+      "word": "Obliterate",
+      "id": "df5f5eeb-46eb-412a-ade0-48739dbe4342"
+    },
+    {
+      "word": "Plummet",
+      "id": "4b436398-1ff2-4438-b517-abf5b31bbb5f"
+    },
+    {
+      "word": "Resolution",
+      "id": "cc699bcc-47ad-4938-bf2d-89be035912aa"
+    },
+    {
+      "word": "Tentative",
+      "id": "068bf721-eaed-4ce9-b726-c802d1977f5d"
+    },
+    {
+      "word": "Acquiesce",
+      "id": "efb3ce6a-4fda-4c17-a46e-3457e1f19f7b"
+    },
+    {
+      "word": "Bombast",
+      "id": "1db8f0f4-4de5-46b8-be91-a3deccff4fb9"
+    },
+    {
+      "word": "Curtail",
+      "id": "35185cea-dea6-4ea7-94d4-ff837614d542"
+    },
+    {
+      "word": "Epicure",
+      "id": "9887f33e-b126-47be-9865-dd716f083444"
+    },
+    {
+      "word": "Heed",
+      "id": "11097c17-11de-437a-8f35-9cba9b03a678"
+    },
+    {
+      "word": "Lampoon",
+      "id": "ccd118cf-a26a-4818-8a47-6a18fef2e58f"
+    },
+    {
+      "word": "Oblivious",
+      "id": "3924a11b-f95a-47a3-9091-11e66680a8ff"
+    },
+    {
+      "word": "Podium",
+      "id": "d6d253e5-3f24-4a19-9214-a19bf2e06531"
+    },
+    {
+      "word": "Resonant",
+      "id": "81d3c205-56c9-4489-ab9b-48d80d2cdd0d"
+    },
+    {
+      "word": "Tenuous",
+      "id": "c7186b76-3f95-4524-8b11-9a3e92d59f90"
+    },
+    {
+      "word": "Acrid",
+      "id": "45538e1b-39d2-4875-a515-2ecacc33af8e"
+    },
+    {
+      "word": "Boorish",
+      "id": "c86a5631-326e-4064-afdc-5113c448305d"
+    },
+    {
+      "word": "Cynical",
+      "id": "f4c4a20d-3c91-419b-b5e2-c10dd0ba2a6b"
+    },
+    {
+      "word": "Epistle",
+      "id": "52f24de3-13e6-48e2-89b0-68c7f6267e23"
+    },
+    {
+      "word": "Heresy",
+      "id": "17d9c64e-0bd7-4c64-a8de-61920af90d84"
+    },
+    {
+      "word": "Lance",
+      "id": "59d15f92-49ef-401c-bc4c-e4fb7256175b"
+    },
+    {
+      "word": "Obscure",
+      "id": "e507bb81-6adc-481d-9292-86729b64c0ee"
+    },
+    {
+      "word": "Poignant",
+      "id": "829eb548-b4f1-4789-bab5-5d6485916d89"
+    },
+    {
+      "word": "Respite",
+      "id": "83feac59-ff80-45bf-ac44-e9309085f1fe"
+    },
+    {
+      "word": "Terse",
+      "id": "36097cfe-559b-4eb7-a368-f3ad566e9bff"
+    },
+    {
+      "word": "Acrophobia",
+      "id": "13037001-bc69-4515-970f-408f509a9478"
+    },
+    {
+      "word": "Bourgeois",
+      "id": "6e68cbbd-8e87-44ec-98b9-79dfadad48aa"
+    },
+    {
+      "word": "Debility",
+      "id": "e56522cf-0c48-4885-9622-c502a0091992"
+    },
+    {
+      "word": "Epistolary",
+      "id": "60ce5b0e-f244-4edd-b083-6c583e0f5e89"
+    },
+    {
+      "word": "Hiatus",
+      "id": "85f4b1a7-e091-464f-a42a-c955998c8510"
+    },
+    {
+      "word": "Languid",
+      "id": "54469282-188e-488b-895d-2a115b354918"
+    },
+    {
+      "word": "Obscured",
+      "id": "6fb687fa-5cc0-477e-8f5d-3507389645a3"
+    },
+    {
+      "word": "Poised",
+      "id": "d90bc4ae-7166-43c6-a51b-6b835a3ab0f9"
+    },
+    {
+      "word": "Resplendent",
+      "id": "8f11e82f-eee7-463e-ac58-2847e2a58ba5"
+    },
+    {
+      "word": "Therapeutic",
+      "id": "b162206f-ff98-4699-a51f-3b24cc60e8cd"
+    },
+    {
+      "word": "Acuity",
+      "id": "b16323c9-87cf-4d52-80ab-5943280ac4b3"
+    },
+    {
+      "word": "Braggart",
+      "id": "42b98b6a-88c7-4ec3-b201-8145d16d5f54"
+    },
+    {
+      "word": "Debunking",
+      "id": "b0d950aa-f21f-41e1-830b-c062bcf1ea00"
+    },
+    {
+      "word": "Epitomized",
+      "id": "e8e1bbc7-6d0c-4fd8-9dfd-3461fc672aa8"
+    },
+    {
+      "word": "Hidebound",
+      "id": "e43f6c4e-4892-4812-a8e7-a2d71138c81c"
+    },
+    {
+      "word": "Languish",
+      "id": "100b0bf1-f3f8-4128-9285-5f277ff7a3de"
+    },
+    {
+      "word": "Obsequious",
+      "id": "d1a60b9c-5d70-4393-9035-d82337909d25"
+    },
+    {
+      "word": "Polemical",
+      "id": "64ebbac1-8486-478e-9fc8-51703d5868cf"
+    },
+    {
+      "word": "Restorative",
+      "id": "9e9e9eb5-ba56-442c-a17f-ffb2bb98a8c4"
+    },
+    {
+      "word": "Thwart",
+      "id": "d8ed770b-8692-4dcd-863d-3443606214fc"
+    },
+    {
+      "word": "Adamant",
+      "id": "24590d57-70e7-4e38-bce0-5907b458ea68"
+    },
+    {
+      "word": "Brawny",
+      "id": "a38dfd35-27c5-4f60-8d85-37a210006d7b"
+    },
+    {
+      "word": "Decathlon",
+      "id": "f866485a-f731-4676-88b7-2afc483297f2"
+    },
+    {
+      "word": "Equivocate",
+      "id": "a4c92601-8b8a-4d56-8e6d-e9ec2e8fbba0"
+    },
+    {
+      "word": "Hieroglyphics",
+      "id": "56f34b29-b649-457a-8431-2ca3aff89951"
+    },
+    {
+      "word": "Larceny",
+      "id": "d069ca3b-1f7e-4dd1-88b3-88ca436fd1af"
+    },
+    {
+      "word": "Obsession",
+      "id": "afb61b19-7626-40f9-81c8-06bbc6051de5"
+    },
+    {
+      "word": "Ponderous",
+      "id": "34d6d16e-2753-4e2e-a151-05bcf1c5bab5"
+    },
+    {
+      "word": "Retention",
+      "id": "d7f6f001-ddf1-4834-b354-e5ab3f6246a8"
+    },
+    {
+      "word": "Timorous",
+      "id": "43f570c6-003e-41f5-92c3-fda91e1a4431"
+    },
+    {
+      "word": "Adroit",
+      "id": "dc5b8aae-76e2-4d9f-b35e-a5dc7e1e2006"
+    },
+    {
+      "word": "Brevity",
+      "id": "11a12b1b-3550-46d9-a8f6-e46ee3617cd6"
+    },
+    {
+      "word": "Decorum",
+      "id": "5a3953e9-e659-4781-a536-6629f8060ca7"
+    },
+    {
+      "word": "Err",
+      "id": "79cbd797-c497-4fce-87bf-2095381314cb"
+    },
+    {
+      "word": "Hinder",
+      "id": "6ffb920c-61ca-48b6-aab0-605b766c540a"
+    },
+    {
+      "word": "Largess",
+      "id": "9632eddb-4073-4b95-af21-954696887d36"
+    },
+    {
+      "word": "Obsolete",
+      "id": "feaa965a-82d5-40ea-be66-b95084bc6ea6"
+    },
+    {
+      "word": "Pontificate",
+      "id": "fadbb522-8209-40de-a076-58d743ee2351"
+    },
+    {
+      "word": "Reticent",
+      "id": "fe0fcaac-9033-40ed-8f4f-d8c8d3999a80"
+    },
+    {
+      "word": "Tirade",
+      "id": "60d3565f-e77f-4cac-8e76-2056645122bd"
+    },
+    {
+      "word": "Adulation",
+      "id": "9f377953-7069-433e-88e2-ee8a7e3aaeff"
+    },
+    {
+      "word": "Bristle",
+      "id": "e211539e-9640-4679-bc73-7f98fc883244"
+    },
+    {
+      "word": "Decoy",
+      "id": "c7fa9698-ebde-4aa3-b96b-431f6d70cc5a"
+    },
+    {
+      "word": "Erratic",
+      "id": "e074db06-770a-4bb4-8861-6d1133f60d6d"
+    },
+    {
+      "word": "Histrionic",
+      "id": "c7486962-2ffe-479c-8fb4-9ecde111348a"
+    },
+    {
+      "word": "Laud",
+      "id": "2d47afd3-5b87-4ee9-9684-6ccdf57bbe4b"
+    },
+    {
+      "word": "Obstreperous",
+      "id": "fdcd3292-fca0-46ec-b863-b82781edf5f7"
+    },
+    {
+      "word": "Portend",
+      "id": "c679487c-0fda-4143-8a87-a19d300ef56b"
+    },
+    {
+      "word": "Retraction",
+      "id": "bfeb215d-21c5-486f-b609-941ebcaabe8e"
+    },
+    {
+      "word": "Titter",
+      "id": "99ff4410-dd32-47be-8acd-7ccf478d276f"
+    },
+    {
+      "word": "Adversity",
+      "id": "2b88d62a-eb27-4452-88c5-e0f687daca62"
+    },
+    {
+      "word": "Broach",
+      "id": "5e3677f3-1993-4515-8d5e-dd382c01addc"
+    },
+    {
+      "word": "Deference",
+      "id": "07321e35-e919-49c7-87e6-8da5d50f9aac"
+    },
+    {
+      "word": "Esoteric",
+      "id": "fc06acb6-e8dc-4f2d-bd5f-983b01f10812"
+    },
+    {
+      "word": "Hoary",
+      "id": "c51fc36e-7eed-4c2c-a49c-7d615f2e4a58"
+    },
+    {
+      "word": "Lavish",
+      "id": "7d31ab5e-9a07-4316-ae3e-dcd37c49f715"
+    },
+    {
+      "word": "Obtuse",
+      "id": "795fab91-77d7-4530-b87a-b44dc4f1f018"
+    },
+    {
+      "word": "Portent",
+      "id": "af8bd37c-2b7f-4ce1-9afe-87da04c27b1e"
+    },
+    {
+      "word": "Revere",
+      "id": "4ba54606-7c9a-4a6c-9e24-e52a5efbd32b"
+    },
+    {
+      "word": "Tome",
+      "id": "9378baaf-e48e-47e2-a61e-0f7a022db3d0"
+    },
+    {
+      "word": "Advocate",
+      "id": "97b4ca50-5935-42be-8b77-5e307ac105bb"
+    },
+    {
+      "word": "Brusque",
+      "id": "e05f73bd-6cf7-43b6-a7f7-e82403a85b83"
+    },
+    {
+      "word": "Defoliate",
+      "id": "a578dc0f-54d6-4e5a-88a5-e6eb3e53ab6e"
+    },
+    {
+      "word": "Espouse",
+      "id": "eca054e9-68ec-48ec-aaaf-9a4ab83c7e64"
+    },
+    {
+      "word": "Hone",
+      "id": "1fc9df42-0173-423b-9206-32f46534ac5a"
+    },
+    {
+      "word": "Lax",
+      "id": "8c975ae9-6d1d-4076-9e55-1f4e61fea6a0"
+    },
+    {
+      "word": "Obviate",
+      "id": "4bf3b501-b64c-4557-8eff-cb962fd898f4"
+    },
+    {
+      "word": "Poseur",
+      "id": "a041fbb8-e781-4864-a1f7-7f18ef18f2d8"
+    },
+    {
+      "word": "Riddled",
+      "id": "26031b55-61aa-42d3-bd3e-0a83e07c39ca"
+    },
+    {
+      "word": "Torpid",
+      "id": "1f6839d2-1c49-40e4-8ebb-13e2b4cff5ee"
+    },
+    {
+      "word": "Aesthetic",
+      "id": "9e858388-698f-42a9-a84e-9abeff174a88"
+    },
+    {
+      "word": "Bulwark",
+      "id": "2ebabb5e-e3ff-4470-b036-c35128c7ae4c"
+    },
+    {
+      "word": "Defunct",
+      "id": "225e9058-eb68-4715-9de8-b02fdae1c78b"
+    },
+    {
+      "word": "Etymology",
+      "id": "9e59cb2a-a9b7-4782-912d-ad11eb527def"
+    },
+    {
+      "word": "Hyperbole",
+      "id": "da1f14c1-5fd2-444e-bcbe-8cff0a2992fe"
+    },
+    {
+      "word": "Legend",
+      "id": "9ab8923d-5c9a-4a05-a2e9-6855b10438dc"
+    },
+    {
+      "word": "Odious",
+      "id": "b84ca358-7097-4597-9902-f27a33931fed"
+    },
+    {
+      "word": "Posterity",
+      "id": "8f242a95-1335-4187-be94-b9c80b9d5d1a"
+    },
+    {
+      "word": "Rife",
+      "id": "1938ba9c-49f2-4f7d-b4b2-d9f97c47f6f0"
+    },
+    {
+      "word": "Torpor",
+      "id": "89ed4e9a-89ac-4965-bc6a-26cfc5f4159d"
+    },
+    {
+      "word": "Affable",
+      "id": "ac175cc1-f7eb-4434-9c18-e2618b74ab50"
+    },
+    {
+      "word": "Bureaucracy",
+      "id": "2fd9bba3-44c5-42fe-8e98-0d7870315381"
+    },
+    {
+      "word": "Degradation",
+      "id": "a0880c4a-7581-47b5-8a15-670f487a1d73"
+    },
+    {
+      "word": "Eulogy",
+      "id": "c29249ab-c709-4754-9b38-22779bcaacf1"
+    },
+    {
+      "word": "Hypochondriac",
+      "id": "5978f599-7ea0-46d8-8de1-322492736729"
+    },
+    {
+      "word": "Legion",
+      "id": "7556e83c-f214-42bf-89a7-1cf08c6d5992"
+    },
+    {
+      "word": "Officious",
+      "id": "874f4191-00f6-48fe-a6aa-8fea0eb60135"
+    },
+    {
+      "word": "Posthumous",
+      "id": "247c7a22-05a0-4ef8-9d69-54d004430300"
+    },
+    {
+      "word": "Rigor",
+      "id": "35e26d40-bc7d-4d27-a9f0-720b6797279e"
+    },
+    {
+      "word": "Totter",
+      "id": "73410ab2-7fec-451f-aeb4-6d4788cd61b9"
+    },
+    {
+      "word": "Alacrity",
+      "id": "3ce1c69f-4d89-4c6b-82b6-14c05938ad83"
+    },
+    {
+      "word": "Burgeon",
+      "id": "5b4e2b92-1fd4-4b33-87e2-22ad186a8a04"
+    },
+    {
+      "word": "Deleterious",
+      "id": "bd0ca613-0f77-4b19-8c06-81c35b656a4b"
+    },
+    {
+      "word": "Euphemism",
+      "id": "bd866e62-ea9d-4f18-88b2-6b7f64fd2f7f"
+    },
+    {
+      "word": "Hypocritical",
+      "id": "66bd60ed-2951-46c7-a365-46badab769a1"
+    },
+    {
+      "word": "Lethargic",
+      "id": "ad8c0ef0-ce89-4a74-abd9-62a211d92c6a"
+    },
+    {
+      "word": "Ogle",
+      "id": "17cc93b0-4b27-41b2-a299-df994734283e"
+    },
+    {
+      "word": "Postulate",
+      "id": "802005a8-a413-4f41-8f01-784ce7b817bd"
+    },
+    {
+      "word": "Robust",
+      "id": "1c603069-42c0-41dc-b0a2-c12ae1542a65"
+    },
+    {
+      "word": "Tractable",
+      "id": "fa7a4378-173a-4e93-84ac-35972e6bcbeb"
+    },
+    {
+      "word": "Alchemy",
+      "id": "d042e3f5-5903-4910-b51c-7876bc6dc330"
+    },
+    {
+      "word": "Burnish",
+      "id": "a4bb9697-7d62-4b52-85c7-f094b1a8c3c7"
+    },
+    {
+      "word": "Deliberate",
+      "id": "52521de9-fefc-494e-96fa-2c683c4582c9"
+    },
+    {
+      "word": "Euphony",
+      "id": "4365964f-0dfd-46a5-84bb-ac053930155a"
+    },
+    {
+      "word": "Iconoclast",
+      "id": "7ed3a678-8879-44ff-b3db-e6c6e686edb9"
+    },
+    {
+      "word": "Levity",
+      "id": "3996f83f-1cac-4759-a6b0-a70a3e830063"
+    },
+    {
+      "word": "Olfactory",
+      "id": "f1867155-b83d-4229-9bbc-bb76f4695bc3"
+    },
+    {
+      "word": "Potable",
+      "id": "9e561ad1-5145-436b-b14b-2b31a8efecc8"
+    },
+    {
+      "word": "Rotund",
+      "id": "22b0171c-fe23-4e19-8e80-27def3376db7"
+    },
+    {
+      "word": "Tranquil",
+      "id": "e8ab5d3a-2bb6-40fd-8723-33169fe24c0c"
+    },
+    {
+      "word": "Alibi",
+      "id": "a8e71872-143e-45ea-980d-d426732d3bc6"
+    },
+    {
+      "word": "Buttress",
+      "id": "0e5fcb95-847d-46b0-891d-37c98bcd04ea"
+    },
+    {
+      "word": "Delineation",
+      "id": "6b5f0bca-b8ab-4099-8662-69b6ba052e59"
+    },
+    {
+      "word": "Evacuate",
+      "id": "1d18b98f-d685-4951-b0b1-de80b73cc540"
+    },
+    {
+      "word": "Idiosyncrasy",
+      "id": "3dec6485-6212-44e9-907e-e9c25036756d"
+    },
+    {
+      "word": "Libertarian",
+      "id": "bc96ecf1-8e7d-4c97-9048-142d5d8a1b00"
+    },
+    {
+      "word": "Ominous",
+      "id": "d6ace54c-0785-4b24-bd4e-d1dd068364c9"
+    },
+    {
+      "word": "Potent",
+      "id": "636ed434-0f6e-40cf-853e-283528e3fecb"
+    },
+    {
+      "word": "Ruminate",
+      "id": "ec47e043-96b7-4d3f-b88b-d332442f9835"
+    },
+    {
+      "word": "Transcribe",
+      "id": "7a3da628-f5f5-4473-a736-c1545fb7caea"
+    },
+    {
+      "word": "Allay",
+      "id": "afbfe9e5-0683-4d7b-a029-16d16278d4dd"
+    },
+    {
+      "word": "Byline",
+      "id": "f0cba576-a09a-46eb-82ca-527013ff7b94"
+    },
+    {
+      "word": "Demur",
+      "id": "c963dda3-de51-4191-ac09-39e0de501d81"
+    },
+    {
+      "word": "Exacerbate",
+      "id": "0dc5df40-3b0b-4624-a8d1-6e92d35f9b83"
+    },
+    {
+      "word": "Ignominious",
+      "id": "8f802b62-79dc-40f7-8428-e9c9ea3a726a"
+    },
+    {
+      "word": "Liniment",
+      "id": "cf9f1c4d-91a3-4206-b4ca-50f1e0fbf210"
+    },
+    {
+      "word": "Omnipotent",
+      "id": "7e2f8a59-8605-473e-99df-6432c3984b38"
+    },
+    {
+      "word": "Pragmatic",
+      "id": "ebfdc876-a0a9-4c6e-add1-767f09b1192a"
+    },
+    {
+      "word": "Ruse",
+      "id": "80f13b18-6a43-4836-8a75-f48901bb303d"
+    },
+    {
+      "word": "Transgress",
+      "id": "770ae7a4-f44b-4cad-a283-17b0d35fb3df"
+    },
+    {
+      "word": "Alleviate",
+      "id": "c7782d5e-b31f-48d8-83da-c1149f64dc5f"
+    },
+    {
+      "word": "Cacophony",
+      "id": "e4582d16-5364-41d8-8daa-5cd3f10e9852"
+    },
+    {
+      "word": "Denounce",
+      "id": "8181aaee-7c08-446e-8a31-394a1b3de7e3"
+    },
+    {
+      "word": "Exasperated",
+      "id": "7db994c2-9011-4128-ac6d-c3f18fe25e81"
+    },
+    {
+      "word": "Ignominy",
+      "id": "29d55f54-faf2-42b6-9802-59926bda1f32"
+    },
+    {
+      "word": "Lithe",
+      "id": "7c10b64a-7b9c-4aeb-9494-afcffc0c08ea"
+    },
+    {
+      "word": "Omniscient",
+      "id": "32595f4f-4ef2-4ddd-9c1e-145d89a75e35"
+    },
+    {
+      "word": "Pragmatist",
+      "id": "106f1ede-bfc6-4be3-bca9-765bbab77436"
+    },
+    {
+      "word": "Saccharin",
+      "id": "c68f5b4b-f0e2-415c-bae4-bcd8251d23fd"
+    },
+    {
+      "word": "Transient",
+      "id": "838fe9bf-7164-4159-b324-5ad66bbec8e1"
+    },
+    {
+      "word": "Aloof",
+      "id": "a24ac278-370e-4aaf-bdb8-f966f056ec7a"
+    },
+    {
+      "word": "Cajole",
+      "id": "9df0940f-bb12-443a-87ef-6b4ed0052d92"
+    },
+    {
+      "word": "Deplete",
+      "id": "dae897aa-29ed-47a1-9e10-1bcbc7e574b4"
+    },
+    {
+      "word": "Exceptionable",
+      "id": "d0a10c79-3f96-4b3d-93f4-cad4cb357621"
+    },
+    {
+      "word": "Illuminate",
+      "id": "b51adbc6-5b4e-4160-8a23-c27d3d7860e6"
+    },
+    {
+      "word": "Livid",
+      "id": "3dbbce13-59fb-4bbb-898f-48cc3994e52b"
+    },
+    {
+      "word": "Onerous",
+      "id": "e42bfe45-1d84-4c48-af3d-bd7fb8103d8e"
+    },
+    {
+      "word": "Preamble",
+      "id": "9f3258b7-6ee5-42fa-a888-c8fec25fe83b"
+    },
+    {
+      "word": "Sacrosanct",
+      "id": "ddeae284-f064-41e5-91ea-ff92262119d2"
+    },
+    {
+      "word": "Traverse",
+      "id": "21e13cf8-67ed-4771-badb-9a1ff156287e"
+    },
+    {
+      "word": "Altruism",
+      "id": "8a4dbdc1-3c75-4b8a-9ae3-cb2f34de33ae"
+    },
+    {
+      "word": "Caldron",
+      "id": "40a431b9-2250-435c-9ad3-792b0fb4e45a"
+    },
+    {
+      "word": "Deplore",
+      "id": "cf4c8d6e-9e52-4647-a821-90f0c8bebfe4"
+    },
+    {
+      "word": "Exculpate",
+      "id": "d5a51a9c-ffb7-4e6b-b057-7f6216afcd3c"
+    },
+    {
+      "word": "Illusory",
+      "id": "a09b8a72-f0f3-4dad-b084-30cc1f6d9ee9"
+    },
+    {
+      "word": "Lobbyist",
+      "id": "6cf30c46-fbe0-4eca-b0dd-eafc33bd32bd"
+    },
+    {
+      "word": "Onus",
+      "id": "8fcc3fa6-25c0-4d72-95a7-d5fcf14673e8"
+    },
+    {
+      "word": "Precarious",
+      "id": "ef65ba2e-a5fc-4932-b21d-b19954ec32ec"
+    },
+    {
+      "word": "Sagacious",
+      "id": "ae9ad954-500e-486d-b66f-4bf2cf3b7599"
+    },
+    {
+      "word": "Trepidation",
+      "id": "78cc6049-f3cb-4bfe-b16e-72440c1125ae"
+    },
+    {
+      "word": "Amass",
+      "id": "37cca19e-534a-4ff5-a52a-2f714bd9013b"
+    },
+    {
+      "word": "Callow",
+      "id": "0ca8146b-77ac-4a32-b332-607e1f0691e6"
+    },
+    {
+      "word": "Depravity",
+      "id": "73008727-f9a5-41a1-be7a-2d3c03e393fd"
+    },
+    {
+      "word": "Execrable",
+      "id": "2aded72f-b01e-48d2-b818-cd999773e854"
+    },
+    {
+      "word": "Immoderate",
+      "id": "e0b7df9a-8861-4984-8b8e-ae41bba19f21"
+    },
+    {
+      "word": "Lofty",
+      "id": "28774858-f211-435d-b2b5-961a3b5f6f3f"
+    },
+    {
+      "word": "Opaque",
+      "id": "d9f17a6f-6177-4d08-bce8-442437dc9d96"
+    },
+    {
+      "word": "Precedent",
+      "id": "03206a3c-e429-4012-8261-b9583852e266"
+    },
+    {
+      "word": "Sage",
+      "id": "0e4db29e-b406-4d6a-9955-a9788d369166"
+    },
+    {
+      "word": "Trinket",
+      "id": "b4b8784c-e696-4f61-8b97-c34183b189c6"
+    },
+    {
+      "word": "Ambiguity",
+      "id": "b7b3b403-376e-4a9f-85b2-11d3945d5041"
+    },
+    {
+      "word": "Candid",
+      "id": "b387a1b1-5095-46a7-998a-7c0b09234c19"
+    },
+    {
+      "word": "Deprecate",
+      "id": "026023ca-3c7a-4aad-8fa7-95ed18fc7c87"
+    },
+    {
+      "word": "Exegesis",
+      "id": "086aa655-7d4a-4116-b645-70139256eab7"
+    },
+    {
+      "word": "Immutable",
+      "id": "dc80782d-5b49-494b-8f47-59b7133e9d54"
+    },
+    {
+      "word": "Longevity",
+      "id": "04c422ae-a657-42fa-aeb5-0bf6eac1b3f0"
+    },
+    {
+      "word": "Opulent",
+      "id": "3a316d8b-7313-4c62-959a-c01944e51fab"
+    },
+    {
+      "word": "Precept",
+      "id": "45b60f6a-a2cc-4cd7-9f83-50f454f7b1cf"
+    },
+    {
+      "word": "Salacious",
+      "id": "86bab5c3-d465-4390-9810-f1d138aa2dd1"
+    },
+    {
+      "word": "Trite",
+      "id": "c7a3f1a0-d9ca-4732-a247-caa502a8602d"
+    },
+    {
+      "word": "Ambiguous",
+      "id": "743f100b-25fb-4684-831f-51c142a395d1"
+    },
+    {
+      "word": "Candor",
+      "id": "141f25bf-4ab1-4db0-9549-741486365362"
+    },
+    {
+      "word": "Deride",
+      "id": "b66fe8bb-62a5-456d-b795-603e29b69e6f"
+    },
+    {
+      "word": "Exemplary",
+      "id": "77277852-1a64-4d7e-8d08-9a5198f403af"
+    },
+    {
+      "word": "Impartial",
+      "id": "3484f1d0-d978-4690-97f3-ae1a6ce04701"
+    },
+    {
+      "word": "Loquacious",
+      "id": "a599fef5-30b6-4b10-a448-ca710b91585f"
+    },
+    {
+      "word": "Ordain",
+      "id": "71a83bf6-37ca-4bf7-9b28-ea47ceb99363"
+    },
+    {
+      "word": "Precinct",
+      "id": "37d81c79-9f6e-4ce9-ba61-b3509dcf98e3"
+    },
+    {
+      "word": "Sallow",
+      "id": "d4f51a1f-cf73-4aed-b52b-a0dd35d71496"
+    },
+    {
+      "word": "Trivial",
+      "id": "2bf03e21-94ae-4531-a0ab-3e9ab67070c4"
+    },
+    {
+      "word": "Ambivalence",
+      "id": "9494e323-dd16-4de7-bcdf-4d66ddae0fa5"
+    },
+    {
+      "word": "Cantankerous",
+      "id": "d6fbf562-195c-4bec-98a4-1f2cbd2fddcd"
+    },
+    {
+      "word": "Derogatory",
+      "id": "d5f9848b-6d83-4c7c-a827-7d04acbd6eb1"
+    },
+    {
+      "word": "Exemplify",
+      "id": "c9ac74b5-2fbd-4b11-a224-1421e805aa18"
+    },
+    {
+      "word": "Impecunious",
+      "id": "ffb66dbb-326a-41c7-a8ae-513687b5bc86"
+    },
+    {
+      "word": "Lucid",
+      "id": "0010fb54-7519-4389-aeaf-c08717d2ebff"
+    },
+    {
+      "word": "Ornate",
+      "id": "34e93dd8-37dc-496a-a5c6-2121a492f156"
+    },
+    {
+      "word": "Precipice",
+      "id": "acf2f61e-2247-463f-b8f5-cde0e57fdf67"
+    },
+    {
+      "word": "Salubrious",
+      "id": "37996d47-331c-4bc4-bb3c-b93bae423d51"
+    },
+    {
+      "word": "Truant",
+      "id": "03792b19-a029-4547-9b07-e0992bc98236"
+    },
+    {
+      "word": "Ambulatory",
+      "id": "623e98c0-6b07-4be1-a530-44ebd4c44ca4"
+    },
+    {
+      "word": "Capacious",
+      "id": "cb749123-eb8b-4947-b7de-2049d2c76a9a"
+    },
+    {
+      "word": "Desecrate",
+      "id": "216887c3-5c5c-4991-a270-2f996b8d1842"
+    },
+    {
+      "word": "Exhaustive",
+      "id": "85be3c0c-86c6-458b-ad4b-9625f1c6c68c"
+    },
+    {
+      "word": "Impious",
+      "id": "ea2e20e9-d36c-4c8d-8641-bc2f516c5e80"
+    },
+    {
+      "word": "Ludicrous",
+      "id": "a9ca89f4-1114-467e-a4b4-2cc87cff5068"
+    },
+    {
+      "word": "Orthodox",
+      "id": "44fb3bdc-0248-433e-92df-1d33eac81352"
+    },
+    {
+      "word": "Precipitous",
+      "id": "eeb285f1-9275-419c-a97d-7ab4d647c675"
+    },
+    {
+      "word": "Salutary",
+      "id": "d250bb69-816b-4389-af6d-16485045e140"
+    },
+    {
+      "word": "Truncate",
+      "id": "89274319-798c-4b98-abc6-9df2ffacd5ad"
+    },
+    {
+      "word": "Ameliorate",
+      "id": "4fc256c5-d740-4c6f-b3c4-535d8aad98ce"
+    },
+    {
+      "word": "Capitulate",
+      "id": "09ccbc39-ae61-49c8-bd2f-c1b970279f25"
+    },
+    {
+      "word": "Desecration",
+      "id": "33bebaf1-69d2-401f-b74d-86796ae94483"
+    },
+    {
+      "word": "Exonerates",
+      "id": "3c1a79c9-2d4f-41e4-a4fc-35bab15d2710"
+    },
+    {
+      "word": "Impoverished",
+      "id": "42217345-93ed-4463-983e-35629e393162"
+    },
+    {
+      "word": "Lukewarm",
+      "id": "e31af382-379a-4f3f-a648-9a3fbc7e0112"
+    },
+    {
+      "word": "Ossify",
+      "id": "0074664a-f967-4379-9aca-0127e6a53ab5"
+    },
+    {
+      "word": "Preclude",
+      "id": "7a7a8687-821e-4f6e-a594-4334a6ec1b33"
+    },
+    {
+      "word": "Sanctimonious",
+      "id": "a93fb4b5-cb5e-4e62-8ef3-1e721cea58cc"
+    },
+    {
+      "word": "Tumult",
+      "id": "8eedc6d9-398e-4b3e-8c9c-ab96fda3c56c"
+    },
+    {
+      "word": "Amelioration",
+      "id": "b55c5562-df79-4797-a0f8-3bebef7618c8"
+    },
+    {
+      "word": "Carping",
+      "id": "c6aeffbe-2629-4c32-b5be-f90644d0095c"
+    },
+    {
+      "word": "Desist",
+      "id": "819e8bae-bbfb-4d14-8050-78becfd6dca4"
+    },
+    {
+      "word": "Exorcism",
+      "id": "716c1bb3-4f7f-4241-b3c5-1e864048ebcc"
+    },
+    {
+      "word": "Impromptu",
+      "id": "29664a9d-b37d-49c9-8eb4-e9004ea24192"
+    },
+    {
+      "word": "Lummox",
+      "id": "1d2149f0-a270-49d9-a3b0-603bab91d096"
+    },
+    {
+      "word": "Ostentatious",
+      "id": "fea600c6-2246-49b3-a272-2c685c8c2e23"
+    },
+    {
+      "word": "Precocious",
+      "id": "544976fa-f590-4571-8364-0a7f8e76bde4"
+    },
+    {
+      "word": "Sanction",
+      "id": "596d3d2f-9208-49c0-9a9d-7c3379aeb5f1"
+    },
+    {
+      "word": "Turpitude",
+      "id": "133b2068-986a-40ee-a298-db0941552193"
+    },
+    {
+      "word": "Amiable",
+      "id": "09176872-608f-4944-8de1-32e11424395d"
+    },
+    {
+      "word": "Cartographer",
+      "id": "87a69ef1-334f-4349-ab05-708b8dc6638b"
+    },
+    {
+      "word": "Despondent",
+      "id": "2d98991c-06b8-42e2-9acc-ebcc3d1fb8b8"
+    },
+    {
+      "word": "Expatriate",
+      "id": "6d3f3887-3457-429a-9542-c171c8cd6de2"
+    },
+    {
+      "word": "Inadvertent",
+      "id": "dfdb4a65-1cf9-4e9e-9519-6ae001e3639f"
+    },
+    {
+      "word": "Luscious",
+      "id": "b188d318-62c0-4075-a367-935ee8e85439"
+    },
+    {
+      "word": "Oust",
+      "id": "325e34c9-519b-4313-a013-bbc5efd85b36"
+    },
+    {
+      "word": "Predecessor",
+      "id": "80195c65-d687-4fca-a3f8-9619d995ec96"
+    },
+    {
+      "word": "Sanguinary",
+      "id": "becf9808-0447-47f6-9741-2acf1de76251"
+    },
+    {
+      "word": "Tyro",
+      "id": "5293e06c-8274-4a69-97c7-2d8147544761"
+    },
+    {
+      "word": "Amity",
+      "id": "d7116987-27c8-43a2-9975-12c32241116f"
+    },
+    {
+      "word": "Castigate",
+      "id": "88a24c49-12c6-4f15-8ad1-d23d489f8191"
+    },
+    {
+      "word": "Destitution",
+      "id": "bbebd4fd-8fb9-4290-aafc-e1c2d1c6fd3d"
+    },
+    {
+      "word": "Expedient",
+      "id": "3c3b0d9c-525f-4af2-a18d-497431b7dac7"
+    },
+    {
+      "word": "Incantation",
+      "id": "25e0ce3e-7db9-4cc4-855a-ad40473b7f4b"
+    },
+    {
+      "word": "Lynch",
+      "id": "6e124bad-6067-4dc5-9ee8-18f589c2536c"
+    },
+    {
+      "word": "Overt",
+      "id": "3fecfa3b-fa70-49ec-8c09-45e7dd4a3a21"
+    },
+    {
+      "word": "Predicament",
+      "id": "9e271d8a-8763-4c73-9233-ee10e4fe9cb5"
+    },
+    {
+      "word": "Sanguine",
+      "id": "e5b9b221-408b-4d9c-a0e2-59da5b2131d0"
+    },
+    {
+      "word": "Ubiquitous",
+      "id": "e581c5b4-0d67-402c-8079-5e9942cde0dc"
+    },
+    {
+      "word": "Amorphous",
+      "id": "1dcfbfe5-603f-4ce3-99f0-98bdc8d4844d"
+    },
+    {
+      "word": "Catharsis",
+      "id": "1aff125f-5079-483b-b81b-59aaba7ca1a1"
+    },
+    {
+      "word": "Deter",
+      "id": "670e8b4b-11e0-406d-aee8-a9529a28851e"
+    },
+    {
+      "word": "Expedite",
+      "id": "06639925-eaf2-4e46-9692-4015970ed8d7"
+    },
+    {
+      "word": "Incarceration",
+      "id": "2e5de0b4-2bc2-4125-a127-8726761d0f90"
+    },
+    {
+      "word": "Machinations",
+      "id": "9e888af2-28c1-4c50-8cde-82b58a930aa6"
+    },
+    {
+      "word": "Overwrought",
+      "id": "f4d92411-50ab-4076-8e0f-6212d9490402"
+    },
+    {
+      "word": "Preeminent",
+      "id": "fbe8fcf8-32af-4343-aa02-17237c2c7d52"
+    },
+    {
+      "word": "Sardonic",
+      "id": "4fcee0ec-c269-4cfc-9acc-ee698e2ff2e8"
+    },
+    {
+      "word": "Unalloyed",
+      "id": "4460636c-8b71-4f66-9c0a-0e90189f2d67"
+    },
+    {
+      "word": "Analgesic",
+      "id": "b233b4ce-797a-41a2-a66e-234192cdffc7"
+    },
+    {
+      "word": "Caucus",
+      "id": "75ce542e-3a04-4363-9c56-72bf6349766a"
+    },
+    {
+      "word": "Deteriorate",
+      "id": "23ad4150-7bbe-4caa-afa6-03b2265b333b"
+    },
+    {
+      "word": "Exposition",
+      "id": "fe4b919b-c7d3-4e5f-b1d4-4b17868fa966"
+    },
+    {
+      "word": "Incessant",
+      "id": "b661eea0-d546-406a-9403-527a740fd6a9"
+    },
+    {
+      "word": "Maelstrom",
+      "id": "6464e46b-069a-4f14-9b21-46c2e983bd87"
+    },
+    {
+      "word": "Palatable",
+      "id": "e954f245-bebe-482a-a841-691723384c4a"
+    },
+    {
+      "word": "Prerogative",
+      "id": "b0373066-5d9f-4f4e-8a09-cca92db0c378"
+    },
+    {
+      "word": "Savant",
+      "id": "41c13084-c747-4a78-ac85-dde128e8255d"
+    },
+    {
+      "word": "Unctuous",
+      "id": "398d9d63-a44f-43b7-a0da-e64d50c6bcd8"
+    },
+    {
+      "word": "Analogous",
+      "id": "73441040-3fc9-4d33-acf4-a0e4527ba460"
+    },
+    {
+      "word": "Caustic",
+      "id": "3ed551a6-d5a6-4bb8-9c0a-ac77ddd3972a"
+    },
+    {
+      "word": "Detrimental",
+      "id": "b262ec1a-e9e8-4f22-b41f-b83636e8e0d4"
+    },
+    {
+      "word": "Extol",
+      "id": "07ff870b-fd44-42e2-b070-e2eb82be8d9f"
+    },
+    {
+      "word": "Incipient",
+      "id": "1f4ca4b8-e78d-4d28-b692-3c63d83a6c36"
+    },
+    {
+      "word": "Magnanimous",
+      "id": "add0d906-3b8f-48b7-8cf0-57d2c5009eeb"
+    },
+    {
+      "word": "Palisade",
+      "id": "e2fbbe22-8cc6-45dc-8826-e0f9ad71a1e0"
+    },
+    {
+      "word": "Prescient",
+      "id": "90217a20-305f-4c0a-b514-64d6ebc6bb64"
+    },
+    {
+      "word": "Scale",
+      "id": "152b93fe-56dd-485c-a1eb-8715bd7a7cc4"
+    },
+    {
+      "word": "Undermined",
+      "id": "8e1d2520-3b44-440e-977c-b2a007c940ca"
+    },
+    {
+      "word": "Anarchy",
+      "id": "fe81adac-2a39-4c2b-ae30-2ad7e8d210fb"
+    },
+    {
+      "word": "Cavalcade",
+      "id": "d5dfb798-15bb-45fc-86fd-fa1525c0c9bc"
+    },
+    {
+      "word": "Devoured",
+      "id": "4267a15c-0964-4b22-9e7c-fe9364fa83f3"
+    },
+    {
+      "word": "Extradite",
+      "id": "75f4902c-6d8e-4715-b2f6-6f1f4484b5d7"
+    },
+    {
+      "word": "Inclination",
+      "id": "dfc34562-161d-4e9e-ac69-93f0399d8f11"
+    },
+    {
+      "word": "Magnate",
+      "id": "4ad35ead-3f42-42bb-86b9-f29227786247"
+    },
+    {
+      "word": "Palliative",
+      "id": "50509a8e-a3df-40e2-846f-57f5399b3695"
+    },
+    {
+      "word": "Presentiment",
+      "id": "4ae64771-39cb-4b88-949b-338c4ba1f369"
+    },
+    {
+      "word": "Scapegoat",
+      "id": "44247678-f0b7-4461-be38-bcc2d97014f4"
+    },
+    {
+      "word": "Underscore",
+      "id": "c80e0c63-a34f-45c2-834a-2029fc15e7c2"
+    },
+    {
+      "word": "Anecdote",
+      "id": "5c870be8-6184-4f9d-9d9d-e5c687e2ba52"
+    },
+    {
+      "word": "Celerity",
+      "id": "8dfd931a-e433-431f-9fc2-b9ad80e6a1bb"
+    },
+    {
+      "word": "Dexterous",
+      "id": "c3dd11ca-299e-43b2-9b78-22f6b24fda51"
+    },
+    {
+      "word": "Extraneous",
+      "id": "275a0328-51ae-4e00-a1c2-cffbe46b7def"
+    },
+    {
+      "word": "Incoherent",
+      "id": "b438a6b7-95b3-4627-82f0-9cca783697a9"
+    },
+    {
+      "word": "Maladroit",
+      "id": "7de073b6-07cf-410c-9687-3959b3b3246e"
+    },
+    {
+      "word": "Pallid",
+      "id": "36808297-fdba-4f03-b62d-481221a27b70"
+    },
+    {
+      "word": "Presumptuous",
+      "id": "1c533416-6f97-4cba-bce5-a37530100407"
+    },
+    {
+      "word": "Scrupulous",
+      "id": "036b9119-2a4a-411e-a5b0-1fbeb030f655"
+    },
+    {
+      "word": "Unequivocal",
+      "id": "92e7e4a9-dd33-4411-8e06-a4ba68adfc1c"
+    },
+    {
+      "word": "Animosity",
+      "id": "cefbefbf-e2a0-4534-aa65-403e65d18e0c"
+    },
+    {
+      "word": "Censorious",
+      "id": "c9ed8c7d-89d8-4a6d-868f-02f63ecf9c66"
+    },
+    {
+      "word": "Dichotomy",
+      "id": "0c564a42-bd52-42d3-b5a5-9aeb8cfeab18"
+    },
+    {
+      "word": "Extrapolate",
+      "id": "e68da521-d808-4900-a80b-ffa40766a7d2"
+    },
+    {
+      "word": "Incongruous",
+      "id": "1fbde712-2212-4949-98bd-09855e522da9"
+    },
+    {
+      "word": "Malady",
+      "id": "541a8f68-c6a1-4145-ac9f-615538d3c377"
+    },
+    {
+      "word": "Palpable",
+      "id": "05a86119-39d9-488b-920c-006a55f5d4fe"
+    },
+    {
+      "word": "Pretentious",
+      "id": "06c6559e-75a8-4919-8505-22e2a0b983ea"
+    },
+    {
+      "word": "Scrutinize",
+      "id": "6873183b-6e62-4fe0-9375-5514f67d11a4"
+    },
+    {
+      "word": "Unfetter",
+      "id": "eed262b5-d53e-47f1-8591-35b8dbe7dc6e"
+    },
+    {
+      "word": "Annex ",
+      "id": "1dd40b00-7bdc-440b-99f9-0f9ca9e8a8c6"
+    },
+    {
+      "word": "Censure",
+      "id": "5418882d-eb3c-48c7-bb6b-6b9828e940cf"
+    },
+    {
+      "word": "Didactic",
+      "id": "22af0751-5316-4784-8fdb-0b017a5e2069"
+    },
+    {
+      "word": "Extrinsic",
+      "id": "51521138-526b-4667-96fb-4594b05fa582"
+    },
+    {
+      "word": "Inconsequential",
+      "id": "754beb5d-e191-42b1-8b7a-4499f9c8cb98"
+    },
+    {
+      "word": "Malediction",
+      "id": "846837e8-c333-4a3f-bc0c-58078be72db7"
+    },
+    {
+      "word": "Panacea",
+      "id": "9ceff2a4-cbc5-4d75-be10-70a26296385f"
+    },
+    {
+      "word": "Prevaricate",
+      "id": "84a89435-c54e-4663-ace4-c7bc8399ebd5"
+    },
+    {
+      "word": "Scuttle",
+      "id": "79423256-266d-483a-a435-4a1b7345d3b0"
+    },
+    {
+      "word": "Unfrock",
+      "id": "13afd91b-b028-4921-aabf-e8a8c7b6b8b9"
+    },
+    {
+      "word": "Annex ",
+      "id": "f56a890b-28bc-4ea1-9db9-1e4e0bf9b299"
+    },
+    {
+      "word": "Cerebral",
+      "id": "b0ef51a3-a32f-409e-9d03-eddd5402850e"
+    },
+    {
+      "word": "Diffident",
+      "id": "74904d32-7b7d-44a0-ac3e-5918370cca47"
+    },
+    {
+      "word": "Fallacious",
+      "id": "7a720cc4-488b-4f87-9324-1aede81d58fc"
+    },
+    {
+      "word": "Inconspicuous",
+      "id": "b0da936a-d474-411e-a7f7-1fefc2cfa9d2"
+    },
+    {
+      "word": "Malefactor",
+      "id": "a8b20051-1341-4b49-97b9-3dc142a876d3"
+    },
+    {
+      "word": "Paradigm",
+      "id": "4ae708c9-7592-42ff-b0ee-66f92710ebd3"
+    },
+    {
+      "word": "Pristine",
+      "id": "0eef4644-04ba-4e3a-b149-4798a4642bc1"
+    },
+    {
+      "word": "Seminary",
+      "id": "2c496f05-9d2b-4bfe-ba1e-99c86cf2b4d9"
+    },
+    {
+      "word": "Unprecedented",
+      "id": "b7d1db29-0c05-4439-8bd0-b3129280208f"
+    },
+    {
+      "word": "Anomaly",
+      "id": "6f44711e-a8d9-48aa-9b59-e01b31ea6391"
+    },
+    {
+      "word": "Certitude",
+      "id": "b5d26b49-75b8-4727-a61f-d8b795d17c00"
+    },
+    {
+      "word": "Digress",
+      "id": "c59f18c5-cd6b-4fe0-8425-8fd87fcb297f"
+    },
+    {
+      "word": "Falter",
+      "id": "49a0089c-5de7-425d-9337-f5971c5c87b9"
+    },
+    {
+      "word": "Indelible",
+      "id": "446e2b8b-b2bc-478e-bf11-e43008b5c4b7"
+    },
+    {
+      "word": "Malinger",
+      "id": "08a34590-8abf-4c5d-9e62-365c838748b0"
+    },
+    {
+      "word": "Paradox",
+      "id": "339a3487-fba9-454a-8542-403a3b7ed84d"
+    },
+    {
+      "word": "Proclivity",
+      "id": "6c2af1f0-c2f9-4557-bd84-e4eceaf963fe"
+    },
+    {
+      "word": "Sensuous",
+      "id": "f96ef51b-1619-4022-b049-1f73bd2c4f7b"
+    },
+    {
+      "word": "Unscathed",
+      "id": "683979a3-2975-47e3-911f-d36b5557f800"
+    },
+    {
+      "word": "Antagonism",
+      "id": "37e7db11-982d-4085-9599-22f5598806ba"
+    },
+    {
+      "word": "Charlatan",
+      "id": "eed96808-1d87-4b3a-80a3-ccafebe2512a"
+    },
+    {
+      "word": "Dike",
+      "id": "04505c39-1f1f-4b5e-9277-edf1c8a0e256"
+    },
+    {
+      "word": "Fanatical",
+      "id": "65fc292d-557a-42e4-b207-e6ef0165ddbb"
+    },
+    {
+      "word": "Indifferent",
+      "id": "e504b7e3-a43d-401f-a596-f53336b0b1f0"
+    },
+    {
+      "word": "Malingerer",
+      "id": "20cf13cc-40bb-41ef-913b-3b2bf9620962"
+    },
+    {
+      "word": "Paragon",
+      "id": "28954e38-b267-4050-960c-b391edf690e7"
+    },
+    {
+      "word": "Procrastinate",
+      "id": "f035af04-6003-4fc7-a952-bfed15045b5f"
+    },
+    {
+      "word": "Sentinel",
+      "id": "f44d5487-c025-4523-b701-888530c449f5"
+    },
+    {
+      "word": "Unwitting",
+      "id": "7acae02e-071b-47de-8851-bb9df1060718"
+    },
+    {
+      "word": "Antagonistic",
+      "id": "cbc446ce-91bd-4e2e-b88a-75b092e05a3e"
+    },
+    {
+      "word": "Chary",
+      "id": "4c033a1a-d07c-4710-a881-c34823b17695"
+    },
+    {
+      "word": "Dilatory",
+      "id": "f049210c-db44-4246-a102-6ef35f94496a"
+    },
+    {
+      "word": "Fanaticism",
+      "id": "17f41caf-d822-4825-9001-ab61836d9dc2"
+    },
+    {
+      "word": "Indigenous",
+      "id": "47b3994c-ac9e-4c0a-8d65-d1c11c467ebb"
+    },
+    {
+      "word": "Malleable",
+      "id": "4604d674-eaf6-476f-8107-0cf161179602"
+    },
+    {
+      "word": "Paramount",
+      "id": "f3ec95b6-a42f-4f3b-ad4f-8864fe2e3756"
+    },
+    {
+      "word": "Prodigal",
+      "id": "a7b1f36a-fd58-4e4f-8845-f10e4e5e1f17"
+    },
+    {
+      "word": "Sequester",
+      "id": "c8d1dc26-8ee1-4521-8c48-acb902b4fc10"
+    },
+    {
+      "word": "Upbraid",
+      "id": "fc43840b-1752-4d00-aaaa-07bc24ecafe3"
+    },
+    {
+      "word": "Antediluvian",
+      "id": "89df76d5-8e5c-4f28-b713-856e0624f374"
+    },
+    {
+      "word": "Chastises",
+      "id": "30cd2fca-0f0c-414c-a32b-02e4ee4827fb"
+    },
+    {
+      "word": "Dilemma",
+      "id": "11a99a75-6fcd-4040-8290-8a34ef657970"
+    },
+    {
+      "word": "Fastidious",
+      "id": "676f5165-c81c-46c1-8bd6-8755d5fae13e"
+    },
+    {
+      "word": "Indolence",
+      "id": "2dbcb2a0-4c0b-43ee-8e03-3763c8d7a855"
+    },
+    {
+      "word": "Mallet",
+      "id": "d6ba950b-7452-4c48-a394-c8e9485ba90b"
+    },
+    {
+      "word": "Parasite",
+      "id": "98de0823-307c-4551-a21b-ae3889aa1762"
+    },
+    {
+      "word": "Prodigious",
+      "id": "442db53f-dec7-4151-ab4d-1d6daefcd6f1"
+    },
+    {
+      "word": "Serendipity",
+      "id": "3633f7ed-a5b3-4c4f-b724-39535fbb2460"
+    },
+    {
+      "word": "Uproarious",
+      "id": "5506acd3-4158-4986-8a1c-28e03776f6a5"
+    },
+    {
+      "word": "Anthology",
+      "id": "89774415-6d91-4e66-9f3b-96c6cb235971"
+    },
+    {
+      "word": "Chicanery",
+      "id": "2c73b943-1691-4cb0-aae0-e31453714b8f"
+    },
+    {
+      "word": "Dilettante",
+      "id": "7bba9b7c-8e01-4391-9f7a-f881182eae55"
+    },
+    {
+      "word": "Fatuous",
+      "id": "1df53e6e-a031-4047-934e-34fba78f4282"
+    },
+    {
+      "word": "Inductee",
+      "id": "6b66720e-3792-4382-a416-425f3be2a52d"
+    },
+    {
+      "word": "Manipulatable",
+      "id": "54cfb821-9de9-436c-8af6-ab3b0678b254"
+    },
+    {
+      "word": "Parched",
+      "id": "8814d09c-4627-478e-b4b9-8c340e78218a"
+    },
+    {
+      "word": "Profane",
+      "id": "2082bf78-0c43-4ede-9148-6b1c22f768d5"
+    },
+    {
+      "word": "Serene",
+      "id": "2dac20d5-2d0f-438b-a0e6-bf8fac823000"
+    },
+    {
+      "word": "Upshot",
+      "id": "4e3942c6-8da7-44ef-8fb3-bf42d37978b9"
+    },
+    {
+      "word": "Anthropocentrism",
+      "id": "d5ecfc8f-4d49-441d-b0dc-0dc2e9ccc341"
+    },
+    {
+      "word": "Chimerical",
+      "id": "676d224b-cf5f-4571-9dc8-aebf830f855a"
+    },
+    {
+      "word": "Diligent",
+      "id": "54d2c445-b195-4fa1-8ac2-b41c165ce13a"
+    },
+    {
+      "word": "Feasible",
+      "id": "8dc5247e-b89e-4a55-909b-bfee3766b117"
+    },
+    {
+      "word": "Indulgent",
+      "id": "627e7147-f499-423e-8b00-487a003f9e50"
+    },
+    {
+      "word": "Marred",
+      "id": "80246e61-3124-4ed1-932b-6a7ae7d6bf04"
+    },
+    {
+      "word": "Pariah",
+      "id": "06b6f136-c149-4a6b-976b-630093946608"
+    },
+    {
+      "word": "Profanity",
+      "id": "76d57dca-93b1-4971-a94e-7546f06ad2de"
+    },
+    {
+      "word": "Serrated",
+      "id": "81d16866-6faf-4647-bb8c-d2c2c6efa470"
+    },
+    {
+      "word": "Urbane",
+      "id": "cdbe3f45-caf3-4860-8732-6c3aadfb823e"
+    },
+    {
+      "word": "Antiquated",
+      "id": "16a6cf2d-4451-4787-9823-3e957b0bca75"
+    },
+    {
+      "word": "Choleric",
+      "id": "636ec6d0-8a3e-4b5d-beff-936e483d133a"
+    },
+    {
+      "word": "Diorama",
+      "id": "1564078f-a004-48d5-8d77-b75263185734"
+    },
+    {
+      "word": "Fecund",
+      "id": "655c39cf-f2fe-43da-aa42-19c4fc3a8c6e"
+    },
+    {
+      "word": "Inebriation",
+      "id": "f72b2780-0a42-40ac-acb1-b50972e22597"
+    },
+    {
+      "word": "Marshal",
+      "id": "f5eda4d2-f1fd-48d2-b793-76a2c7239fd4"
+    },
+    {
+      "word": "Parity",
+      "id": "4f92b972-436e-4913-963d-fd9b32a73dd1"
+    },
+    {
+      "word": "Profound",
+      "id": "dc48e2d4-0928-456e-952b-0b74ac8c22fa"
+    },
+    {
+      "word": "Servile",
+      "id": "9811655c-5345-4157-848e-7a5d198e5808"
+    },
+    {
+      "word": "Usurp",
+      "id": "1d31614f-39f4-45d8-a490-965dd29c145f"
+    },
+    {
+      "word": "Apathetic",
+      "id": "4bf58da3-1932-4403-a0fa-a6a3343616fc"
+    },
+    {
+      "word": "Chronicler",
+      "id": "c794c690-f2a5-4029-bd64-2779ed60b504"
+    },
+    {
+      "word": "Dirge",
+      "id": "a920cbb0-40ae-4411-ae68-403d6a2c13f3"
+    },
+    {
+      "word": "Felicitous",
+      "id": "9ecb9cfd-adae-4a49-af1b-a2d699cf6895"
+    },
+    {
+      "word": "Ineffable",
+      "id": "a0c43712-c623-438e-925a-f63d7d3b2209"
+    },
+    {
+      "word": "Marsupial",
+      "id": "c4ff0f9c-66ae-4d03-bc09-34b6844087ef"
+    },
+    {
+      "word": "Parochial",
+      "id": "adf31012-5958-469c-b6d8-30bd9f05aaeb"
+    },
+    {
+      "word": "Profundity",
+      "id": "fc325543-dac4-440d-b3cb-61569eaebf15"
+    },
+    {
+      "word": "Skeptical",
+      "id": "b92dfa2f-eb0a-45db-a470-178c37cbc253"
+    },
+    {
+      "word": "Utilitarian",
+      "id": "897bd5bf-6fe1-433c-9959-c82f8594096e"
+    },
+    {
+      "word": "Apathy",
+      "id": "040cceae-b2cf-46f4-944d-0d7d9cc6b92a"
+    },
+    {
+      "word": "Circuitous",
+      "id": "31526f57-59f5-452a-8407-0ab4668287af"
+    },
+    {
+      "word": "Disapprobation",
+      "id": "4d393540-d25c-46e4-aa62-b9b477ac50a7"
+    },
+    {
+      "word": "Fervor",
+      "id": "771edc5d-64c2-431a-8844-8d9547797919"
+    },
+    {
+      "word": "Inept",
+      "id": "f2f467eb-67e8-4881-8da2-3f434c63fbfd"
+    },
+    {
+      "word": "Martinet",
+      "id": "d4975fba-92b3-41b3-85a0-d78f517dbb8d"
+    },
+    {
+      "word": "Parody",
+      "id": "bc5a1867-fd96-498c-bf17-107b0ab1646f"
+    },
+    {
+      "word": "Proletarian",
+      "id": "077943a6-e16a-422d-b53e-635676d020b0"
+    },
+    {
+      "word": "Skirmish",
+      "id": "cdb36b9c-eb28-4b09-ba31-8cfcff2b5f42"
+    },
+    {
+      "word": "Utopian",
+      "id": "fc59feaa-da77-4fa4-b3f8-70dcba919038"
+    },
+    {
+      "word": "Apocryphal",
+      "id": "1507069b-985d-4dfc-8679-0dab8652d94e"
+    },
+    {
+      "word": "Circumlocution",
+      "id": "03ac1681-c259-4df7-8a51-13248653e9b5"
+    },
+    {
+      "word": "Discern",
+      "id": "36f26d23-0b88-4b4b-a8e1-597f8a014459"
+    },
+    {
+      "word": "Fickle",
+      "id": "da1dd707-92eb-4e3e-a173-4b884f0fdf95"
+    },
+    {
+      "word": "Inertia",
+      "id": "f837b4a0-a1fd-4120-bc57-8a84f08c913a"
+    },
+    {
+      "word": "Masochist",
+      "id": "4bce87a5-b6c9-48e6-bb1f-9159491ddbd5"
+    },
+    {
+      "word": "Parry",
+      "id": "e9b26b47-8dd5-457b-8994-e6a3425635b5"
+    },
+    {
+      "word": "Prolific",
+      "id": "f4357907-c72d-4a5d-948a-0e560328e7ec"
+    },
+    {
+      "word": "Sluggard",
+      "id": "c26b9666-40dd-4a1b-bd79-772b396c0c39"
+    },
+    {
+      "word": "Vacillate",
+      "id": "03b07686-c9bb-4574-ba22-78c462fca94f"
+    },
+    {
+      "word": "Appease",
+      "id": "b554dd17-cc20-4303-ae6e-b2af2894a74e"
+    },
+    {
+      "word": "Circumscribe",
+      "id": "54f8d270-02a5-4a3a-947e-678fca11517a"
+    },
+    {
+      "word": "Discord",
+      "id": "9a4962ac-ed35-4837-bd20-807e72bc54e8"
+    },
+    {
+      "word": "Finesse",
+      "id": "f8115d42-95a5-4b32-817d-7e0a690c8144"
+    },
+    {
+      "word": "Inevitable",
+      "id": "54879f9f-965a-444d-85b0-13659d7d24f1"
+    },
+    {
+      "word": "Matriarchy",
+      "id": "eca8baf8-691d-4f29-a4fe-f7b16d791a55"
+    },
+    {
+      "word": "Parsimonious",
+      "id": "8f998fed-f585-4de6-98b9-a86b41befa93"
+    },
+    {
+      "word": "Proponents",
+      "id": "7edcd085-afc5-40ae-8193-bef79287fd4a"
+    },
+    {
+      "word": "Smelt",
+      "id": "ed79e0d8-12d0-4f8a-9ff7-5717816a45b3"
+    },
+    {
+      "word": "Vacuous",
+      "id": "63730c00-3c56-4208-bdca-9747fa6eab0f"
+    },
+    {
+      "word": "Apprehensive",
+      "id": "bdf939c5-a07f-4135-a1fd-188f2112af30"
+    },
+    {
+      "word": "Circumspect",
+      "id": "3fc1d9be-a691-4cc3-8999-c13531754bc9"
+    },
+    {
+      "word": "Discordancy",
+      "id": "ef442f41-df47-4d3c-9cbc-c6ad1e980032"
+    },
+    {
+      "word": "Fitful",
+      "id": "7de3e5b7-1a75-4088-aece-65605ce1fe16"
+    },
+    {
+      "word": "Inexorable",
+      "id": "1b1ee390-c41b-4d0e-8313-949e1013afa3"
+    },
+    {
+      "word": "Maverick",
+      "id": "92eba834-659e-47f1-b1d7-f56786cbb3f6"
+    },
+    {
+      "word": "Parsimony",
+      "id": "6c48882f-0eb5-4d13-b3af-63e76ab6fb6a"
+    },
+    {
+      "word": "Prosaic",
+      "id": "f312301f-228d-45d4-a7d1-978514d07c92"
+    },
+    {
+      "word": "Smorgasbord",
+      "id": "67622a21-39bb-4d66-ab0c-b825e398d543"
+    },
+    {
+      "word": "Vagrant",
+      "id": "8b82aec7-05fa-4946-9b43-483ae96db4d9"
+    },
+    {
+      "word": "Arable",
+      "id": "2b3f8171-e3c0-4c06-83c5-371910300313"
+    },
+    {
+      "word": "Circumvent",
+      "id": "8bd90b5b-61cf-4138-92f6-f93648c6652c"
+    },
+    {
+      "word": "Discrepancy",
+      "id": "1f0b3136-2b69-44f1-9e31-bacfabc187c7"
+    },
+    {
+      "word": "Flagrant",
+      "id": "de4ece6b-3b74-480e-849c-7e1fca135859"
+    },
+    {
+      "word": "Inexpedient",
+      "id": "96548d7e-36e8-49e4-b34c-255376a1f963"
+    },
+    {
+      "word": "Meager",
+      "id": "56d9f9ac-8966-4d01-a8dc-a175ec8a4411"
+    },
+    {
+      "word": "Partisan",
+      "id": "973c2fc5-d209-4e25-825c-36bd7d622fa0"
+    },
+    {
+      "word": "Proscribe",
+      "id": "fc65521a-30a6-4706-8a92-f83e6bee24e6"
+    },
+    {
+      "word": "Solace",
+      "id": "8705a1af-e9f4-42fd-82e1-56c5fe4da890"
+    },
+    {
+      "word": "Vapid",
+      "id": "0e04bef9-3cb5-4a02-99a7-9c14a3f4aa57"
+    },
+    {
+      "word": "Arbitrary",
+      "id": "6cd24002-fb6a-4669-9de2-02d31b7ead2b"
+    },
+    {
+      "word": "Clairvoyant",
+      "id": "ed5cdaae-f47e-4e4c-8070-c575aa9ec72d"
+    },
+    {
+      "word": "Discriminate",
+      "id": "d54e948f-9f47-422c-b38f-a48d6d73a5e0"
+    },
+    {
+      "word": "Flamboyant",
+      "id": "7b4a574a-a1a9-46fa-979b-75fd51d015ba"
+    },
+    {
+      "word": "Infallible",
+      "id": "b80db3b5-b484-4f24-ba29-5ced7a0ced6a"
+    },
+    {
+      "word": "Meander",
+      "id": "616f3f6d-ce39-47e1-a770-709d7e79c55e"
+    },
+    {
+      "word": "Pathos",
+      "id": "40909593-92be-4b6a-ac52-4d031a9df651"
+    },
+    {
+      "word": "Prosody",
+      "id": "8bf5ad7f-b050-4990-9960-2e6e6f2069a4"
+    },
+    {
+      "word": "Solicit",
+      "id": "44c0462d-80f5-48f2-9034-6cfe02404627"
+    },
+    {
+      "word": "Variegated",
+      "id": "e44d91f6-2d8c-4684-8313-cddf05f84118"
+    },
+    {
+      "word": "Arcane",
+      "id": "59863d55-2198-43d9-965b-e91819ae4e41"
+    },
+    {
+      "word": "Clamor",
+      "id": "09c9c461-6026-40e3-96cb-3097c460097c"
+    },
+    {
+      "word": "Discursiveness",
+      "id": "60fe959a-ba06-458c-b73c-1f1f3f0e568d"
+    },
+    {
+      "word": "Flaunt",
+      "id": "e4c0689b-5612-4b24-b8bf-26cad626ac02"
+    },
+    {
+      "word": "Infamous",
+      "id": "1c57fc2e-1ef9-4068-83dd-c86f3659afd3"
+    },
+    {
+      "word": "Mellow",
+      "id": "194e6fa1-f17e-4493-a900-93402423d082"
+    },
+    {
+      "word": "Patron",
+      "id": "a0daae3e-32d9-498f-8f17-1b4a2696655a"
+    },
+    {
+      "word": "Prostration",
+      "id": "09f30b19-996c-46fa-9173-96b2cacba5ac"
+    },
+    {
+      "word": "Somnambulist",
+      "id": "6862cf3e-c0bb-4c57-ad68-9c8587c3363e"
+    },
+    {
+      "word": "Vehemence",
+      "id": "90f60d65-09a3-479e-83c6-9b271914429e"
+    },
+    {
+      "word": "Archaic",
+      "id": "f1524042-4dd0-49b2-9ca9-3893dba5f233"
+    },
+    {
+      "word": "Clandestine",
+      "id": "f0c8cbee-1802-40bc-8218-b0d96c6c7aa3"
+    },
+    {
+      "word": "Disdain",
+      "id": "2a487e6f-8539-492d-977a-bfc0ea3d2138"
+    },
+    {
+      "word": "Flippant",
+      "id": "8508fc3c-5671-4061-9729-9e1f15e54ec8"
+    },
+    {
+      "word": "Infer",
+      "id": "d64ed8ac-3c38-418c-888b-127233d2b6c6"
+    },
+    {
+      "word": "Menagerie",
+      "id": "bb004879-5b4d-40c9-b681-4b7a764afff7"
+    },
+    {
+      "word": "Patronize",
+      "id": "3bda4929-154a-41cf-9faa-f86cbca1d57d"
+    },
+    {
+      "word": "Protagonist",
+      "id": "2fcd562b-72bd-4679-af90-302d87a1884e"
+    },
+    {
+      "word": "Soothsayer",
+      "id": "bb73b43e-85fe-440c-8259-b4df86d017cb"
+    },
+    {
+      "word": "Vehement",
+      "id": "795887c2-18d9-4fac-986f-57a6be28e524"
+    }
+]

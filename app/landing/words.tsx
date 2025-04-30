@@ -5,22 +5,21 @@ import styles from './landing.module.css';
 import { useScreenWidth } from '@/hooks/use-screen-width';
 import { useIsMobile } from '@/hooks/use-mobile';
 
-interface words {
+interface Word {
   word: string;
-  definition: string;
-  type: string;
+  id: string;
 }
 
-export default function Words({ words }: { words: words[] }) {
+export default function Words({ words }: { words: Word[] }) {
   const [coords, setCoords] = useState({ x: 0, y: 0});
   const isSmallerScreen = useScreenWidth();
   const isMobile = useIsMobile();
   const wordsRef = useRef<HTMLParagraphElement>(null);
-  const subset = isSmallerScreen ? words.slice(0,275) : words.slice(0,600);
+  const subset = useMemo(() => isSmallerScreen ? words.slice(0,275) : words.slice(0,600), [isSmallerScreen]);
 
   const refs= useMemo(
-    () => Array.from({ length: words.length }).map(() => createRef<HTMLSpanElement>()),
-    []
+    () => Array.from({ length: subset.length }).map(() => createRef<HTMLSpanElement>()),
+    [subset]
   );
 
   function getScale(idx: number) {
@@ -56,25 +55,39 @@ export default function Words({ words }: { words: words[] }) {
       // [2,10,14,22]
       return styles.vertical;
     }
+    return '';
   }, []);
 
   useEffect(() => {
+    let requestAnimationFrameId: number;
     const updateCoords = (e: MouseEvent) => {
-      setCoords({
-        x: e.clientX,
-        y: e.clientY
+      requestAnimationFrameId = window.requestAnimationFrame(() => {
+        setCoords({
+          x: e.clientX,
+          y: e.clientY
+        })
       })
     };
 
+    const resetCoords = () => {
+      setCoords({
+        x: -1000,
+        y: -1000
+      })
+    }
+
     if (wordsRef && wordsRef.current) {
-      wordsRef.current.addEventListener('mousemove', updateCoords);
+      wordsRef.current.addEventListener('mousemove', updateCoords, { passive: true, capture: true });
+      wordsRef.current.addEventListener('mouseleave', resetCoords, { passive: true, capture: true });
     } else {
-      window.addEventListener('mousemove', updateCoords);
+      window.addEventListener('mousemove', updateCoords, { passive: true, capture: true });
     }
 
     return () => {
+      window.cancelAnimationFrame(requestAnimationFrameId);
       if (wordsRef && wordsRef.current) {
         wordsRef.current.removeEventListener('mousemove', updateCoords);
+        wordsRef.current.removeEventListener('mouseleave', resetCoords);
       } else {
         window.removeEventListener('mousemove', updateCoords);
       }
@@ -84,7 +97,7 @@ export default function Words({ words }: { words: words[] }) {
   return (
     <p className={styles.words} ref={wordsRef}>
       {subset.map((item, idx) => (
-        <span key={item.word + idx} className={`${styles.word} ${getMotion(idx)}`} ref={refs[idx]} style={{'scale': getScale(idx)}}>{item.word}</span>
+        <span key={item.id} className={`${styles.word} ${getMotion(idx)}`} ref={refs[idx]} style={{'scale': getScale(idx)}}>{item.word}</span>
       ))}
     </p>
   )
