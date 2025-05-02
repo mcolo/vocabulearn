@@ -27,35 +27,36 @@
 }
 
 .horizontalDelay {
-  transform: translateX(-3px);
+  translate: -3px;
   animation: side-to-side 2000ms ease-in-out alternate infinite;
   animation-delay: 1000ms;
 }
 
 .horizontal {
-  transform: translateX(-3px);
+  translate: -3px;
   animation: side-to-side 2000ms ease-in-out alternate infinite;
 }
 
 .verticalDelay {
-  transform: translateY(-2px);
+  translate: 0 -3px;
   animation: up-and-down 2000ms ease-in-out alternate infinite;
-  animation-delay: 600ms;
+  animation-delay: 500ms;
 }
 
 .vertical {
-  transform: translateY(-2px);
+  translate: 0 -3px;
   animation: up-and-down 2000ms ease-in-out alternate infinite;
+  animation-delay: 1500ms;
 }
 
 @keyframes side-to-side {
-  from { transform: translateX(-3px) }
-  to { transform: translateX(3px)}
+  from { translate: -3px; }
+  to { translate: 3px; }
 }
 
 @keyframes up-and-down {
-  from { transform: translateY(-3px) }
-  to { transform: translateY(3px)}
+  from { translate: 0 -3px; }
+  to { translate: 0 3px; }
 }
 
 @media (prefers-color-scheme: light) {

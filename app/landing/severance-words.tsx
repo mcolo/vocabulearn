@@ -10,12 +10,15 @@ interface Word {
   id: string;
 }
 
-export default function Words({ words }: { words: Word[] }) {
+const SCALE_EFFECT_RADIUS = 250;
+const MAX_SCALE_VALUE = .4;
+
+export default function SeveranceWords({ words }: { words: Word[] }) {
   const [coords, setCoords] = useState({ x: 0, y: 0});
   const isSmallerScreen = useScreenWidth();
   const isMobile = useIsMobile();
   const wordsRef = useRef<HTMLParagraphElement>(null);
-  const subset = useMemo(() => isSmallerScreen ? words.slice(0,275) : words.slice(0,600), [isSmallerScreen]);
+  const subset = useMemo(() => isSmallerScreen ? words.slice(0,250) : words.slice(0, 500), [isSmallerScreen]);
 
   const refs= useMemo(
     () => Array.from({ length: subset.length }).map(() => createRef<HTMLSpanElement>()),
@@ -33,9 +36,9 @@ export default function Words({ words }: { words: Word[] }) {
       const dy = Math.abs(coords.y - y);
     
       const distance = Math.sqrt((dx**2) + (dy**2));
-      if (distance < 250) {
-        const scale = 1 + (((250 - distance)/250) * .4);
-        return scale;
+      if (distance < SCALE_EFFECT_RADIUS) {
+        const scale = 1 + (((SCALE_EFFECT_RADIUS - distance)/SCALE_EFFECT_RADIUS) * MAX_SCALE_VALUE);
+        return scale.toFixed(2);
       }
     }
     return 1;
@@ -58,39 +61,25 @@ export default function Words({ words }: { words: Word[] }) {
     return '';
   }, []);
 
+  
   useEffect(() => {
-    let requestAnimationFrameId: number;
     const updateCoords = (e: MouseEvent) => {
-      requestAnimationFrameId = window.requestAnimationFrame(() => {
-        setCoords({
-          x: e.clientX,
-          y: e.clientY
-        })
+      if (!wordsRef || !wordsRef.current) return;
+      // get height of scroll plus current y on screen to get total page y positioning
+      const totalY = window.scrollY + e.clientY;
+      // get height of words element plus half of scale effect radius
+      const effectZone = wordsRef.current.clientHeight + (SCALE_EFFECT_RADIUS/2);
+      if (totalY > effectZone) return;
+      setCoords({
+        x: e.clientX,
+        y: e.clientY
       })
     };
-
-    const resetCoords = () => {
-      setCoords({
-        x: -1000,
-        y: -1000
-      })
-    }
-
-    if (wordsRef && wordsRef.current) {
-      wordsRef.current.addEventListener('mousemove', updateCoords, { passive: true, capture: true });
-      wordsRef.current.addEventListener('mouseleave', resetCoords, { passive: true, capture: true });
-    } else {
-      window.addEventListener('mousemove', updateCoords, { passive: true, capture: true });
-    }
+  
+    window.addEventListener('mousemove', updateCoords, { passive: true, capture: true });
 
     return () => {
-      window.cancelAnimationFrame(requestAnimationFrameId);
-      if (wordsRef && wordsRef.current) {
-        wordsRef.current.removeEventListener('mousemove', updateCoords);
-        wordsRef.current.removeEventListener('mouseleave', resetCoords);
-      } else {
-        window.removeEventListener('mousemove', updateCoords);
-      }
+      window.removeEventListener('mousemove', updateCoords);
     }
   }, []) 
 

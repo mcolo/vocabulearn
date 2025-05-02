@@ -1,0 +1,2410 @@
+[
+  {
+    "word": "Counterfeit",
+    "id": "15743ca4-a490-41ef-a6cc-43b6780c2606"
+  },
+  {
+    "word": "Enfranchise",
+    "id": "af293957-60d6-4c8d-b707-1db3c68c0e45"
+  },
+  {
+    "word": "Remuneration",
+    "id": "fee52b7f-2363-4694-aeb0-0763238b9e91"
+  },
+  {
+    "word": "Talisman",
+    "id": "54152cc0-3e94-4467-b2c7-5e585eea1b31"
+  },
+  {
+    "word": "Abrasive",
+    "id": "1a6661ab-57a1-4158-b9fb-e752ee6fc835"
+  },
+  {
+    "word": "Engender",
+    "id": "a518ff84-a918-42ad-a33a-6ab205d1d87e"
+  },
+  {
+    "word": "Plagiarism",
+    "id": "083e3f7a-f79e-40fb-9155-81c160611cde"
+  },
+  {
+    "word": "Abasement",
+    "id": "f052726c-1274-4a63-8ebc-a59b56b1b34d"
+  },
+  {
+    "word": "Billowing",
+    "id": "7a5b40e3-e2a8-49cf-be8f-ac165c02c438"
+  },
+  {
+    "word": "Harangue",
+    "id": "088b56a0-1271-467a-b8e2-af177da00527"
+  },
+  {
+    "word": "Labyrinth",
+    "id": "91d5341e-0dbb-47ac-9e18-e835e7a8c745"
+  },
+  {
+    "word": "Plaintiff",
+    "id": "26b90b36-ce80-43b7-bde0-fd429860a7a5"
+  },
+  {
+    "word": "Tangible",
+    "id": "103cb195-d0eb-4fa5-a554-33b9387d2136"
+  },
+  {
+    "word": "Abrogate",
+    "id": "339a8ae1-f613-48b7-b335-0280b3031562"
+  },
+  {
+    "word": "Blasphemy",
+    "id": "b3d3066b-e517-429c-8f5f-b6046232edc0"
+  },
+  {
+    "word": "Credible",
+    "id": "86693bef-b854-401d-a8cc-61a79e969e4d"
+  },
+  {
+    "word": "Harbingers",
+    "id": "bcdf1dc6-6b6d-483b-ad2e-ce5fc4288c96"
+  },
+  {
+    "word": "Labyrinthine",
+    "id": "b4e1f38e-9aaf-47a8-bcfa-a736f502300a"
+  },
+  {
+    "word": "Reprehensible",
+    "id": "328ac866-d1ee-4020-b121-2948c053568c"
+  },
+  {
+    "word": "Absolution",
+    "id": "ec0c607c-1d1a-429d-8b76-87f8441a4210"
+  },
+  {
+    "word": "Creditable",
+    "id": "acd31c1b-054a-4690-82cd-60596fa49688"
+  },
+  {
+    "word": "Ensconce",
+    "id": "e477f17b-2c31-4270-a2e7-d5464726e089"
+  },
+  {
+    "word": "Laceration",
+    "id": "9a6f35d9-18ea-4181-bf3b-959f50577fc7"
+  },
+  {
+    "word": "Obdurate",
+    "id": "06a5d0a4-9deb-4cd7-ab99-7a3fb6dc7cfd"
+  },
+  {
+    "word": "Plausible",
+    "id": "edbd37b8-4664-457a-ad61-e320cfe0aa85"
+  },
+  {
+    "word": "Reprieve",
+    "id": "b7d9c5e5-16d5-4b70-af6f-6fa1c1c8a541"
+  },
+  {
+    "word": "Blighted",
+    "id": "4e2d1b9f-5ba2-4b3f-b5c6-8ce2d5922046"
+  },
+  {
+    "word": "Credulous",
+    "id": "39c54760-9ef9-4be4-9a6b-6837b0c6d3e4"
+  },
+  {
+    "word": "Enshroud",
+    "id": "509eff0d-9fa6-441c-b4bc-b45bde44d467"
+  },
+  {
+    "word": "Haughtiness",
+    "id": "e6c47777-52fb-43a2-9c90-a590ad03cd54"
+  },
+  {
+    "word": "Lachrymose",
+    "id": "baac2bff-3159-418e-a7a7-8becd67e2fff"
+  },
+  {
+    "word": "Obfuscate",
+    "id": "a6841eed-f250-4b1c-8dab-558c0f933bf0"
+  },
+  {
+    "word": "Plethora",
+    "id": "639b64b3-a540-472e-af47-2434afe6475b"
+  },
+  {
+    "word": "Repudiate",
+    "id": "4f897f38-8504-4bb5-8f33-85b291f13de7"
+  },
+  {
+    "word": "Abstemious",
+    "id": "880b069d-0318-4315-a001-6ab0e313d3eb"
+  },
+  {
+    "word": "Crepuscular",
+    "id": "98dcd2a6-3c46-4b32-9d92-7d501d8ccdb1"
+  },
+  {
+    "word": "Enunciation",
+    "id": "444a8e37-eee3-4bca-9098-e413f5c074fc"
+  },
+  {
+    "word": "Headstrong",
+    "id": "147dddcc-8fe4-4eb5-a476-7cd972fade85"
+  },
+  {
+    "word": "Lackluster",
+    "id": "d0b30180-2e5e-4441-9cbc-94004fe8ee1a"
+  },
+  {
+    "word": "Objective",
+    "id": "76a1a7cd-2f0e-401d-93f3-31a3ee6d0232"
+  },
+  {
+    "word": "Abstruse",
+    "id": "4e495b6c-0828-4b24-b82b-a55f3a2f18fb"
+  },
+  {
+    "word": "Blunderbuss",
+    "id": "db7819c4-d1dd-47b5-9319-c152eaef4c34"
+  },
+  {
+    "word": "Hedonism",
+    "id": "686ae5cc-ca74-4c63-bd11-faf77b53444d"
+  },
+  {
+    "word": "Resignation",
+    "id": "62a19f41-7d47-4ae8-bbcc-4684c0dc895c"
+  },
+  {
+    "word": "Tenacious",
+    "id": "1a3af96b-0385-47b4-8662-b77ddaee2777"
+  },
+  {
+    "word": "Accolade",
+    "id": "3deeb6f1-2e13-4e7d-be1a-7cdf787f8c99"
+  },
+  {
+    "word": "Ephemeral",
+    "id": "508a299e-acbc-4e34-8daf-a5f8bc671bff"
+  },
+  {
+    "word": "Hedonist",
+    "id": "3615fd34-75d5-465c-9421-7b1fdbf1746a"
+  },
+  {
+    "word": "Lamentation",
+    "id": "44f4f99b-7151-4e32-83eb-9dfe8c50de95"
+  },
+  {
+    "word": "Obliterate",
+    "id": "8f5160db-5817-47cf-8875-7e38025ce2f7"
+  },
+  {
+    "word": "Resolution",
+    "id": "440f2552-a40c-4495-baf4-23208eae97a5"
+  },
+  {
+    "word": "Tentative",
+    "id": "3921c230-301d-4aee-ab93-225a7bc64377"
+  },
+  {
+    "word": "Acquiesce",
+    "id": "4cb75833-7b7b-41ef-a910-c3853552bb17"
+  },
+  {
+    "word": "Oblivious",
+    "id": "fcd2f2ea-4e4c-4c2a-b5dd-22a352121a6b"
+  },
+  {
+    "word": "Resonant",
+    "id": "b9ac50d3-2abf-4b86-af43-fefab3abe95c"
+  },
+  {
+    "word": "Poignant",
+    "id": "8e388373-9fda-4b90-bd42-e8b5b8cb6ba8"
+  },
+  {
+    "word": "Acrophobia",
+    "id": "5d45cb0d-184a-416c-9dd1-e52fcd99b93b"
+  },
+  {
+    "word": "Bourgeois",
+    "id": "3378acd3-9ae2-4cbc-862e-2a150ffb8ace"
+  },
+  {
+    "word": "Debility",
+    "id": "7782984e-1dce-4132-bca7-bf562d5f2f1e"
+  },
+  {
+    "word": "Epistolary",
+    "id": "d6e6fed3-e681-474c-b899-eaf1d9c9216c"
+  },
+  {
+    "word": "Obscured",
+    "id": "2149c196-5003-4582-8fbc-94045fd0eb84"
+  },
+  {
+    "word": "Resplendent",
+    "id": "c0c96333-b456-44c0-8ae7-014b75b58eca"
+  },
+  {
+    "word": "Therapeutic",
+    "id": "82245244-3248-4c8b-8d48-84af78296e69"
+  },
+  {
+    "word": "Braggart",
+    "id": "4a93ba95-1b4c-4454-9432-7acc14d44809"
+  },
+  {
+    "word": "Debunking",
+    "id": "e834d07d-cfe0-4607-8394-9d57e9af40dc"
+  },
+  {
+    "word": "Epitomized",
+    "id": "ac4cf23a-b638-4279-ade0-558088a1b729"
+  },
+  {
+    "word": "Hidebound",
+    "id": "dd62752a-23f2-4d3b-8e16-9c3ac5f1b521"
+  },
+  {
+    "word": "Languish",
+    "id": "785f36cb-a3de-4e9f-990c-c7813c5436ec"
+  },
+  {
+    "word": "Obsequious",
+    "id": "f075af92-ddc6-4969-a4ad-7a923398209f"
+  },
+  {
+    "word": "Polemical",
+    "id": "25dda270-80b7-4b96-bc77-0865e312279b"
+  },
+  {
+    "word": "Restorative",
+    "id": "727eb559-baed-44af-8754-491a7ce85505"
+  },
+  {
+    "word": "Decathlon",
+    "id": "6da4b7de-3a3a-463f-ba5d-2399db1a40a6"
+  },
+  {
+    "word": "Equivocate",
+    "id": "790044e8-2534-47cd-959d-84b053c13fb0"
+  },
+  {
+    "word": "Hieroglyphics",
+    "id": "394f562c-b24c-427a-b4ac-533ebbfa92bd"
+  },
+  {
+    "word": "Obsession",
+    "id": "12a7c4d4-1607-45e6-820d-c743e97aedf2"
+  },
+  {
+    "word": "Ponderous",
+    "id": "315470b5-4bc9-45c7-8001-13aea2b1f516"
+  },
+  {
+    "word": "Retention",
+    "id": "0c2d9e7e-ee54-43c1-a35d-283a13674eb4"
+  },
+  {
+    "word": "Timorous",
+    "id": "a5119753-f5c4-4891-84e5-050ed5e1c335"
+  },
+  {
+    "word": "Obsolete",
+    "id": "48596004-fa2c-4e5d-8656-40c4cd1d37ff"
+  },
+  {
+    "word": "Pontificate",
+    "id": "63c747c7-7d77-4419-abc9-479e0fd148c8"
+  },
+  {
+    "word": "Reticent",
+    "id": "661f9196-9f85-4e5e-b742-254c76353b23"
+  },
+  {
+    "word": "Adulation",
+    "id": "8a641300-5976-479f-8bd1-dbe51e5d76f0"
+  },
+  {
+    "word": "Histrionic",
+    "id": "35353fdb-7018-4b58-8382-f69b04520814"
+  },
+  {
+    "word": "Obstreperous",
+    "id": "4aa75006-c5ed-40af-a2dc-5275f082b1cf"
+  },
+  {
+    "word": "Retraction",
+    "id": "ee507bef-1123-45f1-a8b0-9b38e613499c"
+  },
+  {
+    "word": "Adversity",
+    "id": "4e6cee0a-167f-44dd-9ebc-99d220ec252a"
+  },
+  {
+    "word": "Deference",
+    "id": "90df08d3-6c84-45f8-a0ed-e20c7d997ed4"
+  },
+  {
+    "word": "Esoteric",
+    "id": "207c9b2a-298b-43e0-acdd-4735d5e40dc4"
+  },
+  {
+    "word": "Advocate",
+    "id": "8bb46c14-a3c0-4791-83c1-a06e1d833fb3"
+  },
+  {
+    "word": "Defoliate",
+    "id": "8990a4b0-6ef6-4d07-8ef3-9bd21ac7aebf"
+  },
+  {
+    "word": "Aesthetic",
+    "id": "9be61ecc-c713-48be-b73e-fb0084c83391"
+  },
+  {
+    "word": "Etymology",
+    "id": "977d9538-9c04-4c43-9c0c-6579a44dad68"
+  },
+  {
+    "word": "Hyperbole",
+    "id": "2f318edf-2a36-4371-84cb-67814ca037c4"
+  },
+  {
+    "word": "Posterity",
+    "id": "8681ea8a-2ac8-43e9-af6f-631cbbce63e9"
+  },
+  {
+    "word": "Bureaucracy",
+    "id": "3f2c8ac6-e52a-4e9a-957b-cbe967407c70"
+  },
+  {
+    "word": "Degradation",
+    "id": "e282b0c6-78f8-4129-8cce-0f4a52131467"
+  },
+  {
+    "word": "Hypochondriac",
+    "id": "9d1dd5e5-9c3b-476e-80a2-5c5f93192184"
+  },
+  {
+    "word": "Officious",
+    "id": "e0bc9c8a-0698-4189-974d-2b88d81655ef"
+  },
+  {
+    "word": "Posthumous",
+    "id": "0c6f0590-f962-4d22-a9ea-8239298a19d3"
+  },
+  {
+    "word": "Alacrity",
+    "id": "1b341eea-8c0c-4683-8446-223967ec90de"
+  },
+  {
+    "word": "Deleterious",
+    "id": "c27e8e8c-0a6c-484c-a073-faf469a1e969"
+  },
+  {
+    "word": "Euphemism",
+    "id": "3885d84e-bad5-4885-b756-5c691148587c"
+  },
+  {
+    "word": "Hypocritical",
+    "id": "087ac17f-7a67-49c4-8295-735e5e654801"
+  },
+  {
+    "word": "Lethargic",
+    "id": "a094451f-dc48-47bb-abe4-8537a324b374"
+  },
+  {
+    "word": "Postulate",
+    "id": "f205cdc5-e1f4-4890-ae03-05a2fd2de3d3"
+  },
+  {
+    "word": "Tractable",
+    "id": "2ac094e4-d8c0-41ed-8990-d17ef231b5c3"
+  },
+  {
+    "word": "Deliberate",
+    "id": "3bce83fb-9186-4db3-84d6-57aa3dbdd355"
+  },
+  {
+    "word": "Iconoclast",
+    "id": "d5b576fd-38e1-485e-a8ab-c4c73dbadd7a"
+  },
+  {
+    "word": "Olfactory",
+    "id": "b03672f3-b0ab-43ea-b177-04dfeb494513"
+  },
+  {
+    "word": "Tranquil",
+    "id": "0012cc31-29c9-4a24-aa4d-b86e4613642b"
+  },
+  {
+    "word": "Buttress",
+    "id": "45a40db0-5a1e-47fa-bbcc-71477fe45757"
+  },
+  {
+    "word": "Delineation",
+    "id": "92a8c6c7-4140-445e-945e-a32c9761ce97"
+  },
+  {
+    "word": "Evacuate",
+    "id": "bbe1fc32-aff9-4c39-8a8b-b7490328244e"
+  },
+  {
+    "word": "Idiosyncrasy",
+    "id": "9241c30b-a94b-425a-8944-8bb0feafea7b"
+  },
+  {
+    "word": "Libertarian",
+    "id": "36ca02da-f00a-46dd-b245-e99d96e7ea13"
+  },
+  {
+    "word": "Ruminate",
+    "id": "de7683d7-750c-4f83-ad9d-3883e4c2f05d"
+  },
+  {
+    "word": "Transcribe",
+    "id": "ae8276b5-3947-43d9-bbc0-a7c920ed20fc"
+  },
+  {
+    "word": "Exacerbate",
+    "id": "37c44f52-186d-484a-88db-790cc7ba052c"
+  },
+  {
+    "word": "Ignominious",
+    "id": "59fbf32b-65fd-4251-8410-d0cac32d7500"
+  },
+  {
+    "word": "Liniment",
+    "id": "8b93d31f-740e-44b5-86df-72c34aa851bf"
+  },
+  {
+    "word": "Omnipotent",
+    "id": "0ab171a4-9523-4e15-a339-e491ea13bc81"
+  },
+  {
+    "word": "Pragmatic",
+    "id": "8bf84a01-6753-401d-8d62-e9835c0ddaff"
+  },
+  {
+    "word": "Transgress",
+    "id": "50491455-15a1-4fb9-900f-836c2fd09bdf"
+  },
+  {
+    "word": "Alleviate",
+    "id": "b5ef5fb3-b6f0-4944-b5d5-adce690f8a4f"
+  },
+  {
+    "word": "Cacophony",
+    "id": "db5950b1-372b-481a-b7c0-e77625a46dca"
+  },
+  {
+    "word": "Denounce",
+    "id": "c80604c5-6f7a-4e29-bc59-b825ed652914"
+  },
+  {
+    "word": "Exasperated",
+    "id": "cd095b7e-4997-4451-a486-07358b869c63"
+  },
+  {
+    "word": "Ignominy",
+    "id": "37589726-3e1d-43db-ba69-17e2dafc8ed1"
+  },
+  {
+    "word": "Omniscient",
+    "id": "bd8f2fc5-2776-408e-b116-1d6c5b151c6e"
+  },
+  {
+    "word": "Pragmatist",
+    "id": "4478f219-2ec7-459a-a930-78dbf8fab600"
+  },
+  {
+    "word": "Saccharin",
+    "id": "700681aa-4408-4079-b5fc-910bc910537d"
+  },
+  {
+    "word": "Transient",
+    "id": "17ca84b9-684e-4016-96a6-14a585274049"
+  },
+  {
+    "word": "Exceptionable",
+    "id": "f6beee8d-5836-4a4b-9aa8-e463b5bf58ae"
+  },
+  {
+    "word": "Illuminate",
+    "id": "8b66297f-b89e-4546-94d6-4bfe5af1678f"
+  },
+  {
+    "word": "Preamble",
+    "id": "6d4a5b8a-a524-41bd-aff8-a75084aaecd9"
+  },
+  {
+    "word": "Sacrosanct",
+    "id": "523b7719-4392-4e61-aea8-044f44bc7be5"
+  },
+  {
+    "word": "Traverse",
+    "id": "db69d47f-3b4a-4c11-abc4-e84fc6616c34"
+  },
+  {
+    "word": "Altruism",
+    "id": "186cbae0-3382-4ed4-9f3d-242011fe1e54"
+  },
+  {
+    "word": "Exculpate",
+    "id": "0b2bcffd-2ddc-49d3-854a-920f4f22aeb1"
+  },
+  {
+    "word": "Illusory",
+    "id": "672f8310-0c9a-447a-aeed-f19c31de785b"
+  },
+  {
+    "word": "Lobbyist",
+    "id": "2cee4187-7bda-448e-92fa-ef769425e38c"
+  },
+  {
+    "word": "Precarious",
+    "id": "0ff4d21b-5a48-41d6-8df4-59ae969031e5"
+  },
+  {
+    "word": "Sagacious",
+    "id": "f78effbe-6283-45f4-b068-a19b2b6f9d9c"
+  },
+  {
+    "word": "Trepidation",
+    "id": "f26e6eb7-e4cc-4b17-9104-66a4047eb0cb"
+  },
+  {
+    "word": "Depravity",
+    "id": "4d75cad3-19bc-47be-b537-b52a97b99031"
+  },
+  {
+    "word": "Execrable",
+    "id": "17d7fe5d-9c62-4543-b805-c8124455a191"
+  },
+  {
+    "word": "Immoderate",
+    "id": "edfb8b56-2eb5-4d7c-87d5-aec249b4266a"
+  },
+  {
+    "word": "Precedent",
+    "id": "330ecc5a-79cd-494a-8f53-a42fd44db7bf"
+  },
+  {
+    "word": "Ambiguity",
+    "id": "eff229e6-f02f-45e0-b120-dd58ea98fd9e"
+  },
+  {
+    "word": "Deprecate",
+    "id": "d8a568d6-64a0-452e-8aef-f734875f1f70"
+  },
+  {
+    "word": "Exegesis",
+    "id": "3e8e957a-084c-4f59-b49f-95563890b526"
+  },
+  {
+    "word": "Immutable",
+    "id": "2d35da96-53e4-414e-8b16-fedd08ff78f0"
+  },
+  {
+    "word": "Longevity",
+    "id": "e8eb54bd-e187-4ce1-845e-2d25b05cf61d"
+  },
+  {
+    "word": "Salacious",
+    "id": "7e6d9812-a6a5-45f2-88ef-2c2adbd2cf0a"
+  },
+  {
+    "word": "Ambiguous",
+    "id": "2eaecb3a-96ee-4fd6-bfda-396a62c37614"
+  },
+  {
+    "word": "Exemplary",
+    "id": "6bfa645d-be13-4a8c-a9da-265570a6632e"
+  },
+  {
+    "word": "Impartial",
+    "id": "9bddbff0-943a-471e-b688-462d219e9c70"
+  },
+  {
+    "word": "Loquacious",
+    "id": "3202b5a2-ad2a-42e2-afb4-1ec22a33114b"
+  },
+  {
+    "word": "Precinct",
+    "id": "61ba020a-9ec7-4efd-9479-a51edbc13e57"
+  },
+  {
+    "word": "Ambivalence",
+    "id": "76309730-166b-4ba8-a604-1c69eb4543ea"
+  },
+  {
+    "word": "Cantankerous",
+    "id": "adb680c6-4ded-4967-8816-5a46fc4f8f63"
+  },
+  {
+    "word": "Derogatory",
+    "id": "cbdafcc4-5a49-4537-823c-7b20d08a8ad2"
+  },
+  {
+    "word": "Exemplify",
+    "id": "275c22ac-e78b-41ae-8465-f0e51a6c09a8"
+  },
+  {
+    "word": "Impecunious",
+    "id": "6708004b-297c-4d54-9162-3315157478bc"
+  },
+  {
+    "word": "Precipice",
+    "id": "d243c686-7811-4f1f-938b-328069fc7336"
+  },
+  {
+    "word": "Salubrious",
+    "id": "ced1a2ff-6984-4a7d-b6cf-ccffea4d0ee8"
+  },
+  {
+    "word": "Ambulatory",
+    "id": "dd2d402a-1703-4b55-8d49-6a2e5e9e82ab"
+  },
+  {
+    "word": "Capacious",
+    "id": "444e5de6-9aff-4acc-80b6-f2b45c3c8a55"
+  },
+  {
+    "word": "Desecrate",
+    "id": "464dbb31-064d-4bf2-8e38-acc6c1a96e56"
+  },
+  {
+    "word": "Exhaustive",
+    "id": "5426298c-6de5-4e77-a2e1-efabe9bbcad7"
+  },
+  {
+    "word": "Ludicrous",
+    "id": "f391dad4-655a-4cdd-ac4d-26c7b0478bb2"
+  },
+  {
+    "word": "Orthodox",
+    "id": "ccae1ffd-060c-42a3-928a-66b7370b5be2"
+  },
+  {
+    "word": "Precipitous",
+    "id": "7a094f70-07cb-49bc-8bbd-398f6b137939"
+  },
+  {
+    "word": "Salutary",
+    "id": "6407d796-0e02-4717-96e4-6ca5f1f5a0c2"
+  },
+  {
+    "word": "Truncate",
+    "id": "db242962-9f6f-4862-8c63-a005c644d35e"
+  },
+  {
+    "word": "Ameliorate",
+    "id": "1a912948-4256-4676-9508-0e3ebd956812"
+  },
+  {
+    "word": "Capitulate",
+    "id": "2b67facc-cebc-4ba9-9998-41ac9d8909e5"
+  },
+  {
+    "word": "Desecration",
+    "id": "a127d985-0b86-4640-9496-a61fa42ea247"
+  },
+  {
+    "word": "Exonerates",
+    "id": "7c823fb4-1782-4b68-a63d-a88d8bb37bff"
+  },
+  {
+    "word": "Impoverished",
+    "id": "e5a76d27-f9f3-4fb8-a6d4-39d79dcadab4"
+  },
+  {
+    "word": "Lukewarm",
+    "id": "ea5cd493-c894-495c-85b3-4902e215b2c1"
+  },
+  {
+    "word": "Preclude",
+    "id": "7f7ab09f-dbe5-4dd6-b8e8-d41a7ba7a04b"
+  },
+  {
+    "word": "Sanctimonious",
+    "id": "07b97da5-75c7-4b8b-b944-00325144e779"
+  },
+  {
+    "word": "Amelioration",
+    "id": "358f4638-f28a-432f-9150-53a14d3dd420"
+  },
+  {
+    "word": "Exorcism",
+    "id": "fa4a4cf7-8a8b-4358-935c-417323d9d8f3"
+  },
+  {
+    "word": "Impromptu",
+    "id": "1fb8d8b5-2d27-4cca-bd75-2da3042fbc85"
+  },
+  {
+    "word": "Ostentatious",
+    "id": "13c3f164-1e36-4d65-bdc3-4cc09518ae49"
+  },
+  {
+    "word": "Precocious",
+    "id": "50a8c175-c80f-4b1f-b19e-cabec3d8e873"
+  },
+  {
+    "word": "Sanction",
+    "id": "155f3122-5387-4737-9eb4-d0d14ff02710"
+  },
+  {
+    "word": "Turpitude",
+    "id": "5a7476a1-b7ad-47c1-b790-a920b8813ebb"
+  },
+  {
+    "word": "Cartographer",
+    "id": "bb4a5e7a-a52a-4ada-9191-6adad84123f4"
+  },
+  {
+    "word": "Despondent",
+    "id": "b810729f-b5ec-4465-b964-2120069001bd"
+  },
+  {
+    "word": "Expatriate",
+    "id": "645ccfba-a533-4261-8f6e-93e5f6d995b6"
+  },
+  {
+    "word": "Inadvertent",
+    "id": "30edb051-4dcb-450f-b5de-cfbcc7dc5692"
+  },
+  {
+    "word": "Luscious",
+    "id": "5192c365-8b32-49e1-9526-748cf317be57"
+  },
+  {
+    "word": "Predecessor",
+    "id": "1e2936ce-9ffa-4a03-93c5-c39ee12e14fa"
+  },
+  {
+    "word": "Sanguinary",
+    "id": "b37f321f-4e2f-4ea8-929d-a861ee35c13f"
+  },
+  {
+    "word": "Castigate",
+    "id": "a2fa61d3-d892-49cd-8418-e5e43ee18ead"
+  },
+  {
+    "word": "Destitution",
+    "id": "9a753a67-211a-4fee-b51b-78c1b80bab64"
+  },
+  {
+    "word": "Expedient",
+    "id": "01919cc1-3d09-4a94-8b36-be557e4cc079"
+  },
+  {
+    "word": "Incantation",
+    "id": "ec7cd829-eaa9-48b5-a1f5-7cbad53ebf37"
+  },
+  {
+    "word": "Predicament",
+    "id": "d5b44658-27d9-44c9-bddf-084878d2c3df"
+  },
+  {
+    "word": "Sanguine",
+    "id": "10d3e37c-d810-40de-b393-2147b35edd57"
+  },
+  {
+    "word": "Ubiquitous",
+    "id": "4cd6b773-32d9-45ad-bb3d-0ca820ad93e5"
+  },
+  {
+    "word": "Amorphous",
+    "id": "a62d02b7-c2cc-45dd-b3d3-6f153f736c8b"
+  },
+  {
+    "word": "Catharsis",
+    "id": "5e7fbb8b-e1b2-405b-9930-cb629812f276"
+  },
+  {
+    "word": "Expedite",
+    "id": "9abed8b7-7629-4e1d-80a6-cbe9c5093a7c"
+  },
+  {
+    "word": "Incarceration",
+    "id": "decdaf40-a11a-481d-9883-25f01b4d7c55"
+  },
+  {
+    "word": "Machinations",
+    "id": "ebf139f2-4495-46a1-b14a-c97e0961a7ed"
+  },
+  {
+    "word": "Overwrought",
+    "id": "b5bef6eb-a9f9-48c1-b017-89cb4b012557"
+  },
+  {
+    "word": "Preeminent",
+    "id": "78fcce38-f23a-4d78-91c0-64ec902e422e"
+  },
+  {
+    "word": "Sardonic",
+    "id": "5442f644-1b98-40e9-8bdb-31f51ff6e291"
+  },
+  {
+    "word": "Unalloyed",
+    "id": "03817e41-38cf-4c97-8ffe-dcd444e7c03f"
+  },
+  {
+    "word": "Analgesic",
+    "id": "a89dfaae-329f-4330-8347-f106bbbb7888"
+  },
+  {
+    "word": "Deteriorate",
+    "id": "be8c7c23-1249-4b55-9c16-7acd04925e54"
+  },
+  {
+    "word": "Exposition",
+    "id": "8f9fb6a7-2f87-49d1-8c32-6a0ad66bcbe0"
+  },
+  {
+    "word": "Incessant",
+    "id": "1d5a0058-1306-4fb1-bbe3-3f0d4dd3a3c1"
+  },
+  {
+    "word": "Maelstrom",
+    "id": "52ee18a8-92ae-4dc1-b638-f79631983891"
+  },
+  {
+    "word": "Palatable",
+    "id": "2bfe7bac-c4a7-4dca-a2e5-6a008bdb4567"
+  },
+  {
+    "word": "Prerogative",
+    "id": "8db83dc2-e20e-4271-af61-db20fa1fd98f"
+  },
+  {
+    "word": "Unctuous",
+    "id": "b5dd310d-9200-43f5-83d7-75f3bc032f66"
+  },
+  {
+    "word": "Analogous",
+    "id": "28267d47-083a-4087-942e-7614f934fb18"
+  },
+  {
+    "word": "Detrimental",
+    "id": "35233c5b-6a70-4c26-be32-9ffe72733fa2"
+  },
+  {
+    "word": "Incipient",
+    "id": "638862c8-dea2-4f9f-b240-600ea76feefe"
+  },
+  {
+    "word": "Magnanimous",
+    "id": "cc7b8a43-0200-4ba4-ae57-a99ba02b777b"
+  },
+  {
+    "word": "Palisade",
+    "id": "a78e8711-fbf4-4c09-818e-c7c71e51a6d9"
+  },
+  {
+    "word": "Prescient",
+    "id": "30551ae8-add8-4e12-be2f-ba8e64ad9bad"
+  },
+  {
+    "word": "Undermined",
+    "id": "6946c81b-6fee-416b-bf85-b8adcb93eb4a"
+  },
+  {
+    "word": "Cavalcade",
+    "id": "dcc00caf-ec12-44c0-bdeb-45176ccde9be"
+  },
+  {
+    "word": "Devoured",
+    "id": "75aaa8e5-9bf8-41a1-acd7-36052215fc6e"
+  },
+  {
+    "word": "Extradite",
+    "id": "468617c5-be66-402d-915a-3f97786ef9cd"
+  },
+  {
+    "word": "Inclination",
+    "id": "68828edb-54f4-47c9-ae0a-e9f9aa8d3627"
+  },
+  {
+    "word": "Palliative",
+    "id": "a652d269-6205-4015-ab57-d90b8bf19086"
+  },
+  {
+    "word": "Presentiment",
+    "id": "e66af646-838a-4c17-8823-e9c3bfc9796f"
+  },
+  {
+    "word": "Scapegoat",
+    "id": "9d340032-8705-4ee2-b342-6d9ed1909b7a"
+  },
+  {
+    "word": "Underscore",
+    "id": "97af40cb-cda1-4cad-8979-9bf3fc1318aa"
+  },
+  {
+    "word": "Anecdote",
+    "id": "85818569-4ad6-4092-9f48-fd0b43cf8eeb"
+  },
+  {
+    "word": "Celerity",
+    "id": "1bd88426-a4da-4bd4-a330-6e5527f2308a"
+  },
+  {
+    "word": "Dexterous",
+    "id": "f07ca64b-d6d2-4854-b47f-2b5af84bc556"
+  },
+  {
+    "word": "Extraneous",
+    "id": "e7c34711-cf22-47c4-bcf9-ee1b0f18700c"
+  },
+  {
+    "word": "Incoherent",
+    "id": "861cf962-fe54-4fc9-9947-51ab63e041d1"
+  },
+  {
+    "word": "Maladroit",
+    "id": "c66e6d14-fe7d-4882-99f4-79739723d1b3"
+  },
+  {
+    "word": "Presumptuous",
+    "id": "b52771c9-0c3a-4bc5-87f3-baa170799a0a"
+  },
+  {
+    "word": "Scrupulous",
+    "id": "a32b6ae5-953e-4802-8790-2d25a41e0a49"
+  },
+  {
+    "word": "Unequivocal",
+    "id": "2d59b2e6-88cd-4828-ab2a-e9b256985997"
+  },
+  {
+    "word": "Animosity",
+    "id": "c5524d65-6cee-43f4-b595-a3c4b0b7c3b1"
+  },
+  {
+    "word": "Censorious",
+    "id": "14d8c0f7-acc1-408a-bfd2-848d095d51c2"
+  },
+  {
+    "word": "Dichotomy",
+    "id": "a784d6bb-6673-4be9-8da8-f15712d171f2"
+  },
+  {
+    "word": "Extrapolate",
+    "id": "1dfe6890-2691-493e-bca9-f814c34c0ec0"
+  },
+  {
+    "word": "Incongruous",
+    "id": "0bcfedbe-ec17-4b16-adb9-59d4f9c962f0"
+  },
+  {
+    "word": "Palpable",
+    "id": "bc04bc00-c793-4f5d-a6d8-cb1d81d9edda"
+  },
+  {
+    "word": "Pretentious",
+    "id": "ba17510f-79a5-40d7-af9a-9d3061e38207"
+  },
+  {
+    "word": "Scrutinize",
+    "id": "ca0ed6a5-919e-47e4-b348-d88cb7215eb5"
+  },
+  {
+    "word": "Unfetter",
+    "id": "2fc60d09-fb54-43a3-906a-fcd6e8136b04"
+  },
+  {
+    "word": "Didactic",
+    "id": "665f525f-e965-456b-8e83-cdb84dada86b"
+  },
+  {
+    "word": "Extrinsic",
+    "id": "6a042fa7-f244-49fb-bafc-547a537b9804"
+  },
+  {
+    "word": "Inconsequential",
+    "id": "254e3ac1-bbb1-4824-8344-fb20b9cebd33"
+  },
+  {
+    "word": "Malediction",
+    "id": "7b850996-b0a3-4731-96c4-d21a6d672243"
+  },
+  {
+    "word": "Prevaricate",
+    "id": "dcc78c4c-9301-446d-9646-deeede8b8762"
+  },
+  {
+    "word": "Cerebral",
+    "id": "b81a8c16-a202-4a0b-9653-8cd9a4353627"
+  },
+  {
+    "word": "Diffident",
+    "id": "83c2f6bd-2445-4a43-8ea7-ab78530df021"
+  },
+  {
+    "word": "Fallacious",
+    "id": "1a430242-6a34-4dc5-80dd-0e2e284556ec"
+  },
+  {
+    "word": "Inconspicuous",
+    "id": "9f2f4a8e-fcd9-4133-add2-cab4c2a4a959"
+  },
+  {
+    "word": "Malefactor",
+    "id": "4092177b-8f5e-4ab2-a1ef-9e8bf210b03e"
+  },
+  {
+    "word": "Paradigm",
+    "id": "8f5bb734-0441-4568-8f5c-3a1ba463d78b"
+  },
+  {
+    "word": "Pristine",
+    "id": "019b13b8-bca1-4c43-b372-63add7dbe40b"
+  },
+  {
+    "word": "Seminary",
+    "id": "38c96d6d-bc89-47eb-8b3f-0ee0bb6d51ac"
+  },
+  {
+    "word": "Unprecedented",
+    "id": "d85ce667-2152-44f3-a538-d3596789a033"
+  },
+  {
+    "word": "Certitude",
+    "id": "46378b7d-b685-492a-9d90-f9f7ac402a8e"
+  },
+  {
+    "word": "Indelible",
+    "id": "bda4a575-d0c6-4aab-b1f9-092bd088b69e"
+  },
+  {
+    "word": "Malinger",
+    "id": "b253e322-7f93-40cf-8ecf-10177e34245e"
+  },
+  {
+    "word": "Proclivity",
+    "id": "6f024ab9-a60d-453d-ab7f-a79709926fd1"
+  },
+  {
+    "word": "Sensuous",
+    "id": "2494b30f-3de7-4ceb-9efe-4dc7a2f9edcf"
+  },
+  {
+    "word": "Unscathed",
+    "id": "b6ac4b14-e491-465d-8339-2e741b9251de"
+  },
+  {
+    "word": "Antagonism",
+    "id": "16222ff5-3b81-4f07-b4a5-fd87c64c390f"
+  },
+  {
+    "word": "Charlatan",
+    "id": "025e0455-88a9-40d9-b6d0-a4097c742dea"
+  },
+  {
+    "word": "Fanatical",
+    "id": "7ea605b7-efc0-4c61-93dc-b9c68daa4304"
+  },
+  {
+    "word": "Indifferent",
+    "id": "04cd56bc-8cd5-4a9b-8d7b-ef998afdb297"
+  },
+  {
+    "word": "Malingerer",
+    "id": "ef710ea3-cfd8-432f-95a8-4c6d26a29674"
+  },
+  {
+    "word": "Procrastinate",
+    "id": "7e5e37fd-7298-4d0c-a6cb-3e739af92360"
+  },
+  {
+    "word": "Sentinel",
+    "id": "981f8e80-53ca-43bf-9c16-fb5aca37d2a4"
+  },
+  {
+    "word": "Unwitting",
+    "id": "76188f96-9959-4b48-983c-0559bae2e9c3"
+  },
+  {
+    "word": "Antagonistic",
+    "id": "6a4ac7f5-e02c-4ac5-b0fe-bd53d2b13952"
+  },
+  {
+    "word": "Dilatory",
+    "id": "e977ff32-bfe4-4062-b5a4-6570075ef125"
+  },
+  {
+    "word": "Fanaticism",
+    "id": "15d68019-3043-4da3-aa78-b397237f24a9"
+  },
+  {
+    "word": "Indigenous",
+    "id": "8497d91e-d970-4ee8-9651-000e9936f940"
+  },
+  {
+    "word": "Malleable",
+    "id": "77cef81f-5457-4540-8d0a-faac160be3b8"
+  },
+  {
+    "word": "Paramount",
+    "id": "2d0baef3-83ac-4b7a-930d-fe759ed772eb"
+  },
+  {
+    "word": "Prodigal",
+    "id": "8783965c-29ff-45b5-a54c-f4f8135ec105"
+  },
+  {
+    "word": "Sequester",
+    "id": "77e056e4-294a-47b2-beb7-1c65731a7ecb"
+  },
+  {
+    "word": "Antediluvian",
+    "id": "c6ccf199-44ef-46db-8225-715e1158cf5c"
+  },
+  {
+    "word": "Chastises",
+    "id": "84284279-d6c0-463a-b039-9021132bcb36"
+  },
+  {
+    "word": "Fastidious",
+    "id": "df4109f0-e33f-4700-b719-1f07356625a6"
+  },
+  {
+    "word": "Indolence",
+    "id": "b802c518-2ae8-4de1-8086-2dbd72ce334a"
+  },
+  {
+    "word": "Parasite",
+    "id": "9b1a1bae-0ce6-45a8-95fb-e6dd624c4133"
+  },
+  {
+    "word": "Prodigious",
+    "id": "6776ac01-8f48-491c-b1f3-f73ec9df437d"
+  },
+  {
+    "word": "Serendipity",
+    "id": "3efb9f6f-88b7-41fc-aa81-433b0a52281b"
+  },
+  {
+    "word": "Uproarious",
+    "id": "e08368a6-6cb2-4bc6-9c0c-0b5493dfe8a4"
+  },
+  {
+    "word": "Anthology",
+    "id": "d4b06554-cbbd-47aa-a14e-9e960ff4f2f8"
+  },
+  {
+    "word": "Chicanery",
+    "id": "385cc832-f31e-4187-9c61-53a90bed3740"
+  },
+  {
+    "word": "Dilettante",
+    "id": "de167ea8-4c5e-42cd-a464-fd5c24ab3c08"
+  },
+  {
+    "word": "Inductee",
+    "id": "16281baa-db64-401b-a642-405559fb8e2e"
+  },
+  {
+    "word": "Manipulatable",
+    "id": "24277505-25e3-429c-aa6c-3cc7cbae1fc2"
+  },
+  {
+    "word": "Anthropocentrism",
+    "id": "570aef05-7ee0-4c6f-8321-07bca6464d2b"
+  },
+  {
+    "word": "Chimerical",
+    "id": "ecca1998-d68a-4f0f-abc5-87cf92aa29ec"
+  },
+  {
+    "word": "Diligent",
+    "id": "3463a903-d348-47e1-9961-ff92ad928062"
+  },
+  {
+    "word": "Feasible",
+    "id": "0fa35d6a-4382-4bb2-8908-4085c12205a0"
+  },
+  {
+    "word": "Indulgent",
+    "id": "cf60e20a-c173-4cd9-a4c0-ea4cf9300036"
+  },
+  {
+    "word": "Profanity",
+    "id": "011bad56-d001-41c0-a343-f890bf9ddd5c"
+  },
+  {
+    "word": "Serrated",
+    "id": "efc38b68-cd31-439e-a77f-da18847bea1f"
+  },
+  {
+    "word": "Antiquated",
+    "id": "ab695444-f7be-4a6a-9962-f67fbfb6a135"
+  },
+  {
+    "word": "Choleric",
+    "id": "6173efdf-3637-4e3e-a07d-1d57ba376035"
+  },
+  {
+    "word": "Inebriation",
+    "id": "cf9600c0-bc0c-40a9-86c1-d63455b29446"
+  },
+  {
+    "word": "Profound",
+    "id": "6d56fb4f-385f-42aa-be8c-6a1ec5146dfb"
+  },
+  {
+    "word": "Apathetic",
+    "id": "e904c3f5-e5bb-4302-8e0e-3d0667887ce3"
+  },
+  {
+    "word": "Chronicler",
+    "id": "de6783a9-2e11-48b4-90b6-d6f00d837167"
+  },
+  {
+    "word": "Felicitous",
+    "id": "a6fce66c-a3c2-435a-9740-217bcb37de67"
+  },
+  {
+    "word": "Ineffable",
+    "id": "fa9b565e-a6c7-459d-9809-42070bb0f121"
+  },
+  {
+    "word": "Marsupial",
+    "id": "72689f96-ab2e-48f6-b35b-89fa6a012954"
+  },
+  {
+    "word": "Parochial",
+    "id": "1f05136b-0618-4068-8810-74aff15b25e6"
+  },
+  {
+    "word": "Profundity",
+    "id": "8adf9854-e3ac-44d4-ba0b-f5cef11939d2"
+  },
+  {
+    "word": "Skeptical",
+    "id": "35a6cc56-5ab1-4462-95fa-ad02559312c0"
+  },
+  {
+    "word": "Utilitarian",
+    "id": "2da5053f-4fe4-46d8-aa97-50948234e3f8"
+  },
+  {
+    "word": "Circuitous",
+    "id": "8a7693b4-0d7d-44e7-a17b-4b779be2e047"
+  },
+  {
+    "word": "Disapprobation",
+    "id": "e2506158-6d2e-4134-adab-5d0378b0885a"
+  },
+  {
+    "word": "Martinet",
+    "id": "11b9b09d-17ad-4b3c-89d5-884009f4fa25"
+  },
+  {
+    "word": "Proletarian",
+    "id": "9d68e138-6b60-4d94-824f-8e97ebcae356"
+  },
+  {
+    "word": "Skirmish",
+    "id": "fd9ed2d8-c09a-4cff-831a-99fe3dc7536f"
+  },
+  {
+    "word": "Apocryphal",
+    "id": "6e9952a1-4e39-4365-b83e-dc52c03a1940"
+  },
+  {
+    "word": "Circumlocution",
+    "id": "2633adcc-855c-4ae4-9a50-c83e47d063fc"
+  },
+  {
+    "word": "Masochist",
+    "id": "693116f8-942d-45a5-a5d2-6f47601714b3"
+  },
+  {
+    "word": "Prolific",
+    "id": "b2d5ac59-1a9c-443f-8d5f-f1d0c604d4fb"
+  },
+  {
+    "word": "Sluggard",
+    "id": "d597b46b-d168-4d42-b949-87e1d0c98385"
+  },
+  {
+    "word": "Vacillate",
+    "id": "ac81ca73-ce88-4219-845b-b42a11af9768"
+  },
+  {
+    "word": "Circumscribe",
+    "id": "93cabfd3-3d8a-47a4-b485-058bbbb750bd"
+  },
+  {
+    "word": "Inevitable",
+    "id": "a97dc3d5-1309-4b3a-8080-be9c0d9e6a5d"
+  },
+  {
+    "word": "Matriarchy",
+    "id": "db86de7b-aff9-4475-93fc-f7cdf58d376f"
+  },
+  {
+    "word": "Parsimonious",
+    "id": "3b1b2749-adbe-4603-9852-50c4a499995f"
+  },
+  {
+    "word": "Proponents",
+    "id": "38a621f2-9a77-4e19-924e-92628e5d7e34"
+  },
+  {
+    "word": "Apprehensive",
+    "id": "fc44bf32-565a-44b0-ad2d-e3ae14479d3f"
+  },
+  {
+    "word": "Circumspect",
+    "id": "38ced1c3-2b15-46cd-8688-67c743d33867"
+  },
+  {
+    "word": "Discordancy",
+    "id": "74570b3d-fdd6-4d75-b4a6-22f59844e9a7"
+  },
+  {
+    "word": "Inexorable",
+    "id": "339a6dcf-4b3c-4c36-8305-c575c608d0a1"
+  },
+  {
+    "word": "Maverick",
+    "id": "2d0bc205-aa47-43fa-a08d-8bbb5ffa9df3"
+  },
+  {
+    "word": "Parsimony",
+    "id": "70abf295-ab49-40cd-a237-2050bbbc0bf4"
+  },
+  {
+    "word": "Smorgasbord",
+    "id": "a858ed6f-376b-4b2c-9ad7-2a3ee03cc9b8"
+  },
+  {
+    "word": "Circumvent",
+    "id": "1b9ade34-438b-49d5-addb-0757f342aaf3"
+  },
+  {
+    "word": "Discrepancy",
+    "id": "3c82af05-2b46-4286-aec5-4fd32b630fb6"
+  },
+  {
+    "word": "Flagrant",
+    "id": "155cacd1-8612-4600-9bbe-dde519751162"
+  },
+  {
+    "word": "Inexpedient",
+    "id": "21d03052-6c23-4de9-b526-93fa134c449f"
+  },
+  {
+    "word": "Partisan",
+    "id": "62b8eb69-2626-4cb8-a5f0-f99808c534a5"
+  },
+  {
+    "word": "Proscribe",
+    "id": "1797f0e2-0151-41a5-9add-183f610ee724"
+  },
+  {
+    "word": "Arbitrary",
+    "id": "874b5a99-7026-43a4-b917-a631f57bee98"
+  },
+  {
+    "word": "Clairvoyant",
+    "id": "a8e0f9b0-d86b-44f4-b6dd-5eab1f0ebe8f"
+  },
+  {
+    "word": "Discriminate",
+    "id": "12b6c393-e5e5-4938-a370-d98503e4b6c5"
+  },
+  {
+    "word": "Flamboyant",
+    "id": "f245758a-19f5-4ab5-8de8-afd7946dccef"
+  },
+  {
+    "word": "Infallible",
+    "id": "87393359-6a37-47c9-babe-f740f8150b98"
+  },
+  {
+    "word": "Variegated",
+    "id": "d7bcbe72-4ae3-4f91-b33c-c32ddbd849cb"
+  },
+  {
+    "word": "Discursiveness",
+    "id": "365303ce-33bf-4243-a376-04b1a12434b3"
+  },
+  {
+    "word": "Infamous",
+    "id": "1efa489c-4bee-4e24-bfbb-722284273d4e"
+  },
+  {
+    "word": "Prostration",
+    "id": "df81de5a-ce17-491f-833c-c837e8c93168"
+  },
+  {
+    "word": "Somnambulist",
+    "id": "d2211cd2-1cb8-40a0-8e0a-9a07d89a4e11"
+  },
+  {
+    "word": "Vehemence",
+    "id": "bda25dd2-75e2-40d0-b8e8-e633d1783c2a"
+  },
+  {
+    "word": "Clandestine",
+    "id": "4430149e-c91c-40ce-99a8-0464b27073de"
+  },
+  {
+    "word": "Flippant",
+    "id": "12e0b224-1ac2-478c-aee9-88280312b78d"
+  },
+  {
+    "word": "Menagerie",
+    "id": "2250435a-0b07-4f65-839c-636554586616"
+  },
+  {
+    "word": "Patronize",
+    "id": "f5ca3947-4be6-4e15-9b27-223c6e1ee12c"
+  },
+  {
+    "word": "Protagonist",
+    "id": "8fb30c85-9403-4e20-8bed-31ecf31289c1"
+  },
+  {
+    "word": "Soothsayer",
+    "id": "54d952a1-c109-4737-9b6d-7e728736f030"
+  },
+  {
+    "word": "Vehement",
+    "id": "5c7da624-1481-4826-a45f-067a9ba8ca29"
+  },
+  {
+    "word": "Archetype",
+    "id": "a2b7bc21-6767-44a3-90ac-ad9f149f19b3"
+  },
+  {
+    "word": "Clemency",
+    "id": "e14b962b-c5ad-4b5c-a8ce-74ef72055f33"
+  },
+  {
+    "word": "Disinterested",
+    "id": "0a4beec3-2096-4f1d-aee6-43518f21a043"
+  },
+  {
+    "word": "Mendacious",
+    "id": "d931c697-2bce-406f-a4dd-3a3382f091b4"
+  },
+  {
+    "word": "Sophomoric",
+    "id": "fadb9bfb-3ff8-483a-b32e-8e6e6e2b7eb2"
+  },
+  {
+    "word": "Archives",
+    "id": "2b7cf923-c067-458d-a5f3-0041317196c2"
+  },
+  {
+    "word": "Disparage",
+    "id": "a61f4a69-e7c2-4900-8862-a7f395d0e966"
+  },
+  {
+    "word": "Flustered",
+    "id": "fcbec3b2-b9dc-49d2-9243-ee4658656b11"
+  },
+  {
+    "word": "Mercenary",
+    "id": "1656051c-545d-4aa6-9d42-5462176bb7fb"
+  },
+  {
+    "word": "Peccadillo",
+    "id": "870eb2e5-354e-4a7c-bab0-15698fa2d289"
+  },
+  {
+    "word": "Soporific",
+    "id": "c7c3b6d8-91cb-4510-a9aa-1d5151aa18a3"
+  },
+  {
+    "word": "Articulate",
+    "id": "bcf31db7-569c-4bac-af07-f68f775c8dca"
+  },
+  {
+    "word": "Clientele",
+    "id": "a27069a8-cb19-419c-b22a-5283677cc063"
+  },
+  {
+    "word": "Disparity",
+    "id": "f34fa75d-430e-4ebe-953d-a6b94f481f66"
+  },
+  {
+    "word": "Fly-by-night",
+    "id": "ec61e9a0-bcc4-4aec-aacf-14371fc7482f"
+  },
+  {
+    "word": "Inimical",
+    "id": "ea83e59e-25cc-45d4-a808-5d16db473453"
+  },
+  {
+    "word": "Mercurial",
+    "id": "41d54b0c-5f8c-4545-8f42-1316c3f6701f"
+  },
+  {
+    "word": "Protocol",
+    "id": "c1a30b28-a1e9-4eb8-b840-cb6c4d9bc5ad"
+  },
+  {
+    "word": "Venerate",
+    "id": "df5e34fa-aecc-482d-bcee-d904ae9740c7"
+  },
+  {
+    "word": "Artifice",
+    "id": "aed1631b-0c85-4692-8a34-af71585479de"
+  },
+  {
+    "word": "Coalesce",
+    "id": "a3460e5c-d224-48e3-950f-fc77effd56c3"
+  },
+  {
+    "word": "Dispassionate",
+    "id": "26c42e99-e96c-43e4-a432-c4f404e5776a"
+  },
+  {
+    "word": "Forensic",
+    "id": "d917a6b1-aaf6-46e0-8846-28ded9e4e850"
+  },
+  {
+    "word": "Pedestrian",
+    "id": "1dd632e9-ca20-4d5b-b4f8-48496467d691"
+  },
+  {
+    "word": "Provincial",
+    "id": "4357f9c8-9438-4831-add6-42c0b883ee7b"
+  },
+  {
+    "word": "Specious",
+    "id": "9a543ea2-91be-4748-aec5-990a36f64e15"
+  },
+  {
+    "word": "Disseminating",
+    "id": "d850c5b7-9656-46d5-80a2-cda5c6448114"
+  },
+  {
+    "word": "Fortitude",
+    "id": "abc27b70-ff71-4832-9b4f-7e0b9bd147a2"
+  },
+  {
+    "word": "Innocuous",
+    "id": "96f8e56c-8252-44b6-945a-c0445a10e856"
+  },
+  {
+    "word": "Metaphorically",
+    "id": "8a5f4839-b66b-4374-9793-db4b34ce5de7"
+  },
+  {
+    "word": "Peerless",
+    "id": "f253cbbc-a2c6-446b-ae85-4582e2e31ffc"
+  },
+  {
+    "word": "Speckled",
+    "id": "e8dd437c-9cdf-4f1c-a680-48bf6f30ad35"
+  },
+  {
+    "word": "Veracity",
+    "id": "e1e435b0-14bc-432c-8c19-18a0697f06fc"
+  },
+  {
+    "word": "Coercion",
+    "id": "7f0a5e94-509e-4122-9c01-27b96ca7e8ad"
+  },
+  {
+    "word": "Fortuitous",
+    "id": "9d622231-8a8b-42ff-864f-aad04d7708f4"
+  },
+  {
+    "word": "Innovate",
+    "id": "6e1028a8-2b92-4ca2-a632-f54586a603d2"
+  },
+  {
+    "word": "Meticulous",
+    "id": "7e08ae0e-e76e-497b-89bc-85fa8a56206b"
+  },
+  {
+    "word": "Pejorative",
+    "id": "b6fe2da4-f595-46b8-b032-4a4ff51e8db7"
+  },
+  {
+    "word": "Sporadic",
+    "id": "9acd0a58-0910-465b-8a52-14df5909ec17"
+  },
+  {
+    "word": "Assiduous",
+    "id": "8a0dc97a-d1f6-4831-b2c4-7356fcc5524f"
+  },
+  {
+    "word": "Fractious",
+    "id": "335df96d-e8e6-460f-ad35-117a25989348"
+  },
+  {
+    "word": "Inscrutable",
+    "id": "18c07afb-6c27-456b-8ae2-47282217ca47"
+  },
+  {
+    "word": "Pellucid",
+    "id": "177a4d87-b6d4-4dbd-8596-38a70792bd5f"
+  },
+  {
+    "word": "Punctilious",
+    "id": "7288f974-a59f-4358-aade-1b3a44f97a0f"
+  },
+  {
+    "word": "Spurious",
+    "id": "d5595271-04da-46a6-bf0a-320266f3400f"
+  },
+  {
+    "word": "Verbosity",
+    "id": "86e6727e-faf4-4c08-938d-1e06c10f8907"
+  },
+  {
+    "word": "Cogitate",
+    "id": "6bd40dbf-05d8-412a-a44b-629e1e8b59d7"
+  },
+  {
+    "word": "Fraudulent",
+    "id": "b63a87e8-4ca3-4b02-b7aa-33f1305cd21e"
+  },
+  {
+    "word": "Insentient",
+    "id": "f2fc5b26-20ec-422e-bfc6-9aba94ba4bbc"
+  },
+  {
+    "word": "Stagnant",
+    "id": "f697cf7e-7650-45ed-9359-b3ce8cb6af0d"
+  },
+  {
+    "word": "Dogmatic",
+    "id": "03038a44-d10b-4c9e-9bed-c0b247a13aee"
+  },
+  {
+    "word": "Frivolous",
+    "id": "528c9307-5098-4761-a72a-c4b2025cace9"
+  },
+  {
+    "word": "Pusillanimous",
+    "id": "e62c410d-d0be-441c-935a-606ab51fb331"
+  },
+  {
+    "word": "Vestigial",
+    "id": "e1d5d677-c02d-4370-b55d-71d0b2d89f8e"
+  },
+  {
+    "word": "Instigate",
+    "id": "aae34e01-a7f9-40f1-b2c3-000d9c657197"
+  },
+  {
+    "word": "Misanthrope",
+    "id": "231be12e-5984-4f01-80db-b8f500c27606"
+  },
+  {
+    "word": "Perceptive",
+    "id": "6eef8c75-2295-4089-bd48-64eb4ec215a2"
+  },
+  {
+    "word": "Pyromania",
+    "id": "c970015a-846b-40df-b51b-b3e735a84c6d"
+  },
+  {
+    "word": "Vignette",
+    "id": "45cc3d1b-08c6-4586-83be-a8b40af9f842"
+  },
+  {
+    "word": "Colloquial",
+    "id": "4276e32a-27a2-4af1-966f-8aea243ba33e"
+  },
+  {
+    "word": "Instigator",
+    "id": "10cc2e9f-8fd5-4498-b153-140d98df698b"
+  },
+  {
+    "word": "Misnomer",
+    "id": "0dd48c16-60c7-4d93-9849-5c4e182707f5"
+  },
+  {
+    "word": "Percipient",
+    "id": "2451b79f-7c63-4354-9813-5dabbf9b623d"
+  },
+  {
+    "word": "Vilification",
+    "id": "d0ca8521-4194-464b-9f73-eda4f61ced42"
+  },
+  {
+    "word": "Collusion",
+    "id": "3df1816a-314e-4c11-863b-d86ce79d07db"
+  },
+  {
+    "word": "Insurgent",
+    "id": "e05926df-99cf-4bc6-8e61-bf5eed772a8b"
+  },
+  {
+    "word": "Misogynist",
+    "id": "dee01ae7-be8b-4a80-a445-90961355e81f"
+  },
+  {
+    "word": "Perdition",
+    "id": "5a085caa-7c3f-4581-a8c1-9080a63b8308"
+  },
+  {
+    "word": "Quagmire",
+    "id": "23eb2ba5-434c-4877-9990-80a8182b197d"
+  },
+  {
+    "word": "Stereotype",
+    "id": "497bc4f7-244b-4db2-8ad7-4d7e301b73e9"
+  },
+  {
+    "word": "Vindicate",
+    "id": "ea1de410-67d2-41f5-a933-80db31a32824"
+  },
+  {
+    "word": "Attenuate",
+    "id": "e660a97d-4ea8-4194-824b-1ecf7c0c11e7"
+  },
+  {
+    "word": "Commandeer",
+    "id": "688be55a-5ab4-4463-8f97-c2a27c5e2a10"
+  },
+  {
+    "word": "Interminable",
+    "id": "3e191a12-8299-4724-a568-24a087465930"
+  },
+  {
+    "word": "Misrepresentation",
+    "id": "723eb482-bee3-40c4-b62c-7a49f7756287"
+  },
+  {
+    "word": "Peremptory",
+    "id": "601570a4-a460-4081-a686-54975a3c08c6"
+  },
+  {
+    "word": "Stevedore",
+    "id": "9294ba27-5a4c-4f37-a352-299ce38c00c2"
+  },
+  {
+    "word": "Virtuoso",
+    "id": "a40c40df-8395-4ff3-be18-68842f7bedad"
+  },
+  {
+    "word": "Complacent",
+    "id": "9c07825c-85a4-4f6e-9144-c2f0fd25f2e1"
+  },
+  {
+    "word": "Intermittent",
+    "id": "3591341a-be22-4f88-ae5b-480a6e22862b"
+  },
+  {
+    "word": "Mitigate",
+    "id": "b6390f88-2cb0-46bd-8ae1-5d18e363d4fd"
+  },
+  {
+    "word": "Quandary",
+    "id": "91ee94eb-cdc3-4312-ac9c-9ee8aee56248"
+  },
+  {
+    "word": "Virulent",
+    "id": "83a6f09c-b879-477c-a07d-a3bdf1d715f1"
+  },
+  {
+    "word": "Auspicious",
+    "id": "231bc581-b3dd-4cf2-8ce5-411f914286fe"
+  },
+  {
+    "word": "Compliant",
+    "id": "c039e9b5-c021-405c-a073-653aeea874fe"
+  },
+  {
+    "word": "Intransigence",
+    "id": "7e581bf1-f7ee-4480-87c5-8719020f232e"
+  },
+  {
+    "word": "Perfunctory",
+    "id": "3990a7bf-de7b-438f-b97c-b2898f2b8d39"
+  },
+  {
+    "word": "Quarantine",
+    "id": "715e71d4-73fa-427d-a914-ce3b057c4c4b"
+  },
+  {
+    "word": "Concatenate",
+    "id": "bd4222f1-83cf-43ee-8a67-93aa5b06a694"
+  },
+  {
+    "word": "Intransigent",
+    "id": "d5cc1742-1bdf-470d-b331-49fb317528a4"
+  },
+  {
+    "word": "Momentous",
+    "id": "a64e900a-53a9-4dfa-9417-00f4a26ac4a7"
+  },
+  {
+    "word": "Peripatetic",
+    "id": "3cd7b6ca-a45c-4360-b831-4ce7a4d820b2"
+  },
+  {
+    "word": "Vitriolic",
+    "id": "a60e0cb1-6429-44d0-a879-9d5b792f0769"
+  },
+  {
+    "word": "Aversion",
+    "id": "3c42deef-d8fb-4ef4-9c20-d13ea3456560"
+  },
+  {
+    "word": "Concatenation",
+    "id": "eba70f0f-ce1a-45e8-b5f4-d093ec2f1298"
+  },
+  {
+    "word": "Intrepid",
+    "id": "8784fdec-36d9-4af0-b613-c6bd498338fa"
+  },
+  {
+    "word": "Monotonous",
+    "id": "36f6f031-066c-445a-8773-22a3922147c4"
+  },
+  {
+    "word": "Peripheral",
+    "id": "94961ce1-523b-4b6a-8d3b-d7bd9b33a117"
+  },
+  {
+    "word": "Querulous",
+    "id": "b0d2349a-5d4a-4b59-bed2-05ea3dac32e6"
+  },
+  {
+    "word": "Vivacity",
+    "id": "913781a0-4dfb-43e8-b6cc-eaa131f83c39"
+  },
+  {
+    "word": "Conciliate",
+    "id": "0d27963f-53ae-4638-989e-27cee5a3285e"
+  },
+  {
+    "word": "Inveterate",
+    "id": "d3f4dfdd-a4af-499d-b587-501770b62aca"
+  },
+  {
+    "word": "Moratorium",
+    "id": "7e7483d6-24c4-4cfe-b1e1-621896c89820"
+  },
+  {
+    "word": "Stratagem",
+    "id": "e4ae81da-efb2-45c6-bf3d-4746d5be0379"
+  },
+  {
+    "word": "Ebullient",
+    "id": "d892a4fb-4552-4261-96cd-b3bf3f59d586"
+  },
+  {
+    "word": "Garrulous",
+    "id": "f2b11228-41fe-45e9-9417-7578a0d7f3bf"
+  },
+  {
+    "word": "Invidious",
+    "id": "f82dc392-c612-46e0-8591-6f16842ab0cc"
+  },
+  {
+    "word": "Moribund",
+    "id": "225942d5-288f-4bae-b91b-2e8a35ef6818"
+  },
+  {
+    "word": "Pernicious",
+    "id": "21f06a6c-7100-49a5-b797-a972a70a3aa7"
+  },
+  {
+    "word": "Strident",
+    "id": "6d202974-0440-4267-9b95-2a0d53ab981f"
+  },
+  {
+    "word": "Vociferous",
+    "id": "1e1308cd-e223-496f-9bd7-221a544988ce"
+  },
+  {
+    "word": "Banality",
+    "id": "fdb70c60-deb5-4249-ac52-2c5d4c873ba2"
+  },
+  {
+    "word": "Condescend",
+    "id": "216e95ac-0879-4dfb-a769-368bcc9c989b"
+  },
+  {
+    "word": "Eccentric",
+    "id": "cf81ee45-e782-4c39-a47f-9a2889906039"
+  },
+  {
+    "word": "Inviolable",
+    "id": "9c09ccbe-bc66-4ff4-9d69-85baa62e06ef"
+  },
+  {
+    "word": "Persnickety",
+    "id": "f11507ad-3f7b-4c17-8b37-19fb145dd4c2"
+  },
+  {
+    "word": "Ramifications",
+    "id": "edc70b17-ddab-4426-ba8e-35ecded074a3"
+  },
+  {
+    "word": "Stringent",
+    "id": "9593ae11-f468-4282-a326-4c28ad29fd2e"
+  },
+  {
+    "word": "Volatile",
+    "id": "1d61723f-ff21-479c-8e9d-e5cbb7fde645"
+  },
+  {
+    "word": "Eclectic",
+    "id": "23fd68ea-5779-4586-afd0-54c73634caa4"
+  },
+  {
+    "word": "Irascible",
+    "id": "69c78d3c-ab62-4e58-a342-67adb57d8be0"
+  },
+  {
+    "word": "Perpetuated",
+    "id": "1ea98e74-60cd-40e7-9723-1634709fc5ff"
+  },
+  {
+    "word": "Condoning",
+    "id": "70b3f672-e01e-41db-b151-24a98728fcd2"
+  },
+  {
+    "word": "Munificent",
+    "id": "2d4c7070-9242-4597-8f02-30702b7c7b13"
+  },
+  {
+    "word": "Perpetuity",
+    "id": "7431760b-6332-41f2-9a93-b93d7a077731"
+  },
+  {
+    "word": "Stupefying",
+    "id": "31555f9f-63e8-420d-8e95-2f976439ccd8"
+  },
+  {
+    "word": "Voluminous",
+    "id": "c75b3a21-154a-4674-ae37-62a639270180"
+  },
+  {
+    "word": "Conflagration",
+    "id": "485d09ee-fe63-47ad-b32c-4885c1d29288"
+  },
+  {
+    "word": "Germinal",
+    "id": "b1202e08-a0e9-4f3d-b657-02e3dea25f4b"
+  },
+  {
+    "word": "Mutinous",
+    "id": "a10dacad-9881-4165-aa45-4e5a64198ddb"
+  },
+  {
+    "word": "Personable",
+    "id": "f65ebc12-b56b-4b9b-928f-e2e8ba788356"
+  },
+  {
+    "word": "Subpoena",
+    "id": "4ec079cc-c22a-459c-90e7-ff3cf9e56971"
+  },
+  {
+    "word": "Voracious",
+    "id": "06046dec-3bb8-4ec7-9f42-d0ae24fc2919"
+  },
+  {
+    "word": "Befuddle",
+    "id": "444ff166-2c75-4b67-b482-12a67f7c96dc"
+  },
+  {
+    "word": "Confound",
+    "id": "5c705281-1d82-402b-94a7-f1a6cdf73aec"
+  },
+  {
+    "word": "Gibbering",
+    "id": "178d10c9-df46-4ac3-881b-9c89ad8a8b69"
+  },
+  {
+    "word": "Perspicacious",
+    "id": "3537b290-3e4b-4177-833f-e3d00460984c"
+  },
+  {
+    "word": "Substantiate",
+    "id": "0782d2e7-ef27-4cab-b910-eaab8c677f6c"
+  },
+  {
+    "word": "Begrudge",
+    "id": "e532951c-9cf8-4a02-ab2e-970d47b7ee94"
+  },
+  {
+    "word": "Effusive",
+    "id": "0b8fa719-8c79-4b97-a98a-6b5dd40d8017"
+  },
+  {
+    "word": "Irrational",
+    "id": "e8c3e509-a992-423f-b24c-db8f57f678ce"
+  },
+  {
+    "word": "Navigable",
+    "id": "db1badab-dc07-4b56-b61f-7fd844cd07df"
+  },
+  {
+    "word": "Perspicacity",
+    "id": "8edd6a6e-6ca7-4dee-bada-8d475d5cd0c3"
+  },
+  {
+    "word": "Subterfuge",
+    "id": "b1d68cd7-9378-4df2-8371-efbc2d538945"
+  },
+  {
+    "word": "Congenital",
+    "id": "177fc6bb-44d2-420a-a2ec-dcb438ee10ea"
+  },
+  {
+    "word": "Egalitarianism",
+    "id": "7d91a07e-f0e1-4f36-a9d5-e269ce0ff029"
+  },
+  {
+    "word": "Irreproachable",
+    "id": "f94ab6c5-e0ed-4ee5-b991-cc45de348cd0"
+  },
+  {
+    "word": "Nebulous",
+    "id": "e5a14e02-0fd0-460e-8406-e04bfb5a6755"
+  },
+  {
+    "word": "Pertinent",
+    "id": "7321d27f-cce1-4667-9e8e-e130207c1779"
+  },
+  {
+    "word": "Rebuttal",
+    "id": "9fd2e666-6a90-4296-bd99-5ba0ed94bca6"
+  },
+  {
+    "word": "Connoisseur",
+    "id": "29a0aa48-9a68-4184-be33-3585856691b0"
+  },
+  {
+    "word": "Egregious",
+    "id": "4328ba16-3aa8-4215-91b7-75784c6f295a"
+  },
+  {
+    "word": "Irrevocable",
+    "id": "3306ce8b-7600-4065-a76f-a37a97d49ce5"
+  },
+  {
+    "word": "Nefarious",
+    "id": "8ee549b3-edfe-4fd7-9b1b-303916a2ace1"
+  },
+  {
+    "word": "Subversive",
+    "id": "a8700a23-d53f-4307-ba64-dec45296cf33"
+  },
+  {
+    "word": "Beleaguer",
+    "id": "a5841590-6ad8-454a-921b-c56ed78e4f51"
+  },
+  {
+    "word": "Consecrate",
+    "id": "58ca04c4-6a85-4a78-ac41-53d29c1c2df3"
+  },
+  {
+    "word": "Itinerant",
+    "id": "c4dcd5c0-068e-45f5-93d2-c52173a7b6ca"
+  },
+  {
+    "word": "Pervasive",
+    "id": "c50bbf79-9d29-4949-ba2d-9bca10e8a946"
+  },
+  {
+    "word": "Recapitulate",
+    "id": "1d6dbbd9-cda7-4870-b01c-930af9269942"
+  },
+  {
+    "word": "Succinct",
+    "id": "87c1082b-7478-4125-b9be-b06ebc76ac14"
+  },
+  {
+    "word": "Consensus",
+    "id": "d29484a9-8229-4923-a2a2-a259b301dab8"
+  },
+  {
+    "word": "Eloquent",
+    "id": "f0be3f71-3e9b-4061-bbeb-a305950a98eb"
+  },
+  {
+    "word": "Gratuitous",
+    "id": "c30618fe-8f81-4a6e-8d08-1248be38f7c8"
+  },
+  {
+    "word": "Negligence",
+    "id": "dc5d1bd3-c1e1-445f-9f63-28ad55f75949"
+  },
+  {
+    "word": "Receptacle",
+    "id": "ef9e301c-92e9-4084-af4d-76f509bfcf4b"
+  },
+  {
+    "word": "Suffragist",
+    "id": "f101ee53-7f21-4544-a6b9-c5673e93c392"
+  },
+  {
+    "word": "Belittle",
+    "id": "8e649de6-f825-44af-98f6-7c569645fc73"
+  },
+  {
+    "word": "Conspicuous",
+    "id": "838109dd-0d5e-4b95-9f7b-9760bcbb4dff"
+  },
+  {
+    "word": "Elucidate",
+    "id": "07b843a8-0006-4ecb-8483-50add905da72"
+  },
+  {
+    "word": "Neologism",
+    "id": "09df08f6-7a9f-434a-a467-3df299527af1"
+  },
+  {
+    "word": "Petulant",
+    "id": "1bc97c9e-1a7c-4b65-b23b-7cd84c6a4979"
+  },
+  {
+    "word": "Supercilious",
+    "id": "d7016cb7-7103-454f-86c0-400592efe7d3"
+  },
+  {
+    "word": "Bellicose",
+    "id": "4ed15b9b-3081-41f5-8d5c-aac3fa2251ef"
+  },
+  {
+    "word": "Consummate",
+    "id": "05a0d4e8-8775-4fe6-a2e7-0d1ed8707026"
+  },
+  {
+    "word": "Gregarious",
+    "id": "e535efcf-2b1e-4a13-afe2-e091b5e3c189"
+  },
+  {
+    "word": "Jaundiced",
+    "id": "3e2f8f47-711d-4375-b341-8aa558572538"
+  },
+  {
+    "word": "Phenomenon",
+    "id": "4746a770-2a79-405f-8caa-1e94e385c14d"
+  },
+  {
+    "word": "Recuperate",
+    "id": "3ed6789e-5970-403a-ac01-7d49082cc2a9"
+  },
+  {
+    "word": "Superlative",
+    "id": "ea61e290-bbcd-4579-9f25-0846db965429"
+  },
+  {
+    "word": "Belligerent",
+    "id": "1d2bda8a-19e7-4102-a39c-c6ee389e77ae"
+  },
+  {
+    "word": "Contemporary",
+    "id": "53bdcfc7-1ac8-4362-852c-a1c2404e4d1e"
+  },
+  {
+    "word": "Emaciated",
+    "id": "c5aff70d-92e4-4ef0-b965-88120364d1a0"
+  },
+  {
+    "word": "Niggardly",
+    "id": "25f14e48-fcd5-4c26-bbc6-093144697211"
+  },
+  {
+    "word": "Philanthropy",
+    "id": "95e454bf-1cfb-4ca9-907b-bc33199dca24"
+  },
+  {
+    "word": "Red tape",
+    "id": "eb66f8af-eadf-4636-8c56-28d7322f9f7c"
+  },
+  {
+    "word": "Whimsical",
+    "id": "be65721f-a78e-4b60-a5de-33f306ea3290"
+  },
+  {
+    "word": "Contrite",
+    "id": "8ac38f09-3ba5-4139-b415-0007acc3c975"
+  },
+  {
+    "word": "Emancipate",
+    "id": "08b65c78-932a-4bab-b9d3-58564ccda576"
+  },
+  {
+    "word": "Jeopardize",
+    "id": "33891f7f-8466-4089-a361-a7b65b558ee7"
+  },
+  {
+    "word": "Philistine",
+    "id": "893a3531-18f4-4469-8b76-9fbd56d9244e"
+  },
+  {
+    "word": "Redolent",
+    "id": "f00b18c0-5f5c-4c72-a91e-0142bd5f5d23"
+  },
+  {
+    "word": "Surreptitious",
+    "id": "df8cade0-7593-4afa-9c81-76753c7c957f"
+  },
+  {
+    "word": "Benevolent",
+    "id": "a1c8f9d9-0d31-493b-b78f-1113063c89e1"
+  },
+  {
+    "word": "Contrition",
+    "id": "c1bcd725-6fc4-4a51-b2e7-259c2027814e"
+  },
+  {
+    "word": "Embezzle",
+    "id": "62c0df1d-c923-49b2-9c7a-f862ae22cbb1"
+  },
+  {
+    "word": "Jingoistic",
+    "id": "3a54214d-a161-4a00-8e3d-c29e5912eb1f"
+  },
+  {
+    "word": "Nonchalance",
+    "id": "63cb543a-de13-440b-bc93-f2df699bf0b7"
+  },
+  {
+    "word": "Phlegmatic",
+    "id": "e1f4d41e-a4bd-4528-b7c1-16795128d74a"
+  },
+  {
+    "word": "Surreptitiously",
+    "id": "35d8a125-75f3-4a06-98e8-32907557e5d1"
+  },
+  {
+    "word": "Contumacious",
+    "id": "2dc6f4ea-3e2a-4667-bcfa-5ccd4c59de73"
+  },
+  {
+    "word": "Guileless",
+    "id": "70a4fbfd-5c73-49ae-8f11-9310179394b4"
+  },
+  {
+    "word": "Nondescript",
+    "id": "7020533d-6058-452a-a3b5-e63bddc49d25"
+  },
+  {
+    "word": "Redundant",
+    "id": "6f8013a2-cf60-4ff9-8e35-1bbeee827603"
+  },
+  {
+    "word": "Susceptible",
+    "id": "83bc93b7-8cdd-49ce-9b8f-309d87d2a096"
+  },
+  {
+    "word": "Benignity",
+    "id": "0b74e625-ed25-4ca2-8095-add27bfe1649"
+  },
+  {
+    "word": "Contusion",
+    "id": "6bd325d4-60de-42c6-a59b-2c25cf530c0f"
+  },
+  {
+    "word": "Gullibility",
+    "id": "44869e59-15da-4e6f-b8ed-79efd3653f51"
+  },
+  {
+    "word": "Nonentity",
+    "id": "ec557bfc-179b-4475-8133-f9f8459bd662"
+  },
+  {
+    "word": "Pinnacle",
+    "id": "4f69c871-b8f9-4c45-b3d6-f7d8766d583d"
+  },
+  {
+    "word": "Referendum",
+    "id": "0dc2df10-48aa-4474-b98f-5c4f7083a114"
+  },
+  {
+    "word": "Bequeath",
+    "id": "e39638ad-74db-4025-9b0b-7a09da457719"
+  },
+  {
+    "word": "Conundrum",
+    "id": "4de4023b-7841-48b4-b4e2-b01f44c7b45e"
+  },
+  {
+    "word": "Gullible",
+    "id": "a76ae91c-03d4-4725-9ef0-bac8966267f3"
+  },
+  {
+    "word": "Jubilant",
+    "id": "8c7c3f34-5053-40e0-ac05-8b0f86940213"
+  },
+  {
+    "word": "Nostalgia",
+    "id": "5ea84147-e1f8-4187-a91a-632d22f2726e"
+  },
+  {
+    "word": "Sybarite",
+    "id": "b0641826-7611-4c17-ba9d-453cb1844515"
+  },
+  {
+    "word": "Conventional",
+    "id": "2d64e411-c4c0-42f0-8c38-11ee6def9548"
+  },
+  {
+    "word": "Gustatory",
+    "id": "3f732d6b-b7f1-410e-b9e5-f7a6000a67e9"
+  },
+  {
+    "word": "Judicious",
+    "id": "cc911164-1321-429e-a9f7-1a90fc09b932"
+  },
+  {
+    "word": "Notoriety",
+    "id": "3c96b358-4b19-4d46-9600-6f57cdac0fb6"
+  },
+  {
+    "word": "Sycophant",
+    "id": "93786a73-fd6d-4bd0-93b3-5ba9d2366f33"
+  },
+  {
+    "word": "Corpulent",
+    "id": "f6f72aaa-2893-4e35-b089-f231a4e24057"
+  },
+  {
+    "word": "Endurance",
+    "id": "a5193997-e64f-48d2-b966-c1f12d32faf6"
+  },
+  {
+    "word": "Hackneyed",
+    "id": "48f4ef9c-741a-4428-baa4-4cf2ceab5d7d"
+  },
+  {
+    "word": "Jurisprudence",
+    "id": "b160081e-b67e-44ae-9622-3f67bfdc7d38"
+  },
+  {
+    "word": "Relegate",
+    "id": "bf644884-5e79-45f0-b2a6-bbd40fb3836a"
+  },
+  {
+    "word": "Taciturn",
+    "id": "5ae5a1fd-a97f-4c61-a28d-41179c449bac"
+  },
+  {
+    "word": "Corrugated",
+    "id": "945bd617-d6a4-479c-a59a-1c7032838e08"
+  },
+  {
+    "word": "Enduring",
+    "id": "af7fb710-4120-4833-8ec7-ab6d7121b3d6"
+  },
+  {
+    "word": "Hallowed",
+    "id": "392b7467-5d8a-4d2f-b40d-1fe4590eb1f1"
+  },
+  {
+    "word": "Juxtapose",
+    "id": "506b5c3c-2582-4c9f-9d8b-19c087b4d774"
+  }
+]
