@@ -23,40 +23,40 @@
 }
 
 .content {
-  @apply bg-content-color;
+  @apply bg-theme-color border-t-2 border-t-slate-100;
 }
 
 .horizontalDelay {
-  translate: -3px;
+  translate: -6px;
   animation: side-to-side 2000ms ease-in-out alternate infinite;
   animation-delay: 1000ms;
 }
 
 .horizontal {
-  translate: -3px;
+  translate: -6px;
   animation: side-to-side 2000ms ease-in-out alternate infinite;
 }
 
 .verticalDelay {
-  translate: 0 -3px;
+  translate: 0 -6px;
   animation: up-and-down 2000ms ease-in-out alternate infinite;
   animation-delay: 500ms;
 }
 
 .vertical {
-  translate: 0 -3px;
+  translate: 0 -6px;
   animation: up-and-down 2000ms ease-in-out alternate infinite;
   animation-delay: 1500ms;
 }
 
 @keyframes side-to-side {
-  from { translate: -3px; }
-  to { translate: 3px; }
+  from { translate: -6px; }
+  to { translate: 6px; }
 }
 
 @keyframes up-and-down {
-  from { translate: 0 -3px; }
-  to { translate: 0 3px; }
+  from { translate: 0 -6px; }
+  to { translate: 0 6px; }
 }
 
 @media (prefers-color-scheme: light) {
@@ -80,7 +80,7 @@
     @apply fill-gray-950;
   }
   .word-color {
-    @apply text-slate-200;
+    @apply text-slate-100;
   }
 }
 
