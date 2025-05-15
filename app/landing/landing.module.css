@@ -20,6 +20,8 @@
 
 .headline {
   @apply px-4 text-5xl md:px-0 md:text-6xl lg:text-7xl font-black text-center max-w-4xl relative z-10 text-theme-color pointer-events-none;
+  /* paint-order: stroke fill;
+  -webkit-text-stroke: #000 8px; */
 }
 
 .content {
